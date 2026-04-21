@@ -1,0 +1,22 @@
+[feed]
+title = "Reformed Daily"
+description = "Daily readings from Reformed confessions and catechisms"
+link = "https://example.com/feed.xml"
+output = "feed.xml"
+max_items = 10
+
+[state]
+path = "state.json"
+
+[schedule]
+preset = "daily-round-robin"
+hour = 8
+
+[[documents]]
+id = "westminster-shorter-catechism"
+
+[[documents]]
+id = "apostles-creed"
+
+[[documents]]
+id = "heidelberg-catechism"
