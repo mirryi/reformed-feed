@@ -9,6 +9,7 @@ pub struct CanonItem {
     pub article_number: String,
     pub article_title: String,
     pub content: String,
+    #[allow(dead_code)]
     pub content_with_proofs: Option<String>,
     pub proofs: Vec<Proof>,
 }

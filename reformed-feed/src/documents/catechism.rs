@@ -9,6 +9,7 @@ pub struct CatechismItem {
     pub number: String,
     pub question: String,
     pub answer: String,
+    #[allow(dead_code)]
     pub answer_with_proofs: Option<String>,
     pub proofs: Vec<Proof>,
 }

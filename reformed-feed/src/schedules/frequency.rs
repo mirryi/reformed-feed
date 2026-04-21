@@ -1,4 +1,4 @@
-use chrono::{DateTime, Utc};
+use chrono::{DateTime, Timelike, Utc};
 use doc_feed::schedule::Frequency;
 
 /// Emit once per day.
@@ -11,8 +11,10 @@ impl Frequency for Daily {
         match last_emitted {
             None => true,
             Some(last) => {
+                // Emit if current hour is at or past the target hour
+                // and at least 20 hours have passed (prevent double-emit)
                 let hours_since = (now - last).num_hours();
-                hours_since >= 20
+                hours_since >= 20 && now.hour() >= self.hour as u32
             }
         }
     }

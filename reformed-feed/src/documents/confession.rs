@@ -10,6 +10,7 @@ pub struct ConfessionItem {
     pub chapter_title: String,
     pub section_number: String,
     pub content: String,
+    #[allow(dead_code)]
     pub content_with_proofs: Option<String>,
     pub proofs: Vec<Proof>,
 }
