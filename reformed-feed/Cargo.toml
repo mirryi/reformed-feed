@@ -1,0 +1,14 @@
+[package]
+name = "reformed-feed"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+doc-feed = { path = "../doc-feed" }
+anyhow = "1.0"
+chrono = { version = "0.4", features = ["serde"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+serde_yaml = "0.9"
+toml = "0.8"
+rss = "2.0"
