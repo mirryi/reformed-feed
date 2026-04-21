@@ -1,0 +1,6 @@
+[submodule "data/Creeds.json"]
+	path = data/Creeds.json
+	url = https://github.com/NonlinearFruit/Creeds.json.git
+[submodule "data/compendium"]
+	path = data/compendium
+	url = https://github.com/reformed-standards/compendium.git
