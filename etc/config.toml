@@ -35,7 +35,7 @@ compendium = "data/compendium"
 #   "weekly-digest"     — N items spread across the week, sequential
 #                         Parameters: items_per_week (default 5)
 [schedule]
-preset = "daily-round-robin"
+preset = "daily-proportional"
 hour = 4
 
 # ─── Documents ────────────────────────────────────────────────
