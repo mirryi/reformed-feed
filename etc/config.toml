@@ -8,7 +8,7 @@ title = "Reformed Daily"
 # [required] One-line feed description
 description = "Daily readings from Reformed confessions and catechisms"
 # [required] URL where the feed will be hosted
-link = "https://example.com/feed.xml"
+link = "https://raw.githubusercontent.com/mirryi/reformed-feed/refs/heads/daily-proportional/feed.xml"
 # Maximum items kept in the rolling feed (default: 10)
 max_items = 10
 
