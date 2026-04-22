@@ -2,6 +2,7 @@ mod config;
 
 use anyhow::{bail, Context, Result};
 use chrono::Utc;
+use clap::Parser;
 use reformed_feed::feed::document::{Document, IntoFeedEntry};
 use reformed_feed::feed::generate::{self, store_entry, FeedConfig};
 use reformed_feed::feed::schedule::Schedule;
@@ -9,11 +10,18 @@ use reformed_feed::feed::state::{JsonFileStore, PersistedState, StateStore};
 use reformed_creeds::registry::{self, Shape, Source};
 use std::collections::VecDeque;
 use std::fs;
+use std::path::PathBuf;
+
+#[derive(Parser)]
+#[command(about = "RSS feed generator for Reformed confessions and catechisms")]
+struct Cli {
+    /// Path to the TOML config file
+    config: PathBuf,
+}
 
 fn main() -> Result<()> {
-    let config_path = std::env::args()
-        .nth(1)
-        .unwrap_or_else(|| "config.toml".to_string());
+    let cli = Cli::parse();
+    let config_path = cli.config.display().to_string();
     let config = config::Config::load(&config_path)
         .with_context(|| format!("Failed to load config from {}", config_path))?;
 

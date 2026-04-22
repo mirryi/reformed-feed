@@ -12,3 +12,4 @@ serde_json = "1.0"
 serde_yaml = "0.9"
 toml = "0.8"
 rss = "2.0"
+clap = { version = "4.6.1", features = ["derive"] }
