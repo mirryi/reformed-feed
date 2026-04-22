@@ -1,16 +1,12 @@
 mod config;
-mod documents;
-mod parse;
-mod registry;
-mod schedules;
 
 use anyhow::{bail, Context, Result};
 use chrono::Utc;
-use doc_feed::document::{Document, IntoFeedEntry, ParseStrategy};
-use doc_feed::feed::{self, store_entry, FeedConfig};
-use doc_feed::schedule::Schedule;
-use doc_feed::state::{JsonFileStore, PersistedState, StateStore};
-use registry::{Shape, Source};
+use reformed_feed::feed::document::{Document, IntoFeedEntry};
+use reformed_feed::feed::generate::{self, store_entry, FeedConfig};
+use reformed_feed::feed::schedule::Schedule;
+use reformed_feed::feed::state::{JsonFileStore, PersistedState, StateStore};
+use reformed_creeds::registry::{self, Shape, Source};
 use std::collections::VecDeque;
 use std::fs;
 
@@ -50,27 +46,27 @@ fn run(config: &config::Config) -> Result<()> {
 
     match config.schedule.preset.as_str() {
         "daily-sequential" => {
-            let schedule = schedules::presets::daily_sequential(config.schedule.hour.unwrap_or(8));
+            let schedule = reformed_feed::schedules::presets::daily_sequential(config.schedule.hour.unwrap_or(8));
             run_with_schedule(&schedule, config, &doc_id_refs, &all_doc_lengths, &all_items, now)
         }
         "daily-round-robin" => {
-            let schedule = schedules::presets::daily_round_robin(config.schedule.hour.unwrap_or(8));
+            let schedule = reformed_feed::schedules::presets::daily_round_robin(config.schedule.hour.unwrap_or(8));
             run_with_schedule(&schedule, config, &doc_id_refs, &all_doc_lengths, &all_items, now)
         }
         "weighted-daily" => {
             let weights = config.schedule.weights.clone().unwrap_or_default();
             let schedule =
-                schedules::presets::weighted_daily(config.schedule.hour.unwrap_or(8), weights);
+                reformed_feed::schedules::presets::weighted_daily(config.schedule.hour.unwrap_or(8), weights);
             run_with_schedule(&schedule, config, &doc_id_refs, &all_doc_lengths, &all_items, now)
         }
         "frequent" => {
             let schedule =
-                schedules::presets::frequent(config.schedule.interval_hours.unwrap_or(8));
+                reformed_feed::schedules::presets::frequent(config.schedule.interval_hours.unwrap_or(8));
             run_with_schedule(&schedule, config, &doc_id_refs, &all_doc_lengths, &all_items, now)
         }
         "weekly-digest" => {
             let schedule =
-                schedules::presets::weekly_digest(config.schedule.items_per_week.unwrap_or(5));
+                reformed_feed::schedules::presets::weekly_digest(config.schedule.items_per_week.unwrap_or(5));
             run_with_schedule(&schedule, config, &doc_id_refs, &all_doc_lengths, &all_items, now)
         }
         other => bail!("Unknown schedule preset: {}", other),
@@ -124,7 +120,7 @@ fn run_with_schedule<S: Schedule>(
         max_items: config.feed.max_items,
     };
     let items_slice: Vec<_> = persisted.recent_items.iter().cloned().collect();
-    let xml = feed::generate_feed(&items_slice, &feed_config)?;
+    let xml = generate::generate_feed(&items_slice, &feed_config)?;
     fs::write(&config.feed.output, xml)?;
 
     store.save(&persisted)?;
@@ -155,93 +151,47 @@ fn parse_and_collect(
     parse_name: &str,
     data: &[u8],
 ) -> Result<Vec<Box<dyn IntoFeedEntry>>> {
+    use reformed_feed::bridge::parse;
+    use reformed_feed::feed::document::ParseStrategy as _;
+
     let id = reg.id.to_string();
     let title = reg.title.to_string();
 
     match (reg.shape, parse_name) {
         (Shape::Catechism, "by-question") => {
-            let parser = parse::catechism::ByQuestion {
-                doc_id: id,
-                doc_title: title,
-            };
+            let parser = parse::ByQuestion { doc_id: id, doc_title: title };
             let doc = parser.parse(data)?;
-            Ok(doc
-                .items()
-                .into_iter()
-                .map(|i| Box::new(i) as Box<dyn IntoFeedEntry>)
-                .collect())
+            Ok(doc.items().into_iter().map(|i| Box::new(i) as Box<dyn IntoFeedEntry>).collect())
         }
         (Shape::Confession, "by-section") => {
-            let parser = parse::confession::BySection {
-                doc_id: id,
-                doc_title: title,
-            };
+            let parser = parse::BySection { doc_id: id, doc_title: title };
             let doc = parser.parse(data)?;
-            Ok(doc
-                .items()
-                .into_iter()
-                .map(|i| Box::new(i) as Box<dyn IntoFeedEntry>)
-                .collect())
+            Ok(doc.items().into_iter().map(|i| Box::new(i) as Box<dyn IntoFeedEntry>).collect())
         }
         (Shape::Confession, "by-chapter") => {
-            let parser = parse::confession::ByChapter {
-                doc_id: id,
-                doc_title: title,
-            };
+            let parser = parse::ByChapter { doc_id: id, doc_title: title };
             let doc = parser.parse(data)?;
-            Ok(doc
-                .items()
-                .into_iter()
-                .map(|i| Box::new(i) as Box<dyn IntoFeedEntry>)
-                .collect())
+            Ok(doc.items().into_iter().map(|i| Box::new(i) as Box<dyn IntoFeedEntry>).collect())
         }
         (Shape::Canon, "by-article") => {
-            let parser = parse::canon::ByArticle {
-                doc_id: id,
-                doc_title: title,
-            };
+            let parser = parse::CanonByArticle { doc_id: id, doc_title: title };
             let doc = parser.parse(data)?;
-            Ok(doc
-                .items()
-                .into_iter()
-                .map(|i| Box::new(i) as Box<dyn IntoFeedEntry>)
-                .collect())
+            Ok(doc.items().into_iter().map(|i| Box::new(i) as Box<dyn IntoFeedEntry>).collect())
         }
         (Shape::Creed, "whole-document") => {
-            let parser = parse::creed::WholeCreed {
-                doc_id: id,
-                doc_title: title,
-            };
+            let parser = parse::WholeCreed { doc_id: id, doc_title: title };
             let doc = parser.parse(data)?;
-            Ok(doc
-                .items()
-                .into_iter()
-                .map(|i| Box::new(i) as Box<dyn IntoFeedEntry>)
-                .collect())
+            Ok(doc.items().into_iter().map(|i| Box::new(i) as Box<dyn IntoFeedEntry>).collect())
         }
         (Shape::Articles, "by-article") => {
-            let parser = parse::articles::ByArticle {
-                doc_id: id,
-                doc_title: title,
-            };
+            let parser = parse::ArticlesByArticle { doc_id: id, doc_title: title };
             let doc = parser.parse(data)?;
-            Ok(doc
-                .items()
-                .into_iter()
-                .map(|i| Box::new(i) as Box<dyn IntoFeedEntry>)
-                .collect())
+            Ok(doc.items().into_iter().map(|i| Box::new(i) as Box<dyn IntoFeedEntry>).collect())
         }
         (Shape::Theses, "by-thesis") => {
-            let parser = parse::theses::ByThesis {
-                doc_id: id,
-                doc_title: title,
-            };
+            let parser = parse::ByThesis { doc_id: id, doc_title: title };
             let doc = parser.parse(data)?;
-            Ok(doc
-                .items()
-                .into_iter()
-                .map(|i| Box::new(i) as Box<dyn IntoFeedEntry>)
-                .collect())
+            Ok(doc.items().into_iter().map(|i| Box::new(i) as Box<dyn IntoFeedEntry>).collect())
         }
         _ => bail!(
             "Unsupported parse strategy '{}' for shape {:?}",

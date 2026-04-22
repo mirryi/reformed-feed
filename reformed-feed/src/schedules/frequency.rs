@@ -1,5 +1,5 @@
 use chrono::{DateTime, Timelike, Utc};
-use doc_feed::schedule::Frequency;
+use crate::feed::schedule::Frequency;
 
 /// Emit once per day.
 pub struct Daily {

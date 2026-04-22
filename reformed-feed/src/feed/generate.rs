@@ -1,5 +1,5 @@
-use crate::document::IntoFeedEntry;
-use crate::state::StoredFeedEntry;
+use crate::feed::document::IntoFeedEntry;
+use crate::feed::state::StoredFeedEntry;
 use anyhow::Result;
 use rss::{ChannelBuilder, ItemBuilder};
 

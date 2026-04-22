@@ -3,7 +3,7 @@ pub mod ordering;
 pub mod presets;
 
 use chrono::{DateTime, Utc};
-use doc_feed::schedule::{Frequency, ItemOrder, ItemRef, Schedule};
+use crate::feed::schedule::{Frequency, ItemOrder, ItemRef, Schedule};
 use serde::{Deserialize, Serialize};
 
 /// A schedule composed from an ItemOrder and a Frequency.

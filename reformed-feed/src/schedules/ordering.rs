@@ -1,4 +1,4 @@
-use doc_feed::schedule::{ItemOrder, ItemRef};
+use crate::feed::schedule::{ItemOrder, ItemRef};
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 
