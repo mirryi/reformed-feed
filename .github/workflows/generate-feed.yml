@@ -1,0 +1,69 @@
+name: Daily Proportional
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 4 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: daily-proportional
+          submodules: recursive
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            target/
+          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-cargo-
+
+      - name: Run feed generator
+        run: cargo run -p reformed-feed -- etc/config.toml --state state.json > feed.xml 2>stderr.txt
+
+      - name: Commit to daily-proportional
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml state.json
+          git diff --staged --quiet || git commit -m "Generate feed $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push origin daily-proportional
+
+      - name: Reschedule workflow on master
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          NEXT_RUN=$(cat stderr.txt | tr -d '\n')
+          if [ "$NEXT_RUN" = "exhausted" ]; then
+            echo "All items exhausted; not rescheduling."
+            exit 0
+          fi
+          MINUTE=$(date -u -d "$NEXT_RUN" '+%-M')
+          HOUR=$(date -u -d "$NEXT_RUN" '+%-H')
+          DAY=$(date -u -d "$NEXT_RUN" '+%-d')
+          MONTH=$(date -u -d "$NEXT_RUN" '+%-m')
+          CRON="$MINUTE $HOUR $DAY $MONTH *"
+          WORKFLOW_PATH=".github/workflows/generate-feed.yml"
+          FILE_JSON=$(gh api "repos/mirryi/reformed-feed/contents/$WORKFLOW_PATH?ref=master")
+          FILE_SHA=$(echo "$FILE_JSON" | jq -r .sha)
+          echo "$FILE_JSON" | jq -r .content | base64 -d \
+            | sed "s/    - cron: '.*'/    - cron: '$CRON'/" \
+            > /tmp/workflow_updated.yml
+          gh api --method PUT "repos/mirryi/reformed-feed/contents/$WORKFLOW_PATH" \
+            -f message="Reschedule to $NEXT_RUN" \
+            -f "content=$(base64 -w 0 /tmp/workflow_updated.yml)" \
+            -f sha="$FILE_SHA" \
+            -f branch=master
