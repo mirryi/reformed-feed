@@ -321,6 +321,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "reformed-creeds"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "serde",
+ "serde_json",
+ "serde_yaml",
+]
+
+[[package]]
 name = "reformed-feed"
 version = "0.1.0"
 dependencies = [
