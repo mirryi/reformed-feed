@@ -1,0 +1,122 @@
+# Reformed Feed — Example Configuration
+# All fields shown with their defaults unless marked [required].
+
+# ─── Feed Output ──────────────────────────────────────────────
+[feed]
+# [required] Title shown in RSS readers
+title = "Reformed Daily"
+# [required] One-line feed description
+description = "Daily readings from Reformed confessions and catechisms"
+# [required] URL where the feed will be hosted
+link = "https://example.com/feed.xml"
+# Output file path (default: "feed.xml")
+output = "feed.xml"
+# Maximum items kept in the rolling feed (default: 10)
+max_items = 10
+
+# ─── State Persistence ────────────────────────────────────────
+[state]
+# JSON file for schedule state + recent items (default: "state.json")
+path = "state.json"
+
+# ─── Data Source Paths ────────────────────────────────────────
+[sources]
+# Path to Creeds.json git submodule (default: "data/Creeds.json")
+creeds_json = "data/Creeds.json"
+# Path to compendium git submodule (default: "data/compendium")
+compendium = "data/compendium"
+
+# ─── Schedule ─────────────────────────────────────────────────
+# Available presets:
+#   "daily-sequential"  — One item/day, finish each doc before the next
+#                         Parameters: hour (0-23, default 8)
+#   "daily-round-robin" — One item/day, rotating across documents
+#                         Parameters: hour (0-23, default 8)
+#   "weighted-daily"    — One item/day, documents weighted by frequency
+#                         Parameters: hour, weights (map of doc_id → weight)
+#   "frequent"          — One item every N hours, round-robin
+#                         Parameters: interval_hours (default 8)
+#   "weekly-digest"     — N items spread across the week, sequential
+#                         Parameters: items_per_week (default 5)
+[schedule]
+preset = "daily-round-robin"
+hour = 8
+
+# ─── Documents ────────────────────────────────────────────────
+# Each [[documents]] entry references a registered document by id.
+# Optional overrides:
+#   parse — override the default parse strategy
+#   file  — override the file path (absolute or relative)
+
+# --- Catechisms (parse: "by-question") ---
+[[documents]]
+id = "westminster-shorter-catechism"
+
+[[documents]]
+id = "westminster-larger-catechism"
+
+[[documents]]
+id = "heidelberg-catechism"
+
+[[documents]]
+id = "1695-baptist-catechism"
+
+[[documents]]
+id = "puritan-catechism"
+
+# --- Confessions (parse: "by-section" or "by-chapter") ---
+[[documents]]
+id = "westminster-confession"
+# parse = "by-chapter"  # uncomment for whole chapters instead of sections
+
+[[documents]]
+id = "london-baptist-1689"
+
+[[documents]]
+id = "savoy-declaration"
+
+[[documents]]
+id = "canons-of-dort"
+
+[[documents]]
+id = "second-helvetic-confession"
+
+# --- Canons (parse: "by-article") ---
+[[documents]]
+id = "belgic-confession"
+
+[[documents]]
+id = "scots-confession"
+
+[[documents]]
+id = "first-confession-of-basel"
+
+[[documents]]
+id = "waldensian-confession"
+
+[[documents]]
+id = "chicago-statement"
+
+# --- Creeds (parse: "whole-document") ---
+[[documents]]
+id = "apostles-creed"
+
+[[documents]]
+id = "nicene-creed"
+
+[[documents]]
+id = "athanasian-creed"
+
+[[documents]]
+id = "chalcedonian-definition"
+
+[[documents]]
+id = "irenaeus-rule-of-faith"
+
+# --- Articles (parse: "by-article") ---
+[[documents]]
+id = "39-articles"
+
+# --- Theses (parse: "by-thesis") ---
+[[documents]]
+id = "95-theses"
