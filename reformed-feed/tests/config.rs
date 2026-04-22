@@ -7,8 +7,6 @@ use std::collections::HashMap;
 struct Config {
     feed: FeedConfig,
     #[serde(default)]
-    state: StateConfig,
-    #[serde(default)]
     sources: SourcesConfig,
     schedule: ScheduleConfig,
     #[serde(default)]
@@ -20,28 +18,11 @@ struct FeedConfig {
     title: String,
     description: String,
     link: String,
-    #[serde(default = "default_output")]
-    output: String,
     #[serde(default = "default_max_items")]
     max_items: usize,
 }
 
-fn default_output() -> String { "feed.xml".to_string() }
 fn default_max_items() -> usize { 10 }
-
-#[derive(Debug, Deserialize)]
-struct StateConfig {
-    #[serde(default = "default_state_path")]
-    path: String,
-}
-
-fn default_state_path() -> String { "state.json".to_string() }
-
-impl Default for StateConfig {
-    fn default() -> Self {
-        Self { path: default_state_path() }
-    }
-}
 
 #[derive(Debug, Deserialize)]
 struct SourcesConfig {
@@ -84,7 +65,7 @@ fn parse_example_config() {
     assert_eq!(config.feed.title, "Reformed Daily");
     assert_eq!(config.feed.max_items, 10);
     assert_eq!(config.schedule.preset, "daily-round-robin");
-    assert_eq!(config.schedule.hour, Some(8));
+    assert_eq!(config.schedule.hour, Some(4));
     assert_eq!(config.documents.len(), 22);
 }
 
@@ -100,9 +81,7 @@ link = "https://example.com"
 preset = "daily-sequential"
 "#;
     let config: Config = toml::from_str(minimal).unwrap();
-    assert_eq!(config.feed.output, "feed.xml");
     assert_eq!(config.feed.max_items, 10);
-    assert_eq!(config.state.path, "state.json");
     assert_eq!(config.sources.creeds_json, "data/Creeds.json");
     assert_eq!(config.sources.compendium, "data/compendium");
     assert!(config.documents.is_empty());

@@ -10,13 +10,17 @@ use reformed_feed::feed::state::{JsonFileStore, PersistedState, StateStore};
 use reformed_creeds::registry::{self, Shape, Source};
 use std::collections::VecDeque;
 use std::fs;
-use std::path::PathBuf;
+use std::path::{Path, PathBuf};
 
 #[derive(Parser)]
 #[command(about = "RSS feed generator for Reformed confessions and catechisms")]
 struct Cli {
     /// Path to the TOML config file
     config: PathBuf,
+
+    /// Path to the JSON state file
+    #[arg(long, default_value = "state.json")]
+    state: PathBuf,
 }
 
 fn main() -> Result<()> {
@@ -25,10 +29,10 @@ fn main() -> Result<()> {
     let config = config::Config::load(&config_path)
         .with_context(|| format!("Failed to load config from {}", config_path))?;
 
-    run(&config)
+    run(&config, &cli.state)
 }
 
-fn run(config: &config::Config) -> Result<()> {
+fn run(config: &config::Config, state_path: &Path) -> Result<()> {
     let mut all_doc_ids: Vec<String> = Vec::new();
     let mut all_doc_lengths: Vec<usize> = Vec::new();
     let mut all_items: Vec<Vec<Box<dyn IntoFeedEntry>>> = Vec::new();
@@ -54,28 +58,32 @@ fn run(config: &config::Config) -> Result<()> {
 
     match config.schedule.preset.as_str() {
         "daily-sequential" => {
-            let schedule = reformed_feed::schedules::presets::daily_sequential(config.schedule.hour.unwrap_or(8));
-            run_with_schedule(&schedule, config, &doc_id_refs, &all_doc_lengths, &all_items, now)
+            let schedule = reformed_feed::schedules::presets::daily_sequential(config.schedule.hour.unwrap_or(4));
+            run_with_schedule(&schedule, config, state_path, &doc_id_refs, &all_doc_lengths, &all_items, now)
         }
         "daily-round-robin" => {
-            let schedule = reformed_feed::schedules::presets::daily_round_robin(config.schedule.hour.unwrap_or(8));
-            run_with_schedule(&schedule, config, &doc_id_refs, &all_doc_lengths, &all_items, now)
+            let schedule = reformed_feed::schedules::presets::daily_round_robin(config.schedule.hour.unwrap_or(4));
+            run_with_schedule(&schedule, config, state_path, &doc_id_refs, &all_doc_lengths, &all_items, now)
+        }
+        "daily-proportional" => {
+            let schedule = reformed_feed::schedules::presets::daily_proportional(config.schedule.hour.unwrap_or(4));
+            run_with_schedule(&schedule, config, state_path, &doc_id_refs, &all_doc_lengths, &all_items, now)
         }
         "weighted-daily" => {
             let weights = config.schedule.weights.clone().unwrap_or_default();
             let schedule =
-                reformed_feed::schedules::presets::weighted_daily(config.schedule.hour.unwrap_or(8), weights);
-            run_with_schedule(&schedule, config, &doc_id_refs, &all_doc_lengths, &all_items, now)
+                reformed_feed::schedules::presets::weighted_daily(config.schedule.hour.unwrap_or(4), weights);
+            run_with_schedule(&schedule, config, state_path, &doc_id_refs, &all_doc_lengths, &all_items, now)
         }
         "frequent" => {
             let schedule =
                 reformed_feed::schedules::presets::frequent(config.schedule.interval_hours.unwrap_or(8));
-            run_with_schedule(&schedule, config, &doc_id_refs, &all_doc_lengths, &all_items, now)
+            run_with_schedule(&schedule, config, state_path, &doc_id_refs, &all_doc_lengths, &all_items, now)
         }
         "weekly-digest" => {
             let schedule =
                 reformed_feed::schedules::presets::weekly_digest(config.schedule.items_per_week.unwrap_or(5));
-            run_with_schedule(&schedule, config, &doc_id_refs, &all_doc_lengths, &all_items, now)
+            run_with_schedule(&schedule, config, state_path, &doc_id_refs, &all_doc_lengths, &all_items, now)
         }
         other => bail!("Unknown schedule preset: {}", other),
     }
@@ -84,12 +92,13 @@ fn run(config: &config::Config) -> Result<()> {
 fn run_with_schedule<S: Schedule>(
     schedule: &S,
     config: &config::Config,
+    state_path: &Path,
     doc_ids: &[&str],
     doc_lengths: &[usize],
     all_items: &[Vec<Box<dyn IntoFeedEntry>>],
     now: chrono::DateTime<Utc>,
 ) -> Result<()> {
-    let store = JsonFileStore::new(&config.state.path);
+    let store = JsonFileStore::new(state_path);
 
     let mut persisted: PersistedState<S::State> = match store.load()? {
         Some(state) => state,
@@ -115,10 +124,10 @@ fn run_with_schedule<S: Schedule>(
             }
 
             schedule.advance(&mut persisted.schedule_state, &item_ref, now);
-            println!("Emitted: {} #{}", item_ref.doc_id, item_ref.item_index);
+            eprintln!("Emitted: {} #{}", item_ref.doc_id, item_ref.item_index);
         }
     } else {
-        println!("Not yet time to emit.");
+        eprintln!("Not yet time to emit.");
     }
 
     let feed_config = FeedConfig {
@@ -129,7 +138,7 @@ fn run_with_schedule<S: Schedule>(
     };
     let items_slice: Vec<_> = persisted.recent_items.iter().cloned().collect();
     let xml = generate::generate_feed(&items_slice, &feed_config)?;
-    fs::write(&config.feed.output, xml)?;
+    print!("{}", xml);
 
     store.save(&persisted)?;
 

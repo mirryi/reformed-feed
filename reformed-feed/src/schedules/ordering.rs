@@ -115,6 +115,76 @@ impl ItemOrder for RoundRobin {
     }
 }
 
+/// Proportional: documents get turns proportional to their length,
+/// so all documents finish their first pass at roughly the same time.
+pub struct Proportional;
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct ProportionalState {
+    pub doc_ids: Vec<String>,
+    pub doc_lengths: Vec<usize>,
+    pub positions: HashMap<String, usize>,
+    pub accumulated: Vec<f64>,
+    pub turn: usize,
+}
+
+impl ItemOrder for Proportional {
+    type State = ProportionalState;
+
+    fn init_state(&self, doc_ids: &[&str], doc_lengths: &[usize]) -> Self::State {
+        let positions = doc_ids.iter().map(|id| (id.to_string(), 0)).collect();
+        let accumulated = vec![0.0; doc_ids.len()];
+        ProportionalState {
+            doc_ids: doc_ids.iter().map(|s| s.to_string()).collect(),
+            doc_lengths: doc_lengths.to_vec(),
+            positions,
+            accumulated,
+            turn: 0,
+        }
+    }
+
+    fn next(&self, state: &Self::State) -> Option<ItemRef> {
+        if state.doc_ids.is_empty() {
+            return None;
+        }
+        let total_length: usize = state.doc_lengths.iter().sum();
+        if total_length == 0 {
+            return None;
+        }
+
+        let mut best_idx = 0;
+        let mut best_deficit = f64::NEG_INFINITY;
+        for (i, &len) in state.doc_lengths.iter().enumerate() {
+            let expected = (len as f64 / total_length as f64) * (state.turn as f64 + 1.0);
+            let actual = state.accumulated[i];
+            let deficit = expected - actual;
+            if deficit > best_deficit {
+                best_deficit = deficit;
+                best_idx = i;
+            }
+        }
+
+        let doc_id = &state.doc_ids[best_idx];
+        let pos = *state.positions.get(doc_id).unwrap_or(&0);
+        let len = state.doc_lengths[best_idx];
+        let item_index = pos % len;
+        Some(ItemRef {
+            doc_id: doc_id.clone(),
+            item_index,
+        })
+    }
+
+    fn advance(&self, state: &mut Self::State, emitted: &ItemRef) {
+        if let Some(idx) = state.doc_ids.iter().position(|id| id == &emitted.doc_id) {
+            state.accumulated[idx] += 1.0;
+        }
+        if let Some(pos) = state.positions.get_mut(&emitted.doc_id) {
+            *pos += 1;
+        }
+        state.turn += 1;
+    }
+}
+
 /// Weighted: documents get turns proportional to configured weights.
 pub struct Weighted {
     pub weights: HashMap<String, u32>,

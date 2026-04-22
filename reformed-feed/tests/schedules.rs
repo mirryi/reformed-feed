@@ -1,7 +1,7 @@
 use chrono::{TimeZone, Utc};
 use reformed_feed::feed::schedule::{Frequency, ItemOrder, Schedule};
 use reformed_feed::schedules::frequency::{Daily, EveryNHours, NPerWeek};
-use reformed_feed::schedules::ordering::{RoundRobin, Sequential, Weighted};
+use reformed_feed::schedules::ordering::{Proportional, RoundRobin, Sequential, Weighted};
 use reformed_feed::schedules::presets;
 use std::collections::HashMap;
 
@@ -57,6 +57,22 @@ fn weighted_respects_ratios() {
     }
     assert!(a_count >= 12, "a_count {} should be >= 12", a_count);
     assert!(b_count >= 3, "b_count {} should be >= 3", b_count);
+}
+
+#[test]
+fn proportional_favors_longer_doc() {
+    let order = Proportional;
+    let mut state = order.init_state(&["a", "b"], &[100, 10]);
+    let mut a_count = 0;
+    let mut b_count = 0;
+    for _ in 0..22 {
+        let item = order.next(&state).unwrap();
+        if item.doc_id == "a" { a_count += 1; } else { b_count += 1; }
+        order.advance(&mut state, &item);
+    }
+    // 100:10 ratio → a should get ~20, b should get ~2
+    assert!(a_count >= 18, "a_count {} should be >= 18", a_count);
+    assert!(b_count >= 1, "b_count {} should be >= 1", b_count);
 }
 
 #[test]
@@ -124,6 +140,10 @@ fn all_presets_construct_and_work() {
     weights.insert("a".to_string(), 2);
     weights.insert("b".to_string(), 1);
     let s = presets::weighted_daily(8, weights);
+    let state = s.init_state(doc_ids, doc_lens);
+    assert!(s.next_if_due(&state, now).is_some());
+
+    let s = presets::daily_proportional(4);
     let state = s.init_state(doc_ids, doc_lens);
     assert!(s.next_if_due(&state, now).is_some());
 

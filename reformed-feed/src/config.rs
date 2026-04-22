@@ -8,8 +8,6 @@ use std::path::Path;
 pub struct Config {
     pub feed: FeedConfig,
     #[serde(default)]
-    pub state: StateConfig,
-    #[serde(default)]
     pub sources: SourcesConfig,
     pub schedule: ScheduleConfig,
     #[serde(default)]
@@ -21,34 +19,12 @@ pub struct FeedConfig {
     pub title: String,
     pub description: String,
     pub link: String,
-    #[serde(default = "default_output")]
-    pub output: String,
     #[serde(default = "default_max_items")]
     pub max_items: usize,
 }
 
-fn default_output() -> String {
-    "feed.xml".to_string()
-}
-
 fn default_max_items() -> usize {
     10
-}
-
-#[derive(Debug, Deserialize)]
-pub struct StateConfig {
-    #[serde(default = "default_state_path")]
-    pub path: String,
-}
-
-fn default_state_path() -> String {
-    "state.json".to_string()
-}
-
-impl Default for StateConfig {
-    fn default() -> Self {
-        Self { path: default_state_path() }
-    }
 }
 
 #[derive(Debug, Deserialize)]

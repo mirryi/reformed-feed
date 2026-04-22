@@ -9,15 +9,8 @@ title = "Reformed Daily"
 description = "Daily readings from Reformed confessions and catechisms"
 # [required] URL where the feed will be hosted
 link = "https://example.com/feed.xml"
-# Output file path (default: "feed.xml")
-output = "feed.xml"
 # Maximum items kept in the rolling feed (default: 10)
 max_items = 10
-
-# ─── State Persistence ────────────────────────────────────────
-[state]
-# JSON file for schedule state + recent items (default: "state.json")
-path = "state.json"
 
 # ─── Data Source Paths ────────────────────────────────────────
 [sources]
@@ -29,9 +22,12 @@ compendium = "data/compendium"
 # ─── Schedule ─────────────────────────────────────────────────
 # Available presets:
 #   "daily-sequential"  — One item/day, finish each doc before the next
-#                         Parameters: hour (0-23, default 8)
+#                         Parameters: hour (0-23, default 4)
 #   "daily-round-robin" — One item/day, rotating across documents
-#                         Parameters: hour (0-23, default 8)
+#                         Parameters: hour (0-23, default 4)
+#   "daily-proportional"— One item/day, longer docs get proportionally more turns
+#                         so all docs finish at roughly the same time
+#                         Parameters: hour (0-23, default 4)
 #   "weighted-daily"    — One item/day, documents weighted by frequency
 #                         Parameters: hour, weights (map of doc_id → weight)
 #   "frequent"          — One item every N hours, round-robin
@@ -40,7 +36,7 @@ compendium = "data/compendium"
 #                         Parameters: items_per_week (default 5)
 [schedule]
 preset = "daily-round-robin"
-hour = 8
+hour = 4
 
 # ─── Documents ────────────────────────────────────────────────
 # Each [[documents]] entry references a registered document by id.
