@@ -24,6 +24,7 @@ pub fn generate_feed(items: &[StoredFeedEntry], config: &FeedConfig) -> Result<S
                     permalink: false,
                 }))
                 .pub_date(Some(entry.pub_date.to_rfc2822()))
+                .link(Some(config.link.clone()))
                 .build()
         })
         .collect();
