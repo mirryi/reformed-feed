@@ -50,32 +50,32 @@
         95
       ],
       "positions": {
-        "canons-of-dort": 0,
-        "nicene-creed": 0,
+        "scots-confession": 0,
+        "london-baptist-1689": 0,
         "apostles-creed": 0,
-        "chalcedonian-definition": 0,
-        "95-theses": 0,
-        "first-confession-of-basel": 0,
+        "canons-of-dort": 0,
         "savoy-declaration": 0,
-        "westminster-shorter-catechism": 0,
-        "athanasian-creed": 0,
         "irenaeus-rule-of-faith": 0,
         "belgic-confession": 0,
-        "heidelberg-catechism": 0,
-        "waldensian-confession": 0,
-        "scots-confession": 0,
-        "39-articles": 0,
-        "puritan-catechism": 0,
-        "london-baptist-1689": 0,
-        "westminster-larger-catechism": 0,
-        "westminster-confession": 0,
+        "95-theses": 0,
         "1695-baptist-catechism": 0,
+        "chalcedonian-definition": 0,
+        "westminster-shorter-catechism": 0,
+        "heidelberg-catechism": 0,
+        "39-articles": 0,
+        "waldensian-confession": 0,
+        "first-confession-of-basel": 0,
+        "nicene-creed": 0,
+        "athanasian-creed": 0,
+        "westminster-larger-catechism": 1,
+        "westminster-confession": 0,
         "second-helvetic-confession": 1,
+        "puritan-catechism": 0,
         "chicago-statement": 0
       },
       "accumulated": [
         0.0,
-        0.0,
+        1.0,
         0.0,
         0.0,
         0.0,
@@ -97,9 +97,9 @@
         0.0,
         0.0
       ],
-      "turn": 1
+      "turn": 2
     },
-    "last_emitted": "2026-04-26T06:06:46.119952307Z"
+    "last_emitted": "2026-04-27T06:27:24.595636625Z"
   },
   "recent_items": [
     {
@@ -107,6 +107,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of The Holy Scripture Being The True Word of God\nSection 1\n\nCANONICAL SCRIPTURE\n\nWe believe and confess the canonical Scriptures of the holy prophets and apostles of both Testaments to be the true Word of God, and to have sufficient authority of themselves, not of men. For God himself spoke to the fathers, prophets, apostles, and still speaks to us through the Holy Scriptures.\n\nAnd in this Holy Scripture, the universal Church of Christ has the most complete exposition of all that pertains to a saving faith, and also to the framing of a life acceptable to God; and in this respect it is expressly commanded by God that nothing be either added to or taken from the same.</div>",
       "guid": "second-helvetic-confession:ch1:sec1",
       "pub_date": "2026-04-26T06:06:46.120000387Z"
+    },
+    {
+      "title": "Westminster Larger Catechism Q1",
+      "description": "<div style='white-space: pre-wrap;'>Q1. What is the chief and highest end of man?\n\nA. Man&#39;s chief and highest end is to glorify God, and fully to enjoy him forever.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.11.36, 1Cor.10.31\n[2] Ps.73.24-Ps.73.28</div>",
+      "guid": "westminster-larger-catechism:q1",
+      "pub_date": "2026-04-27T06:27:24.595819196Z"
     }
   ]
 }
