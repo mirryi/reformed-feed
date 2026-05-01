@@ -50,33 +50,33 @@
         95
       ],
       "positions": {
-        "belgic-confession": 0,
-        "second-helvetic-confession": 1,
-        "1695-baptist-catechism": 0,
-        "westminster-larger-catechism": 1,
-        "puritan-catechism": 0,
-        "westminster-shorter-catechism": 0,
-        "heidelberg-catechism": 0,
-        "irenaeus-rule-of-faith": 0,
+        "apostles-creed": 0,
+        "chicago-statement": 0,
         "savoy-declaration": 1,
         "95-theses": 0,
-        "first-confession-of-basel": 0,
-        "apostles-creed": 0,
         "39-articles": 0,
-        "scots-confession": 0,
-        "chicago-statement": 0,
         "london-baptist-1689": 1,
         "nicene-creed": 0,
+        "irenaeus-rule-of-faith": 0,
+        "second-helvetic-confession": 1,
+        "westminster-shorter-catechism": 0,
+        "heidelberg-catechism": 1,
+        "waldensian-confession": 0,
+        "athanasian-creed": 0,
+        "puritan-catechism": 0,
         "chalcedonian-definition": 0,
         "westminster-confession": 1,
+        "westminster-larger-catechism": 1,
         "canons-of-dort": 0,
-        "waldensian-confession": 0,
-        "athanasian-creed": 0
+        "belgic-confession": 0,
+        "1695-baptist-catechism": 0,
+        "first-confession-of-basel": 0,
+        "scots-confession": 0
       },
       "accumulated": [
         0.0,
         1.0,
-        0.0,
+        1.0,
         0.0,
         0.0,
         1.0,
@@ -97,9 +97,9 @@
         0.0,
         0.0
       ],
-      "turn": 5
+      "turn": 6
     },
-    "last_emitted": "2026-04-30T06:26:59.029706591Z"
+    "last_emitted": "2026-05-01T06:36:00.072513519Z"
   },
   "recent_items": [
     {
@@ -131,6 +131,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 1\n\nAlthough the light of nature, and the works of creation and providence, do so far manifest the goodness, wisdom, and power of God, as to leave men inexcusable; yet are they not sufficient to give that knowledge of God, and of his will, which is necessary unto salvation; therefore it pleased the Lord, at sundry times, and in divers manners, to reveal himself, and to declare that his will unto his Church; and afterwards, for the better preserving and propagating of the truth, and for the more sure establishment and comfort of the Church against the corruption of the flesh, and the malice of Satan and of the world, to commit the same wholly unto writing; which maketh the holy Scripture to be most necessary; those former ways of God&#39;s revealing his will unto his people being now ceased.</div>",
       "guid": "savoy-declaration:ch1:sec1",
       "pub_date": "2026-04-30T06:26:59.029918400Z"
+    },
+    {
+      "title": "Heidelberg Catechism Q1",
+      "description": "<div style='white-space: pre-wrap;'>Q1. What is your only comfort in life and death?\n\nA. That I am not my own, but belong with body and soul, both in life and in death, to my faithful Saviour Jesus Christ. He has fully paid for all my sins with His precious blood, and has set me free from all the power of the devil. He also preserves me in such a way that without the will of my heavenly Father not a hair can fall from my head; indeed, all things must work together for my salvation. Therefore, by His Holy Spirit He also assures me of eternal life and makes me heartily willing and ready from now on to live for Him.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1Cor.6.19,1Cor.6.2\n[2] Rom.14.7-Rom.14.9\n[3] 1Cor.3.23, Titus.2.14\n[4] 1Pet.1.18-1Pet.1.19, 1John.1.7, 1John.2.2\n[5] John.8.34-John.8.36, Heb.2.14-Heb.2.15, 1John.3.8\n[6] John.6.39-John.6.40, John.10.27-John.10.30, 2Thess.3.3, 1Pet.1.5\n[7] Matt.10.29-Matt.10.31, Luke.21.16-Luke.21.18\n[8] Rom.8.28\n[9] Rom.8.15-Rom.8.16, 2Cor.1.21-2Cor.1.22, 2Cor.5.5, Eph.1.13-Eph.1.14\n[10] Rom.8.14</div>",
+      "guid": "heidelberg-catechism:q1",
+      "pub_date": "2026-05-01T06:36:00.072740864Z"
     }
   ]
 }
