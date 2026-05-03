@@ -50,31 +50,31 @@
         95
       ],
       "positions": {
-        "scots-confession": 0,
-        "london-baptist-1689": 1,
-        "westminster-shorter-catechism": 0,
+        "first-confession-of-basel": 0,
+        "westminster-shorter-catechism": 1,
         "apostles-creed": 0,
-        "chicago-statement": 0,
-        "heidelberg-catechism": 1,
-        "waldensian-confession": 0,
-        "westminster-confession": 1,
-        "nicene-creed": 0,
+        "puritan-catechism": 0,
         "chalcedonian-definition": 0,
-        "39-articles": 0,
+        "heidelberg-catechism": 1,
+        "nicene-creed": 0,
+        "scots-confession": 0,
         "savoy-declaration": 1,
         "second-helvetic-confession": 1,
-        "canons-of-dort": 0,
         "1695-baptist-catechism": 1,
-        "first-confession-of-basel": 0,
+        "belgic-confession": 0,
+        "london-baptist-1689": 1,
+        "westminster-confession": 1,
         "95-theses": 0,
-        "puritan-catechism": 0,
-        "athanasian-creed": 0,
         "westminster-larger-catechism": 1,
         "irenaeus-rule-of-faith": 0,
-        "belgic-confession": 0
+        "39-articles": 0,
+        "canons-of-dort": 0,
+        "chicago-statement": 0,
+        "athanasian-creed": 0,
+        "waldensian-confession": 0
       },
       "accumulated": [
-        0.0,
+        1.0,
         1.0,
         1.0,
         1.0,
@@ -97,9 +97,9 @@
         0.0,
         0.0
       ],
-      "turn": 7
+      "turn": 8
     },
-    "last_emitted": "2026-05-02T06:06:47.998151138Z"
+    "last_emitted": "2026-05-03T06:25:54.612147077Z"
   },
   "recent_items": [
     {
@@ -143,6 +143,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q1. Who is the First and Chiefest Being?\n\nA. God is the First and Chiefest Being</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Isa.44.6, Isa.48.12</div>",
       "guid": "1695-baptist-catechism:q1",
       "pub_date": "2026-05-02T06:06:47.998384856Z"
+    },
+    {
+      "title": "Westminster Shorter Catechism Q1",
+      "description": "<div style='white-space: pre-wrap;'>Q1. What is the chief end of man?\n\nA. Man&#39;s chief end is to glorify God, and to enjoy him for ever.</div>",
+      "guid": "westminster-shorter-catechism:q1",
+      "pub_date": "2026-05-03T06:25:54.612407164Z"
     }
   ]
 }
