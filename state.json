@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "first-confession-of-basel": 0,
-        "westminster-shorter-catechism": 1,
-        "apostles-creed": 0,
-        "puritan-catechism": 0,
-        "chalcedonian-definition": 0,
-        "heidelberg-catechism": 1,
+        "second-helvetic-confession": 1,
         "nicene-creed": 0,
         "scots-confession": 0,
-        "savoy-declaration": 1,
-        "second-helvetic-confession": 1,
-        "1695-baptist-catechism": 1,
-        "belgic-confession": 0,
-        "london-baptist-1689": 1,
         "westminster-confession": 1,
-        "95-theses": 0,
-        "westminster-larger-catechism": 1,
+        "first-confession-of-basel": 0,
+        "1695-baptist-catechism": 1,
+        "95-theses": 1,
         "irenaeus-rule-of-faith": 0,
+        "belgic-confession": 0,
         "39-articles": 0,
+        "london-baptist-1689": 1,
+        "waldensian-confession": 0,
+        "westminster-shorter-catechism": 1,
+        "puritan-catechism": 0,
+        "athanasian-creed": 0,
+        "westminster-larger-catechism": 1,
+        "savoy-declaration": 1,
+        "chalcedonian-definition": 0,
         "canons-of-dort": 0,
         "chicago-statement": 0,
-        "athanasian-creed": 0,
-        "waldensian-confession": 0
+        "heidelberg-catechism": 1,
+        "apostles-creed": 0
       },
       "accumulated": [
         1.0,
@@ -95,11 +95,11 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        1.0
       ],
-      "turn": 8
+      "turn": 9
     },
-    "last_emitted": "2026-05-03T06:25:54.612147077Z"
+    "last_emitted": "2026-05-04T06:38:17.021282502Z"
   },
   "recent_items": [
     {
@@ -149,6 +149,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q1. What is the chief end of man?\n\nA. Man&#39;s chief end is to glorify God, and to enjoy him for ever.</div>",
       "guid": "westminster-shorter-catechism:q1",
       "pub_date": "2026-05-03T06:25:54.612407164Z"
+    },
+    {
+      "title": "Martin Luther's 95 theses Thesis 1",
+      "description": "<div style='white-space: pre-wrap;'>Thesis 1\n\nWhen our Lord and Master Jesus Christ said, &quot;Repent&quot; (Mt 4:17), he willed the entire life of believers to be one of repentance.</div>",
+      "guid": "95-theses:thesis1",
+      "pub_date": "2026-05-04T06:38:17.021552488Z"
     }
   ]
 }
