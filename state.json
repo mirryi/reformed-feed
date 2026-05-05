@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "second-helvetic-confession": 1,
-        "nicene-creed": 0,
-        "scots-confession": 0,
-        "westminster-confession": 1,
-        "first-confession-of-basel": 0,
-        "1695-baptist-catechism": 1,
-        "95-theses": 1,
-        "irenaeus-rule-of-faith": 0,
         "belgic-confession": 0,
-        "39-articles": 0,
-        "london-baptist-1689": 1,
-        "waldensian-confession": 0,
-        "westminster-shorter-catechism": 1,
-        "puritan-catechism": 0,
-        "athanasian-creed": 0,
-        "westminster-larger-catechism": 1,
-        "savoy-declaration": 1,
         "chalcedonian-definition": 0,
         "canons-of-dort": 0,
-        "chicago-statement": 0,
+        "scots-confession": 0,
+        "savoy-declaration": 1,
+        "nicene-creed": 0,
         "heidelberg-catechism": 1,
-        "apostles-creed": 0
+        "second-helvetic-confession": 2,
+        "irenaeus-rule-of-faith": 0,
+        "waldensian-confession": 0,
+        "puritan-catechism": 0,
+        "1695-baptist-catechism": 1,
+        "95-theses": 1,
+        "39-articles": 0,
+        "athanasian-creed": 0,
+        "westminster-larger-catechism": 1,
+        "chicago-statement": 0,
+        "london-baptist-1689": 1,
+        "westminster-confession": 1,
+        "first-confession-of-basel": 0,
+        "apostles-creed": 0,
+        "westminster-shorter-catechism": 1
       },
       "accumulated": [
         1.0,
@@ -83,7 +83,7 @@
         1.0,
         1.0,
         0.0,
-        1.0,
+        2.0,
         0.0,
         0.0,
         0.0,
@@ -97,9 +97,9 @@
         0.0,
         1.0
       ],
-      "turn": 9
+      "turn": 10
     },
-    "last_emitted": "2026-05-04T06:38:17.021282502Z"
+    "last_emitted": "2026-05-05T06:16:12.297344908Z"
   },
   "recent_items": [
     {
@@ -155,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Thesis 1\n\nWhen our Lord and Master Jesus Christ said, &quot;Repent&quot; (Mt 4:17), he willed the entire life of believers to be one of repentance.</div>",
       "guid": "95-theses:thesis1",
       "pub_date": "2026-05-04T06:38:17.021552488Z"
+    },
+    {
+      "title": "Second Helvetic Confession Ch.1 Sec.2",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of The Holy Scripture Being The True Word of God\nSection 2\n\nSCRIPTURE TEACHES FULLY ALL GODLINESS\n\nWe judge, therefore, that from these Scriptures are to be derived true wisdom and godliness, the reformation and government of churches; as also instruction in all duties of piety; and, to be short, the confirmation of doctrines, and the rejection of all errors, moreover, all exhortations according to that word of the apostle, &quot;All scripture is inspired by God and profitable for teaching, for reproof,&quot; etc. (II Timothy 3:16-17). Again, &quot;I am writing these instructions to you,&quot; says the apostle to Timothy, &quot;So that you may know how one ought to behave in the household of God,&quot; etc. (I Timothy 3:14-15). </div>",
+      "guid": "second-helvetic-confession:ch1:sec2",
+      "pub_date": "2026-05-05T06:16:12.297582499Z"
     }
   ]
 }
