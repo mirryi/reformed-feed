@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "belgic-confession": 0,
-        "chalcedonian-definition": 0,
-        "canons-of-dort": 0,
-        "scots-confession": 0,
-        "savoy-declaration": 1,
-        "nicene-creed": 0,
-        "heidelberg-catechism": 1,
-        "second-helvetic-confession": 2,
+        "westminster-confession": 1,
+        "95-theses": 1,
+        "canons-of-dort": 1,
         "irenaeus-rule-of-faith": 0,
+        "apostles-creed": 0,
+        "westminster-shorter-catechism": 1,
+        "second-helvetic-confession": 2,
         "waldensian-confession": 0,
         "puritan-catechism": 0,
-        "1695-baptist-catechism": 1,
-        "95-theses": 1,
-        "39-articles": 0,
-        "athanasian-creed": 0,
-        "westminster-larger-catechism": 1,
-        "chicago-statement": 0,
-        "london-baptist-1689": 1,
-        "westminster-confession": 1,
         "first-confession-of-basel": 0,
-        "apostles-creed": 0,
-        "westminster-shorter-catechism": 1
+        "chicago-statement": 0,
+        "belgic-confession": 0,
+        "london-baptist-1689": 1,
+        "savoy-declaration": 1,
+        "chalcedonian-definition": 0,
+        "scots-confession": 0,
+        "nicene-creed": 0,
+        "westminster-larger-catechism": 1,
+        "39-articles": 0,
+        "heidelberg-catechism": 1,
+        "athanasian-creed": 0,
+        "1695-baptist-catechism": 1
       },
       "accumulated": [
         1.0,
@@ -82,7 +82,7 @@
         1.0,
         1.0,
         1.0,
-        0.0,
+        1.0,
         2.0,
         0.0,
         0.0,
@@ -97,17 +97,11 @@
         0.0,
         1.0
       ],
-      "turn": 10
+      "turn": 11
     },
-    "last_emitted": "2026-05-05T06:16:12.297344908Z"
+    "last_emitted": "2026-05-06T06:29:11.224789861Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.1 Sec.1",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of The Holy Scripture Being The True Word of God\nSection 1\n\nCANONICAL SCRIPTURE\n\nWe believe and confess the canonical Scriptures of the holy prophets and apostles of both Testaments to be the true Word of God, and to have sufficient authority of themselves, not of men. For God himself spoke to the fathers, prophets, apostles, and still speaks to us through the Holy Scriptures.\n\nAnd in this Holy Scripture, the universal Church of Christ has the most complete exposition of all that pertains to a saving faith, and also to the framing of a life acceptable to God; and in this respect it is expressly commanded by God that nothing be either added to or taken from the same.</div>",
-      "guid": "second-helvetic-confession:ch1:sec1",
-      "pub_date": "2026-04-26T06:06:46.120000387Z"
-    },
     {
       "title": "Westminster Larger Catechism Q1",
       "description": "<div style='white-space: pre-wrap;'>Q1. What is the chief and highest end of man?\n\nA. Man&#39;s chief and highest end is to glorify God, and fully to enjoy him forever.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.11.36, 1Cor.10.31\n[2] Ps.73.24-Ps.73.28</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of The Holy Scripture Being The True Word of God\nSection 2\n\nSCRIPTURE TEACHES FULLY ALL GODLINESS\n\nWe judge, therefore, that from these Scriptures are to be derived true wisdom and godliness, the reformation and government of churches; as also instruction in all duties of piety; and, to be short, the confirmation of doctrines, and the rejection of all errors, moreover, all exhortations according to that word of the apostle, &quot;All scripture is inspired by God and profitable for teaching, for reproof,&quot; etc. (II Timothy 3:16-17). Again, &quot;I am writing these instructions to you,&quot; says the apostle to Timothy, &quot;So that you may know how one ought to behave in the household of God,&quot; etc. (I Timothy 3:14-15). </div>",
       "guid": "second-helvetic-confession:ch1:sec2",
       "pub_date": "2026-05-05T06:16:12.297582499Z"
+    },
+    {
+      "title": "Canons of Dort Ch.1 Sec.A1",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A1\n\nAs all men have sinned in Adam, lie under the curse, and are deserving of eternal death, God would have done no injustice by leaving them all to perish, and delivering them over to condemnation on account of sin, according to the words of the apostle, &quot;that every mouth may be stopped, and all the world may become guilty before God&quot; (Rom. 3:19). And verse 23: &quot;For all have sinned, and come short of the glory of God.&quot; And Romans 6:23: &quot;For the wages of sin is death&quot;.</div>",
+      "guid": "canons-of-dort:ch1:secA1",
+      "pub_date": "2026-05-06T06:29:11.225054395Z"
     }
   ]
 }
