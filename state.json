@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "chicago-statement": 0,
-        "heidelberg-catechism": 1,
-        "savoy-declaration": 1,
-        "39-articles": 0,
+        "westminster-confession": 2,
+        "athanasian-creed": 0,
+        "canons-of-dort": 1,
+        "scots-confession": 0,
         "apostles-creed": 0,
+        "heidelberg-catechism": 1,
+        "westminster-shorter-catechism": 1,
+        "second-helvetic-confession": 3,
+        "belgic-confession": 0,
+        "first-confession-of-basel": 0,
         "irenaeus-rule-of-faith": 0,
         "95-theses": 1,
-        "westminster-confession": 2,
-        "london-baptist-1689": 2,
-        "canons-of-dort": 1,
-        "waldensian-confession": 0,
-        "westminster-shorter-catechism": 1,
-        "nicene-creed": 0,
-        "second-helvetic-confession": 3,
         "westminster-larger-catechism": 2,
-        "athanasian-creed": 0,
+        "waldensian-confession": 0,
+        "london-baptist-1689": 2,
         "puritan-catechism": 1,
-        "belgic-confession": 0,
         "1695-baptist-catechism": 1,
         "chalcedonian-definition": 0,
-        "scots-confession": 0,
-        "first-confession-of-basel": 0
+        "savoy-declaration": 2,
+        "chicago-statement": 0,
+        "39-articles": 0,
+        "nicene-creed": 0
       },
       "accumulated": [
         1.0,
@@ -81,7 +81,7 @@
         1.0,
         2.0,
         2.0,
-        1.0,
+        2.0,
         1.0,
         3.0,
         0.0,
@@ -97,17 +97,11 @@
         0.0,
         1.0
       ],
-      "turn": 16
+      "turn": 17
     },
-    "last_emitted": "2026-05-11T07:40:10.503293160Z"
+    "last_emitted": "2026-05-12T06:36:55.154245893Z"
   },
   "recent_items": [
-    {
-      "title": "1695 Baptist Catechism Q1",
-      "description": "<div style='white-space: pre-wrap;'>Q1. Who is the First and Chiefest Being?\n\nA. God is the First and Chiefest Being</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Isa.44.6, Isa.48.12</div>",
-      "guid": "1695-baptist-catechism:q1",
-      "pub_date": "2026-05-02T06:06:47.998384856Z"
-    },
     {
       "title": "Westminster Shorter Catechism Q1",
       "description": "<div style='white-space: pre-wrap;'>Q1. What is the chief end of man?\n\nA. Man&#39;s chief end is to glorify God, and to enjoy him for ever.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 2\n\nUnder the Name of Holy Scripture or the Word of God written; are now contained all the Books of the Old and New Testament which are these: Of the Old Testament: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, The Song of Songs, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi. Of the New Testament: Matthew, Mark, Luke, John, The Acts of the Apostles, Pauls Epistle to the Romans, 1 Corinthians, 2 Corinthians, Galatians, Ephesians, Phillippians, Colossians, 1 Thessalonians, 2 Thessalonians, 1 Timothy, 2 Timothy, to Titus, to Philemon, the Epistle to the Hebrews, the Epistle of James, the First and Second Epistles of Peter, the First, Second and Third Epistles of John, the Epistle of Jude, the Revelation.</div>",
       "guid": "london-baptist-1689:ch1:sec2",
       "pub_date": "2026-05-11T07:40:10.503594402Z"
+    },
+    {
+      "title": "Savoy Declaration Ch.1 Sec.2",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 2\n\nUnder the name of holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testaments, which are these: Of the Old Testament: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, The Song of Songs, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi; Of the New Testament: The Gospels according to Matthew, Mark, Luke, John. The Acts of the Apostles, Paul&#39;s Epistles to the Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 Thessalonians, 2 Thessalonians, 1 Timothy, 2 Timothy, Titus, Philemon, The Epistle to the Hebrews, The Epistle of James, The First and Second Epistles of Peter, The First, Second, and Third Epistles of John, The Epistle of Jude, The Revelation. All which are given by inspiration of God, to be the rule of faith and life.</div>",
+      "guid": "savoy-declaration:ch1:sec2",
+      "pub_date": "2026-05-12T06:36:55.154529610Z"
     }
   ]
 }
