@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "westminster-confession": 2,
-        "athanasian-creed": 0,
-        "canons-of-dort": 1,
-        "scots-confession": 0,
-        "apostles-creed": 0,
         "heidelberg-catechism": 1,
-        "westminster-shorter-catechism": 1,
-        "second-helvetic-confession": 3,
-        "belgic-confession": 0,
-        "first-confession-of-basel": 0,
-        "irenaeus-rule-of-faith": 0,
-        "95-theses": 1,
-        "westminster-larger-catechism": 2,
-        "waldensian-confession": 0,
-        "london-baptist-1689": 2,
-        "puritan-catechism": 1,
         "1695-baptist-catechism": 1,
-        "chalcedonian-definition": 0,
-        "savoy-declaration": 2,
+        "irenaeus-rule-of-faith": 0,
+        "westminster-shorter-catechism": 1,
+        "apostles-creed": 0,
+        "puritan-catechism": 1,
         "chicago-statement": 0,
-        "39-articles": 0,
-        "nicene-creed": 0
+        "39-articles": 1,
+        "waldensian-confession": 0,
+        "nicene-creed": 0,
+        "westminster-larger-catechism": 2,
+        "belgic-confession": 0,
+        "scots-confession": 0,
+        "canons-of-dort": 1,
+        "second-helvetic-confession": 3,
+        "95-theses": 1,
+        "london-baptist-1689": 2,
+        "chalcedonian-definition": 0,
+        "athanasian-creed": 0,
+        "savoy-declaration": 2,
+        "westminster-confession": 2,
+        "first-confession-of-basel": 0
       },
       "accumulated": [
         1.0,
@@ -94,20 +94,14 @@
         0.0,
         0.0,
         0.0,
-        0.0,
+        1.0,
         1.0
       ],
-      "turn": 17
+      "turn": 18
     },
-    "last_emitted": "2026-05-12T06:36:55.154245893Z"
+    "last_emitted": "2026-05-13T06:47:30.639319345Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Shorter Catechism Q1",
-      "description": "<div style='white-space: pre-wrap;'>Q1. What is the chief end of man?\n\nA. Man&#39;s chief end is to glorify God, and to enjoy him for ever.</div>",
-      "guid": "westminster-shorter-catechism:q1",
-      "pub_date": "2026-05-03T06:25:54.612407164Z"
-    },
     {
       "title": "Martin Luther's 95 theses Thesis 1",
       "description": "<div style='white-space: pre-wrap;'>Thesis 1\n\nWhen our Lord and Master Jesus Christ said, &quot;Repent&quot; (Mt 4:17), he willed the entire life of believers to be one of repentance.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 2\n\nUnder the name of holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testaments, which are these: Of the Old Testament: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, The Song of Songs, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi; Of the New Testament: The Gospels according to Matthew, Mark, Luke, John. The Acts of the Apostles, Paul&#39;s Epistles to the Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 Thessalonians, 2 Thessalonians, 1 Timothy, 2 Timothy, Titus, Philemon, The Epistle to the Hebrews, The Epistle of James, The First and Second Epistles of Peter, The First, Second, and Third Epistles of John, The Epistle of Jude, The Revelation. All which are given by inspiration of God, to be the rule of faith and life.</div>",
       "guid": "savoy-declaration:ch1:sec2",
       "pub_date": "2026-05-12T06:36:55.154529610Z"
+    },
+    {
+      "title": "Thirty-nine Articles of Religion Art.1",
+      "description": "<div style='white-space: pre-wrap;'>Article 1: Of Faith in the Holy Trinity.\n\nThere is but one living and true God, everlasting, without body, parts, or passions; of infinite power, wisdom, and goodness; the Maker, and Preserver of all things both visible and invisible. And in unity of this Godhead there be three Persons, of one substance, power, and eternity; the Father, the Son, and the Holy Ghost.\n</div>",
+      "guid": "39-articles:art1",
+      "pub_date": "2026-05-13T06:47:30.639581805Z"
     }
   ]
 }
