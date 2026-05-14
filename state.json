@@ -50,33 +50,33 @@
         95
       ],
       "positions": {
-        "heidelberg-catechism": 1,
-        "1695-baptist-catechism": 1,
-        "irenaeus-rule-of-faith": 0,
-        "westminster-shorter-catechism": 1,
-        "apostles-creed": 0,
-        "puritan-catechism": 1,
-        "chicago-statement": 0,
-        "39-articles": 1,
-        "waldensian-confession": 0,
-        "nicene-creed": 0,
-        "westminster-larger-catechism": 2,
-        "belgic-confession": 0,
-        "scots-confession": 0,
-        "canons-of-dort": 1,
-        "second-helvetic-confession": 3,
-        "95-theses": 1,
-        "london-baptist-1689": 2,
-        "chalcedonian-definition": 0,
-        "athanasian-creed": 0,
         "savoy-declaration": 2,
+        "first-confession-of-basel": 0,
+        "chicago-statement": 0,
+        "london-baptist-1689": 2,
+        "apostles-creed": 0,
+        "heidelberg-catechism": 2,
+        "second-helvetic-confession": 3,
+        "belgic-confession": 0,
+        "athanasian-creed": 0,
+        "nicene-creed": 0,
+        "puritan-catechism": 1,
         "westminster-confession": 2,
-        "first-confession-of-basel": 0
+        "canons-of-dort": 1,
+        "95-theses": 1,
+        "irenaeus-rule-of-faith": 0,
+        "scots-confession": 0,
+        "westminster-shorter-catechism": 1,
+        "1695-baptist-catechism": 1,
+        "westminster-larger-catechism": 2,
+        "39-articles": 1,
+        "chalcedonian-definition": 0,
+        "waldensian-confession": 0
       },
       "accumulated": [
         1.0,
         2.0,
-        1.0,
+        2.0,
         1.0,
         1.0,
         2.0,
@@ -97,17 +97,11 @@
         1.0,
         1.0
       ],
-      "turn": 18
+      "turn": 19
     },
-    "last_emitted": "2026-05-13T06:47:30.639319345Z"
+    "last_emitted": "2026-05-14T06:46:01.417630034Z"
   },
   "recent_items": [
-    {
-      "title": "Martin Luther's 95 theses Thesis 1",
-      "description": "<div style='white-space: pre-wrap;'>Thesis 1\n\nWhen our Lord and Master Jesus Christ said, &quot;Repent&quot; (Mt 4:17), he willed the entire life of believers to be one of repentance.</div>",
-      "guid": "95-theses:thesis1",
-      "pub_date": "2026-05-04T06:38:17.021552488Z"
-    },
     {
       "title": "Second Helvetic Confession Ch.1 Sec.2",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of The Holy Scripture Being The True Word of God\nSection 2\n\nSCRIPTURE TEACHES FULLY ALL GODLINESS\n\nWe judge, therefore, that from these Scriptures are to be derived true wisdom and godliness, the reformation and government of churches; as also instruction in all duties of piety; and, to be short, the confirmation of doctrines, and the rejection of all errors, moreover, all exhortations according to that word of the apostle, &quot;All scripture is inspired by God and profitable for teaching, for reproof,&quot; etc. (II Timothy 3:16-17). Again, &quot;I am writing these instructions to you,&quot; says the apostle to Timothy, &quot;So that you may know how one ought to behave in the household of God,&quot; etc. (I Timothy 3:14-15). </div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Article 1: Of Faith in the Holy Trinity.\n\nThere is but one living and true God, everlasting, without body, parts, or passions; of infinite power, wisdom, and goodness; the Maker, and Preserver of all things both visible and invisible. And in unity of this Godhead there be three Persons, of one substance, power, and eternity; the Father, the Son, and the Holy Ghost.\n</div>",
       "guid": "39-articles:art1",
       "pub_date": "2026-05-13T06:47:30.639581805Z"
+    },
+    {
+      "title": "Heidelberg Catechism Q2",
+      "description": "<div style='white-space: pre-wrap;'>Q2. What do you need to know in order to live and die in the joy of this comfort?\n\nA. First, how great my sins and misery are; second, how I am delivered from all my sins and misery; third, how I am to be thankful to God for such deliverance.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.3.9-Rom.3.10, 1John.1.10\n[2] John.17.3, Acts.4.12, Acts.10.43\n[3] Matt.5.16, Rom.6.13, Eph.5.8-Eph.5.10, 1Pet.2.9-1Pet.2.10</div>",
+      "guid": "heidelberg-catechism:q2",
+      "pub_date": "2026-05-14T06:46:01.417903214Z"
     }
   ]
 }
