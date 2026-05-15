@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "savoy-declaration": 2,
-        "first-confession-of-basel": 0,
-        "chicago-statement": 0,
-        "london-baptist-1689": 2,
-        "apostles-creed": 0,
-        "heidelberg-catechism": 2,
-        "second-helvetic-confession": 3,
-        "belgic-confession": 0,
-        "athanasian-creed": 0,
-        "nicene-creed": 0,
         "puritan-catechism": 1,
         "westminster-confession": 2,
-        "canons-of-dort": 1,
         "95-theses": 1,
-        "irenaeus-rule-of-faith": 0,
-        "scots-confession": 0,
-        "westminster-shorter-catechism": 1,
-        "1695-baptist-catechism": 1,
-        "westminster-larger-catechism": 2,
-        "39-articles": 1,
+        "apostles-creed": 0,
         "chalcedonian-definition": 0,
-        "waldensian-confession": 0
+        "heidelberg-catechism": 2,
+        "london-baptist-1689": 2,
+        "westminster-shorter-catechism": 1,
+        "waldensian-confession": 0,
+        "second-helvetic-confession": 3,
+        "first-confession-of-basel": 0,
+        "chicago-statement": 0,
+        "scots-confession": 0,
+        "athanasian-creed": 0,
+        "irenaeus-rule-of-faith": 0,
+        "savoy-declaration": 2,
+        "belgic-confession": 1,
+        "1695-baptist-catechism": 1,
+        "nicene-creed": 0,
+        "canons-of-dort": 1,
+        "westminster-larger-catechism": 2,
+        "39-articles": 1
       },
       "accumulated": [
         1.0,
@@ -84,7 +84,7 @@
         2.0,
         1.0,
         3.0,
-        0.0,
+        1.0,
         0.0,
         0.0,
         0.0,
@@ -97,17 +97,11 @@
         1.0,
         1.0
       ],
-      "turn": 19
+      "turn": 20
     },
-    "last_emitted": "2026-05-14T06:46:01.417630034Z"
+    "last_emitted": "2026-05-15T06:55:30.727853379Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.1 Sec.2",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of The Holy Scripture Being The True Word of God\nSection 2\n\nSCRIPTURE TEACHES FULLY ALL GODLINESS\n\nWe judge, therefore, that from these Scriptures are to be derived true wisdom and godliness, the reformation and government of churches; as also instruction in all duties of piety; and, to be short, the confirmation of doctrines, and the rejection of all errors, moreover, all exhortations according to that word of the apostle, &quot;All scripture is inspired by God and profitable for teaching, for reproof,&quot; etc. (II Timothy 3:16-17). Again, &quot;I am writing these instructions to you,&quot; says the apostle to Timothy, &quot;So that you may know how one ought to behave in the household of God,&quot; etc. (I Timothy 3:14-15). </div>",
-      "guid": "second-helvetic-confession:ch1:sec2",
-      "pub_date": "2026-05-05T06:16:12.297582499Z"
-    },
     {
       "title": "Canons of Dort Ch.1 Sec.A1",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A1\n\nAs all men have sinned in Adam, lie under the curse, and are deserving of eternal death, God would have done no injustice by leaving them all to perish, and delivering them over to condemnation on account of sin, according to the words of the apostle, &quot;that every mouth may be stopped, and all the world may become guilty before God&quot; (Rom. 3:19). And verse 23: &quot;For all have sinned, and come short of the glory of God.&quot; And Romans 6:23: &quot;For the wages of sin is death&quot;.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q2. What do you need to know in order to live and die in the joy of this comfort?\n\nA. First, how great my sins and misery are; second, how I am delivered from all my sins and misery; third, how I am to be thankful to God for such deliverance.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.3.9-Rom.3.10, 1John.1.10\n[2] John.17.3, Acts.4.12, Acts.10.43\n[3] Matt.5.16, Rom.6.13, Eph.5.8-Eph.5.10, 1Pet.2.9-1Pet.2.10</div>",
       "guid": "heidelberg-catechism:q2",
       "pub_date": "2026-05-14T06:46:01.417903214Z"
+    },
+    {
+      "title": "Belgic Confession Art.1",
+      "description": "<div style='white-space: pre-wrap;'>Article 1: The Only God\n\nWe all believe in our hearts and confess with our mouths that there is a single and simple spiritual being, whom we call God- eternal, incomprehensible, invisible, unchangeable, infinite, almighty; completely wise, just, and good, and the overflowing source of all good.</div>",
+      "guid": "belgic-confession:art1",
+      "pub_date": "2026-05-15T06:55:30.728114731Z"
     }
   ]
 }
