@@ -50,34 +50,34 @@
         95
       ],
       "positions": {
-        "puritan-catechism": 1,
-        "westminster-confession": 2,
-        "95-theses": 1,
-        "apostles-creed": 0,
-        "chalcedonian-definition": 0,
-        "heidelberg-catechism": 2,
         "london-baptist-1689": 2,
+        "chalcedonian-definition": 0,
+        "first-confession-of-basel": 0,
+        "puritan-catechism": 1,
+        "nicene-creed": 0,
+        "westminster-confession": 2,
         "westminster-shorter-catechism": 1,
+        "canons-of-dort": 1,
+        "athanasian-creed": 0,
+        "apostles-creed": 0,
+        "heidelberg-catechism": 2,
+        "95-theses": 1,
         "waldensian-confession": 0,
         "second-helvetic-confession": 3,
-        "first-confession-of-basel": 0,
-        "chicago-statement": 0,
-        "scots-confession": 0,
-        "athanasian-creed": 0,
         "irenaeus-rule-of-faith": 0,
         "savoy-declaration": 2,
         "belgic-confession": 1,
-        "1695-baptist-catechism": 1,
-        "nicene-creed": 0,
-        "canons-of-dort": 1,
+        "scots-confession": 0,
+        "1695-baptist-catechism": 2,
         "westminster-larger-catechism": 2,
+        "chicago-statement": 0,
         "39-articles": 1
       },
       "accumulated": [
         1.0,
         2.0,
         2.0,
-        1.0,
+        2.0,
         1.0,
         2.0,
         2.0,
@@ -97,17 +97,11 @@
         1.0,
         1.0
       ],
-      "turn": 20
+      "turn": 21
     },
-    "last_emitted": "2026-05-15T06:55:30.727853379Z"
+    "last_emitted": "2026-05-16T06:21:28.749856559Z"
   },
   "recent_items": [
-    {
-      "title": "Canons of Dort Ch.1 Sec.A1",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A1\n\nAs all men have sinned in Adam, lie under the curse, and are deserving of eternal death, God would have done no injustice by leaving them all to perish, and delivering them over to condemnation on account of sin, according to the words of the apostle, &quot;that every mouth may be stopped, and all the world may become guilty before God&quot; (Rom. 3:19). And verse 23: &quot;For all have sinned, and come short of the glory of God.&quot; And Romans 6:23: &quot;For the wages of sin is death&quot;.</div>",
-      "guid": "canons-of-dort:ch1:secA1",
-      "pub_date": "2026-05-06T06:29:11.225054395Z"
-    },
     {
       "title": "Puritan Catechism Q1",
       "description": "<div style='white-space: pre-wrap;'>Q1. What is the chief end of man?\n\nA. Man&#39;s chief end is to glorify God, and to enjoy him for ever</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1Cor.10.31\n[2] Ps.73.25-Ps.73.26</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Article 1: The Only God\n\nWe all believe in our hearts and confess with our mouths that there is a single and simple spiritual being, whom we call God- eternal, incomprehensible, invisible, unchangeable, infinite, almighty; completely wise, just, and good, and the overflowing source of all good.</div>",
       "guid": "belgic-confession:art1",
       "pub_date": "2026-05-15T06:55:30.728114731Z"
+    },
+    {
+      "title": "1695 Baptist Catechism Q2",
+      "description": "<div style='white-space: pre-wrap;'>Q2. Ought every One to believe there is a God?\n\nA. Every One ought to believe there is a God; and it is their great Sin and Folly who do not.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Heb.11.6\n[2] Ps.14.1</div>",
+      "guid": "1695-baptist-catechism:q2",
+      "pub_date": "2026-05-16T06:21:28.750155446Z"
     }
   ]
 }
