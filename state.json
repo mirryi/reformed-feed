@@ -50,32 +50,32 @@
         95
       ],
       "positions": {
+        "nicene-creed": 0,
+        "chicago-statement": 0,
+        "39-articles": 1,
+        "chalcedonian-definition": 0,
+        "first-confession-of-basel": 0,
+        "belgic-confession": 1,
+        "westminster-larger-catechism": 3,
+        "puritan-catechism": 1,
+        "heidelberg-catechism": 2,
         "westminster-confession": 2,
+        "second-helvetic-confession": 4,
+        "athanasian-creed": 0,
+        "savoy-declaration": 2,
+        "scots-confession": 0,
+        "95-theses": 1,
+        "waldensian-confession": 0,
+        "irenaeus-rule-of-faith": 0,
+        "1695-baptist-catechism": 2,
         "canons-of-dort": 1,
         "apostles-creed": 0,
-        "london-baptist-1689": 2,
-        "irenaeus-rule-of-faith": 0,
-        "first-confession-of-basel": 0,
-        "chicago-statement": 0,
-        "second-helvetic-confession": 4,
-        "1695-baptist-catechism": 2,
-        "chalcedonian-definition": 0,
-        "scots-confession": 0,
-        "39-articles": 1,
-        "95-theses": 1,
-        "heidelberg-catechism": 2,
-        "waldensian-confession": 0,
-        "belgic-confession": 1,
-        "westminster-larger-catechism": 2,
-        "athanasian-creed": 0,
-        "puritan-catechism": 1,
-        "nicene-creed": 0,
         "westminster-shorter-catechism": 1,
-        "savoy-declaration": 2
+        "london-baptist-1689": 2
       },
       "accumulated": [
         1.0,
-        2.0,
+        3.0,
         2.0,
         2.0,
         1.0,
@@ -97,17 +97,11 @@
         1.0,
         1.0
       ],
-      "turn": 22
+      "turn": 23
     },
-    "last_emitted": "2026-05-17T06:43:32.149593086Z"
+    "last_emitted": "2026-05-18T08:03:13.063298862Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Larger Catechism Q2",
-      "description": "<div style='white-space: pre-wrap;'>Q2. How doth it appear that there is a God?\n\nA. The very light of nature in man, and the works of God, declare plainly that there is a God; but his word and Spirit only do sufficiently and effectually reveal him unto men for their salvation.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.1.19-Rom.1.20, Ps.19.1-Ps.19.3, Acts.17.28\n[2] 1Cor.2.9-1Cor.2.10, 2Tim.3.15-2Tim.3.17, Isa.59.21</div>",
-      "guid": "westminster-larger-catechism:q2",
-      "pub_date": "2026-05-08T05:56:52.246824553Z"
-    },
     {
       "title": "Westminster Confession of Faith Ch.1 Sec.2",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 2\n\nUnder the name of holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testaments, which are these: Of the Old Testament: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, The Song of Songs, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi; Of the New Testament: The Gospels according to Matthew, Mark, Luke, John. The Acts of the Apostles, Paul&#39;s Epistles to the Romans, 1 Corinthians, 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 Thessalonians, 2 Thessalonians, 1 Timothy, 2 Timothy, Titus, Philemon, The Epistle to the Hebrews, The Epistle of James, The First and Second Epistles of Peter, The First, Second, and Third Epistles of John, The Epistle of Jude, The Revelation. All which are given by inspiration of God, to be the rule of faith and life.[1]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Luke.16.29, Luke.16.31, Eph.2.20, 2Tim.3.16, Rev.22.18-Rev.22.19</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of The Holy Scripture Being The True Word of God\nSection 4\n\nTHE PREACHING OF THE WORD OF GOD IS THE WORD OF GOD\n\nWherefore when this Word of God is now preached in the church by preachers lawfully called, we believe that the very Word of God is proclaimed, and received by the faithful; and that neither any other Word of God is to be invented nor is to be expected from heaven: and that now the Word itself which is preached is to be regarded, not the minister that preaches; for even if he be evil and a sinner, nevertheless the Word of God remains still true and good.\n\nNeither do we think that therefore the outward preaching is to be thought as fruitless because the instruction in true religion depends on the inward illumination of the Spirit, or because it is written &quot;And no longer shall each man teach his neighbor..., for they shall all know me&quot; (Jer. 31:34), And &quot;Neither he who plants nor he that waters is anything, but only God who gives the growth&quot; (I Cor. 3:7). For although &quot;No one can come to Christ unless he be drawn by the Father&quot; (John 6:44), And unless the Holy Spirit inwardly illumines him, yet we know that it is surely the will of God that his Word should be preached outwardly also. God could indeed, by his Holy Spirit, or by the ministry of an angel, without the ministry of St. Peter, have taught Cornelius in the Acts; but, nevertheless, he refers him to Peter, of whom the angel speaking says, &quot;He shall tell you what you ought to do.&quot;</div>",
       "guid": "second-helvetic-confession:ch1:sec4",
       "pub_date": "2026-05-17T06:43:32.149851555Z"
+    },
+    {
+      "title": "Westminster Larger Catechism Q3",
+      "description": "<div style='white-space: pre-wrap;'>Q3. What is the word of God?\n\nA. The holy scriptures of the Old and New Testaments are the word of God, the only rule of faith and obedience.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 2Tim.3.16, 2Pet.1.19-2Pet.1.21\n[2] Eph.2.20, Rev.22.18-Rev.22.19, Isa.8.20, Luke.16.29,Luke.16.31, Gal.1.8-Gal.1.9, 2Tim.3.15-2Tim.3.16</div>",
+      "guid": "westminster-larger-catechism:q3",
+      "pub_date": "2026-05-18T08:03:13.063577212Z"
     }
   ]
 }
