@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "athanasian-creed": 0,
-        "belgic-confession": 1,
+        "scots-confession": 0,
+        "westminster-larger-catechism": 3,
+        "westminster-shorter-catechism": 2,
         "1695-baptist-catechism": 2,
-        "95-theses": 1,
         "39-articles": 1,
-        "waldensian-confession": 0,
+        "london-baptist-1689": 2,
+        "savoy-declaration": 2,
+        "chicago-statement": 0,
+        "apostles-creed": 0,
         "irenaeus-rule-of-faith": 0,
-        "first-confession-of-basel": 0,
-        "chalcedonian-definition": 0,
-        "puritan-catechism": 1,
+        "heidelberg-catechism": 2,
+        "waldensian-confession": 0,
+        "athanasian-creed": 0,
+        "95-theses": 1,
         "second-helvetic-confession": 4,
         "nicene-creed": 0,
-        "savoy-declaration": 2,
-        "heidelberg-catechism": 2,
         "canons-of-dort": 1,
-        "apostles-creed": 0,
-        "london-baptist-1689": 2,
-        "westminster-larger-catechism": 3,
-        "westminster-confession": 2,
-        "scots-confession": 0,
-        "westminster-shorter-catechism": 2,
-        "chicago-statement": 0
+        "puritan-catechism": 1,
+        "westminster-confession": 3,
+        "belgic-confession": 1,
+        "first-confession-of-basel": 0,
+        "chalcedonian-definition": 0
       },
       "accumulated": [
         2.0,
@@ -79,7 +79,7 @@
         2.0,
         2.0,
         1.0,
-        2.0,
+        3.0,
         2.0,
         2.0,
         1.0,
@@ -97,17 +97,11 @@
         1.0,
         1.0
       ],
-      "turn": 24
+      "turn": 25
     },
-    "last_emitted": "2026-05-19T07:44:23.066902615Z"
+    "last_emitted": "2026-05-20T07:42:32.712876009Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.1 Sec.3",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of The Holy Scripture Being The True Word of God\nSection 3\n\nSCRIPTURE IS THE WORD OF GOD\n\nAgain, the selfsame apostle to the Thessalonians: &quot;When,&quot; says he, &quot;You received the word of God which you heard from us, you accepted it, not as the word of men but as what it really is, the Word of God,&quot; etc. (I Thess. 2:13) For the Lord himself has said in the gospel, &quot;It is not you who speak, but the Spirit of my Father speaking through you&quot;; therefore &quot;He who hears you hears me, and he who rejects me rejects him who sent me&quot; (Matt. 10:20; Luke 10:16; John 13:20)</div>",
-      "guid": "second-helvetic-confession:ch1:sec3",
-      "pub_date": "2026-05-10T06:32:31.537137176Z"
-    },
     {
       "title": "London Baptist Confession of 1689 Ch.1 Sec.2",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 2\n\nUnder the Name of Holy Scripture or the Word of God written; are now contained all the Books of the Old and New Testament which are these: Of the Old Testament: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, The Song of Songs, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi. Of the New Testament: Matthew, Mark, Luke, John, The Acts of the Apostles, Pauls Epistle to the Romans, 1 Corinthians, 2 Corinthians, Galatians, Ephesians, Phillippians, Colossians, 1 Thessalonians, 2 Thessalonians, 1 Timothy, 2 Timothy, to Titus, to Philemon, the Epistle to the Hebrews, the Epistle of James, the First and Second Epistles of Peter, the First, Second and Third Epistles of John, the Epistle of Jude, the Revelation.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q2. What rule hath God given to direct us how we may glorify and enjoy him?\n\nA. The Word of God, which is contained in the Scriptures of the Old and New Testaments, is the only rule to direct us how we may glorify and enjoy him.</div>",
       "guid": "westminster-shorter-catechism:q2",
       "pub_date": "2026-05-19T07:44:23.067205891Z"
+    },
+    {
+      "title": "Westminster Confession of Faith Ch.1 Sec.3",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 3\n\nThe books commonly called Apocrypha, not being of divine inspiration, are no part of the Canon of the Scripture; and therefore are of no authority in the Church of God, nor to be any otherwise approved, or made use of, than other human writings.[1]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Luke.24.27, Luke.24.44, Rom.3.2, 2Pet.1.21</div>",
+      "guid": "westminster-confession:ch1:sec3",
+      "pub_date": "2026-05-20T07:42:32.713184952Z"
     }
   ]
 }
