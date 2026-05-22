@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "athanasian-creed": 0,
-        "canons-of-dort": 1,
         "chalcedonian-definition": 0,
-        "london-baptist-1689": 2,
+        "1695-baptist-catechism": 2,
+        "second-helvetic-confession": 4,
+        "london-baptist-1689": 3,
+        "95-theses": 2,
+        "heidelberg-catechism": 2,
+        "belgic-confession": 1,
+        "39-articles": 1,
+        "irenaeus-rule-of-faith": 0,
+        "first-confession-of-basel": 0,
+        "canons-of-dort": 1,
+        "westminster-confession": 3,
+        "nicene-creed": 0,
+        "puritan-catechism": 1,
+        "athanasian-creed": 0,
+        "westminster-shorter-catechism": 2,
+        "scots-confession": 0,
+        "westminster-larger-catechism": 3,
+        "apostles-creed": 0,
         "waldensian-confession": 0,
         "savoy-declaration": 2,
-        "39-articles": 1,
-        "westminster-shorter-catechism": 2,
-        "95-theses": 2,
-        "westminster-larger-catechism": 3,
-        "scots-confession": 0,
-        "nicene-creed": 0,
-        "irenaeus-rule-of-faith": 0,
-        "heidelberg-catechism": 2,
-        "apostles-creed": 0,
-        "second-helvetic-confession": 4,
-        "westminster-confession": 3,
-        "chicago-statement": 0,
-        "belgic-confession": 1,
-        "first-confession-of-basel": 0,
-        "1695-baptist-catechism": 2,
-        "puritan-catechism": 1
+        "chicago-statement": 0
       },
       "accumulated": [
         2.0,
@@ -80,7 +80,7 @@
         2.0,
         1.0,
         3.0,
-        2.0,
+        3.0,
         2.0,
         1.0,
         4.0,
@@ -97,17 +97,11 @@
         1.0,
         2.0
       ],
-      "turn": 26
+      "turn": 27
     },
-    "last_emitted": "2026-05-21T07:52:00.866030732Z"
+    "last_emitted": "2026-05-22T07:43:54.547558283Z"
   },
   "recent_items": [
-    {
-      "title": "Savoy Declaration Ch.1 Sec.2",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 2\n\nUnder the name of holy Scripture, or the Word of God written, are now contained all the books of the Old and New Testaments, which are these: Of the Old Testament: Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1 Samuel, 2 Samuel, 1 Kings, 2 Kings, 1 Chronicles, 2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, The Song of Songs, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi; Of the New Testament: The Gospels according to Matthew, Mark, Luke, John. The Acts of the Apostles, Paul&#39;s Epistles to the Romans, 1 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 Thessalonians, 2 Thessalonians, 1 Timothy, 2 Timothy, Titus, Philemon, The Epistle to the Hebrews, The Epistle of James, The First and Second Epistles of Peter, The First, Second, and Third Epistles of John, The Epistle of Jude, The Revelation. All which are given by inspiration of God, to be the rule of faith and life.</div>",
-      "guid": "savoy-declaration:ch1:sec2",
-      "pub_date": "2026-05-12T06:36:55.154529610Z"
-    },
     {
       "title": "Thirty-nine Articles of Religion Art.1",
       "description": "<div style='white-space: pre-wrap;'>Article 1: Of Faith in the Holy Trinity.\n\nThere is but one living and true God, everlasting, without body, parts, or passions; of infinite power, wisdom, and goodness; the Maker, and Preserver of all things both visible and invisible. And in unity of this Godhead there be three Persons, of one substance, power, and eternity; the Father, the Son, and the Holy Ghost.\n</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Thesis 2\n\nThis word cannot be understood as referring to the sacrament of penance, that is, confession and satisfaction, as administered by the clergy.</div>",
       "guid": "95-theses:thesis2",
       "pub_date": "2026-05-21T07:52:00.866323662Z"
+    },
+    {
+      "title": "London Baptist Confession of 1689 Ch.1 Sec.3",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 3\n\nThe Books commonly called Apocrypha not being of Divine inspiration, are no part of the Canon (or rule) of the Scripture, and therefore are of no authority to the Church of God, nor to be any otherwise approved or made use of, then other humane writings.</div>",
+      "guid": "london-baptist-1689:ch1:sec3",
+      "pub_date": "2026-05-22T07:43:54.547845908Z"
     }
   ]
 }
