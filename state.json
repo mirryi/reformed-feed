@@ -50,27 +50,27 @@
         95
       ],
       "positions": {
-        "chalcedonian-definition": 0,
+        "westminster-confession": 3,
         "1695-baptist-catechism": 2,
+        "savoy-declaration": 3,
+        "heidelberg-catechism": 2,
+        "westminster-shorter-catechism": 2,
+        "puritan-catechism": 1,
         "second-helvetic-confession": 4,
+        "first-confession-of-basel": 0,
         "london-baptist-1689": 3,
         "95-theses": 2,
-        "heidelberg-catechism": 2,
-        "belgic-confession": 1,
-        "39-articles": 1,
-        "irenaeus-rule-of-faith": 0,
-        "first-confession-of-basel": 0,
-        "canons-of-dort": 1,
-        "westminster-confession": 3,
-        "nicene-creed": 0,
-        "puritan-catechism": 1,
         "athanasian-creed": 0,
-        "westminster-shorter-catechism": 2,
         "scots-confession": 0,
+        "belgic-confession": 1,
         "westminster-larger-catechism": 3,
+        "irenaeus-rule-of-faith": 0,
+        "39-articles": 1,
         "apostles-creed": 0,
+        "chalcedonian-definition": 0,
+        "canons-of-dort": 1,
+        "nicene-creed": 0,
         "waldensian-confession": 0,
-        "savoy-declaration": 2,
         "chicago-statement": 0
       },
       "accumulated": [
@@ -81,7 +81,7 @@
         1.0,
         3.0,
         3.0,
-        2.0,
+        3.0,
         1.0,
         4.0,
         1.0,
@@ -97,17 +97,11 @@
         1.0,
         2.0
       ],
-      "turn": 27
+      "turn": 28
     },
-    "last_emitted": "2026-05-22T07:43:54.547558283Z"
+    "last_emitted": "2026-05-23T06:33:12.016416801Z"
   },
   "recent_items": [
-    {
-      "title": "Thirty-nine Articles of Religion Art.1",
-      "description": "<div style='white-space: pre-wrap;'>Article 1: Of Faith in the Holy Trinity.\n\nThere is but one living and true God, everlasting, without body, parts, or passions; of infinite power, wisdom, and goodness; the Maker, and Preserver of all things both visible and invisible. And in unity of this Godhead there be three Persons, of one substance, power, and eternity; the Father, the Son, and the Holy Ghost.\n</div>",
-      "guid": "39-articles:art1",
-      "pub_date": "2026-05-13T06:47:30.639581805Z"
-    },
     {
       "title": "Heidelberg Catechism Q2",
       "description": "<div style='white-space: pre-wrap;'>Q2. What do you need to know in order to live and die in the joy of this comfort?\n\nA. First, how great my sins and misery are; second, how I am delivered from all my sins and misery; third, how I am to be thankful to God for such deliverance.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.3.9-Rom.3.10, 1John.1.10\n[2] John.17.3, Acts.4.12, Acts.10.43\n[3] Matt.5.16, Rom.6.13, Eph.5.8-Eph.5.10, 1Pet.2.9-1Pet.2.10</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 3\n\nThe Books commonly called Apocrypha not being of Divine inspiration, are no part of the Canon (or rule) of the Scripture, and therefore are of no authority to the Church of God, nor to be any otherwise approved or made use of, then other humane writings.</div>",
       "guid": "london-baptist-1689:ch1:sec3",
       "pub_date": "2026-05-22T07:43:54.547845908Z"
+    },
+    {
+      "title": "Savoy Declaration Ch.1 Sec.3",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 3\n\nThe books commonly called Apocrypha, not being of divine inspiration, are no part of the Canon of the Scripture; and therefore are of no authority in the Church of God, nor to be any otherwise approved, or made use of, than other human writings.</div>",
+      "guid": "savoy-declaration:ch1:sec3",
+      "pub_date": "2026-05-23T06:33:12.016664863Z"
     }
   ]
 }
