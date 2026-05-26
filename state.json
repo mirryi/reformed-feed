@@ -50,32 +50,32 @@
         95
       ],
       "positions": {
-        "39-articles": 1,
-        "first-confession-of-basel": 0,
-        "westminster-confession": 3,
-        "1695-baptist-catechism": 2,
-        "westminster-larger-catechism": 3,
-        "belgic-confession": 1,
         "irenaeus-rule-of-faith": 0,
-        "second-helvetic-confession": 5,
         "chalcedonian-definition": 0,
-        "apostles-creed": 0,
         "waldensian-confession": 0,
-        "puritan-catechism": 1,
+        "canons-of-dort": 2,
         "london-baptist-1689": 3,
+        "95-theses": 2,
+        "westminster-larger-catechism": 4,
+        "puritan-catechism": 1,
+        "scots-confession": 0,
+        "westminster-shorter-catechism": 2,
+        "1695-baptist-catechism": 2,
+        "first-confession-of-basel": 0,
+        "second-helvetic-confession": 5,
+        "39-articles": 1,
+        "apostles-creed": 0,
+        "chicago-statement": 0,
+        "belgic-confession": 1,
+        "athanasian-creed": 0,
+        "westminster-confession": 3,
         "savoy-declaration": 3,
         "nicene-creed": 0,
-        "westminster-shorter-catechism": 2,
-        "95-theses": 2,
-        "scots-confession": 0,
-        "heidelberg-catechism": 2,
-        "canons-of-dort": 2,
-        "chicago-statement": 0,
-        "athanasian-creed": 0
+        "heidelberg-catechism": 2
       },
       "accumulated": [
         2.0,
-        3.0,
+        4.0,
         2.0,
         2.0,
         1.0,
@@ -97,17 +97,11 @@
         1.0,
         2.0
       ],
-      "turn": 30
+      "turn": 31
     },
-    "last_emitted": "2026-05-25T08:20:25.059958987Z"
+    "last_emitted": "2026-05-26T07:44:06.487696139Z"
   },
   "recent_items": [
-    {
-      "title": "1695 Baptist Catechism Q2",
-      "description": "<div style='white-space: pre-wrap;'>Q2. Ought every One to believe there is a God?\n\nA. Every One ought to believe there is a God; and it is their great Sin and Folly who do not.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Heb.11.6\n[2] Ps.14.1</div>",
-      "guid": "1695-baptist-catechism:q2",
-      "pub_date": "2026-05-16T06:21:28.750155446Z"
-    },
     {
       "title": "Second Helvetic Confession Ch.1 Sec.4",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of The Holy Scripture Being The True Word of God\nSection 4\n\nTHE PREACHING OF THE WORD OF GOD IS THE WORD OF GOD\n\nWherefore when this Word of God is now preached in the church by preachers lawfully called, we believe that the very Word of God is proclaimed, and received by the faithful; and that neither any other Word of God is to be invented nor is to be expected from heaven: and that now the Word itself which is preached is to be regarded, not the minister that preaches; for even if he be evil and a sinner, nevertheless the Word of God remains still true and good.\n\nNeither do we think that therefore the outward preaching is to be thought as fruitless because the instruction in true religion depends on the inward illumination of the Spirit, or because it is written &quot;And no longer shall each man teach his neighbor..., for they shall all know me&quot; (Jer. 31:34), And &quot;Neither he who plants nor he that waters is anything, but only God who gives the growth&quot; (I Cor. 3:7). For although &quot;No one can come to Christ unless he be drawn by the Father&quot; (John 6:44), And unless the Holy Spirit inwardly illumines him, yet we know that it is surely the will of God that his Word should be preached outwardly also. God could indeed, by his Holy Spirit, or by the ministry of an angel, without the ministry of St. Peter, have taught Cornelius in the Acts; but, nevertheless, he refers him to Peter, of whom the angel speaking says, &quot;He shall tell you what you ought to do.&quot;</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A2\n\nBut in this the love of God was manifested, that He sent His only begotten Son into the world, that whosoever believeth on Him should not perish, but have everlasting life. &quot;In this was manifested the love of God toward us, because that God sent His only begotten Son into the world, that we might live through Him&quot; (1 John 4:9). &quot;For God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life&quot; (John 3:16).</div>",
       "guid": "canons-of-dort:ch1:secA2",
       "pub_date": "2026-05-25T08:20:25.060160321Z"
+    },
+    {
+      "title": "Westminster Larger Catechism Q4",
+      "description": "<div style='white-space: pre-wrap;'>Q4. How doth it appear that the scriptures are the word of God?\n\nA. The scriptures manifest themselves to be the word of God, by their majesty  and purity; by the consent of all the parts, and the scope of the whole, which is to give all glory to God; by their light and power to convince and convert sinners, to comfort and build up believers unto salvation: but the Spirit of God bearing witness by and with the scriptures in the heart of man, is alone able fully to persuade it that they are the very word of God.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Hos.8.12, 1Cor.2.6-1Cor.2.7,1Cor.2.13, Ps.119.18,Ps.119.129\n[2] Ps.12.6, Ps.119.140\n[3] Acts.10.43, Acts.26.22\n[4] Rom.3.19,Rom.3.27\n[5] Acts.23.28, Heb.4.12, Jas.1.18, Ps.19.7-Ps.19.9, Rom.15.4, Acts.20.32\n[6] John.16.13-John.16.14, John.20.31, 1John.2.20,1John.2.27</div>",
+      "guid": "westminster-larger-catechism:q4",
+      "pub_date": "2026-05-26T07:44:06.488003055Z"
     }
   ]
 }
