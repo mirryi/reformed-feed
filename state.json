@@ -50,34 +50,34 @@
         95
       ],
       "positions": {
-        "westminster-confession": 4,
-        "first-confession-of-basel": 0,
-        "nicene-creed": 0,
-        "puritan-catechism": 2,
-        "chicago-statement": 0,
-        "belgic-confession": 1,
-        "1695-baptist-catechism": 2,
-        "second-helvetic-confession": 6,
-        "chalcedonian-definition": 0,
         "irenaeus-rule-of-faith": 0,
-        "canons-of-dort": 2,
         "scots-confession": 1,
-        "london-baptist-1689": 3,
-        "95-theses": 2,
-        "apostles-creed": 0,
+        "1695-baptist-catechism": 3,
+        "canons-of-dort": 2,
         "savoy-declaration": 3,
-        "waldensian-confession": 0,
+        "london-baptist-1689": 3,
+        "chicago-statement": 0,
+        "apostles-creed": 0,
+        "95-theses": 2,
         "39-articles": 1,
         "westminster-shorter-catechism": 2,
         "heidelberg-catechism": 3,
+        "athanasian-creed": 0,
         "westminster-larger-catechism": 4,
-        "athanasian-creed": 0
+        "nicene-creed": 0,
+        "puritan-catechism": 2,
+        "belgic-confession": 1,
+        "westminster-confession": 4,
+        "waldensian-confession": 0,
+        "second-helvetic-confession": 6,
+        "chalcedonian-definition": 0,
+        "first-confession-of-basel": 0
       },
       "accumulated": [
         2.0,
         4.0,
         3.0,
-        2.0,
+        3.0,
         2.0,
         4.0,
         3.0,
@@ -97,17 +97,11 @@
         1.0,
         2.0
       ],
-      "turn": 36
+      "turn": 37
     },
-    "last_emitted": "2026-05-31T07:45:44.644196487Z"
+    "last_emitted": "2026-06-01T09:26:03.022516601Z"
   },
   "recent_items": [
-    {
-      "title": "London Baptist Confession of 1689 Ch.1 Sec.3",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 3\n\nThe Books commonly called Apocrypha not being of Divine inspiration, are no part of the Canon (or rule) of the Scripture, and therefore are of no authority to the Church of God, nor to be any otherwise approved or made use of, then other humane writings.</div>",
-      "guid": "london-baptist-1689:ch1:sec3",
-      "pub_date": "2026-05-22T07:43:54.547845908Z"
-    },
     {
       "title": "Savoy Declaration Ch.1 Sec.3",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 3\n\nThe books commonly called Apocrypha, not being of divine inspiration, are no part of the Canon of the Scripture; and therefore are of no authority in the Church of God, nor to be any otherwise approved, or made use of, than other human writings.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 4\n\nThe authority of the holy Scripture, for which it ought to be believed and obeyed, dependeth not upon the testimony of any man or church, but wholly upon God (who is truth itself), the Author thereof; and therefore it is to be received, because it is the Word of God.[1]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1Thess.2.13, 2Tim.3.16, 2Pet.1.19, 2Pet.1.21, 1John.5.9</div>",
       "guid": "westminster-confession:ch1:sec4",
       "pub_date": "2026-05-31T07:45:44.644499565Z"
+    },
+    {
+      "title": "1695 Baptist Catechism Q3",
+      "description": "<div style='white-space: pre-wrap;'>Q3. How may we know there is a God?\n\nA. The Light of Nature in Man, and the Works of God plainly declare there is a God; but his Word and Spirit only, do it fully and effectually, for the Salvation of Sinners.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.1.19-Rom.1.20, Ps.19.1-Ps.19.3, Acts.17.24\n[2] 1Cor.2.10, 2Tim.3.15-2Tim.3.16</div>",
+      "guid": "1695-baptist-catechism:q3",
+      "pub_date": "2026-06-01T09:26:03.022823343Z"
     }
   ]
 }
