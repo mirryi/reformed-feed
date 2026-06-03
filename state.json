@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "canons-of-dort": 2,
-        "heidelberg-catechism": 3,
         "second-helvetic-confession": 6,
+        "westminster-confession": 4,
+        "athanasian-creed": 0,
+        "apostles-creed": 0,
+        "irenaeus-rule-of-faith": 0,
+        "chicago-statement": 0,
+        "first-confession-of-basel": 0,
+        "95-theses": 2,
+        "scots-confession": 1,
+        "westminster-shorter-catechism": 2,
+        "waldensian-confession": 0,
         "belgic-confession": 1,
+        "nicene-creed": 0,
+        "london-baptist-1689": 4,
         "1695-baptist-catechism": 3,
         "39-articles": 1,
-        "apostles-creed": 0,
+        "heidelberg-catechism": 3,
         "puritan-catechism": 2,
-        "chalcedonian-definition": 0,
-        "westminster-shorter-catechism": 2,
+        "savoy-declaration": 4,
+        "canons-of-dort": 2,
         "westminster-larger-catechism": 4,
-        "chicago-statement": 0,
-        "irenaeus-rule-of-faith": 0,
-        "athanasian-creed": 0,
-        "london-baptist-1689": 4,
-        "westminster-confession": 4,
-        "95-theses": 2,
-        "nicene-creed": 0,
-        "waldensian-confession": 0,
-        "scots-confession": 1,
-        "first-confession-of-basel": 0,
-        "savoy-declaration": 3
+        "chalcedonian-definition": 0
       },
       "accumulated": [
         2.0,
@@ -81,7 +81,7 @@
         2.0,
         4.0,
         4.0,
-        3.0,
+        4.0,
         2.0,
         6.0,
         1.0,
@@ -97,17 +97,11 @@
         1.0,
         2.0
       ],
-      "turn": 38
+      "turn": 39
     },
-    "last_emitted": "2026-06-02T08:38:09.111987528Z"
+    "last_emitted": "2026-06-03T08:55:16.635383793Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.1 Sec.5",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of The Holy Scripture Being The True Word of God\nSection 5\n\nINWARD ILLUMINATION DOES NOT ELIMINATE EXTERNAL PREACHING\n\nFor he that illuminates inwardly by giving men the Holy Spirit, the same one, by way of commandment, said unto his disciples, &quot;Go into all the world, and preach the gospel to the whole creation&quot; (Mark 16:15). And so in Phillippi, Paul preached the word outwardly to Lydia, a seller of purple goods; but the Lord inwardly opened the woman&#39;s heart (Acts 16:14). And the same Paul, after a beautiful development of his thought, in Romans 10:17 at length comes to the conclusion, &quot;So faith comes from hearing and hearing from the Word of God by the preaching of Christ.&quot; \n\nAt the same time we recognize that God can illuminate whom and when he will, Even without the external ministry, for that is in his power; but we speak of the usual way of instructing men, delivered unto us from God, both by commandment and examples.</div>",
-      "guid": "second-helvetic-confession:ch1:sec5",
-      "pub_date": "2026-05-24T06:58:49.231933617Z"
-    },
     {
       "title": "Canons of Dort Ch.1 Sec.A2",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A2\n\nBut in this the love of God was manifested, that He sent His only begotten Son into the world, that whosoever believeth on Him should not perish, but have everlasting life. &quot;In this was manifested the love of God toward us, because that God sent His only begotten Son into the world, that we might live through Him&quot; (1 John 4:9). &quot;For God so loved the world, that He gave His only begotten Son, that whosoever believeth in Him should not perish, but have everlasting life&quot; (John 3:16).</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 4\n\nThe Authority of the Holy Scripture for which it ought to be believed dependeth not upon the testimony of any man, or Church; but wholly upon God (who is truth it self) the Author thereof; therefore it is to be received, because it is the Word of God.</div>",
       "guid": "london-baptist-1689:ch1:sec4",
       "pub_date": "2026-06-02T08:38:09.112269068Z"
+    },
+    {
+      "title": "Savoy Declaration Ch.1 Sec.4",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 4\n\nThe authority of the holy Scripture, for which it ought to be believed and obeyed, dependeth not upon the testimony of any man or church, but wholly upon God (who is truth itself), the Author thereof; and therefore it is to be received, because it is the Word of God.</div>",
+      "guid": "savoy-declaration:ch1:sec4",
+      "pub_date": "2026-06-03T08:55:16.635637427Z"
     }
   ]
 }
