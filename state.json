@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
+        "waldensian-confession": 0,
+        "apostles-creed": 0,
+        "puritan-catechism": 2,
+        "westminster-larger-catechism": 5,
+        "second-helvetic-confession": 7,
+        "savoy-declaration": 4,
+        "nicene-creed": 0,
+        "belgic-confession": 1,
         "athanasian-creed": 0,
         "39-articles": 1,
-        "scots-confession": 1,
-        "westminster-larger-catechism": 5,
-        "chalcedonian-definition": 0,
-        "puritan-catechism": 2,
-        "waldensian-confession": 0,
-        "nicene-creed": 0,
         "first-confession-of-basel": 0,
-        "second-helvetic-confession": 7,
-        "canons-of-dort": 2,
-        "belgic-confession": 1,
-        "savoy-declaration": 4,
-        "irenaeus-rule-of-faith": 0,
         "95-theses": 2,
         "1695-baptist-catechism": 3,
-        "london-baptist-1689": 4,
         "heidelberg-catechism": 3,
-        "apostles-creed": 0,
-        "chicago-statement": 0,
+        "westminster-confession": 4,
+        "scots-confession": 1,
+        "chalcedonian-definition": 0,
+        "london-baptist-1689": 4,
+        "irenaeus-rule-of-faith": 0,
+        "chicago-statement": 1,
         "westminster-shorter-catechism": 3,
-        "westminster-confession": 4
+        "canons-of-dort": 2
       },
       "accumulated": [
         3.0,
@@ -88,7 +88,7 @@
         1.0,
         0.0,
         0.0,
-        0.0,
+        1.0,
         0.0,
         0.0,
         0.0,
@@ -97,17 +97,11 @@
         1.0,
         2.0
       ],
-      "turn": 42
+      "turn": 43
     },
-    "last_emitted": "2026-06-06T06:51:50.330854906Z"
+    "last_emitted": "2026-06-07T07:55:07.272512433Z"
   },
   "recent_items": [
-    {
-      "title": "Scots Confession Art.1",
-      "description": "<div style='white-space: pre-wrap;'>Article 1: Of God\n\nWe confess and acknowledge one only God, to whom only we must cleave, whom only we must serve, whom only we must worship, and in whom only we must put our trust: who is eternal, infinite, immeasurable, incomprehensible, omnipotent, invisible; one in substance, and yet distinct in three persons: the Father, the Son, and the Holy Ghost; by whom we confess and believe all things in heaven and in earth, as well visible as invisible, to have been created, to be retained in their being, and to be ruled and guided by his inscrutable Providence, to such end as his eternal wisdom, goodness, and justice has appointed them, to the manifestation of his own glory.</div>",
-      "guid": "scots-confession:art1",
-      "pub_date": "2026-05-28T07:57:15.536239584Z"
-    },
     {
       "title": "Heidelberg Catechism Q3",
       "description": "<div style='white-space: pre-wrap;'>Q3. From where do you know your sins and misery?\n\nA. From the law of God.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.3.20</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q3. What do the Scriptures principally teach?\n\nA. The Scriptures principally teach what man is to believe concerning God, and what duty God requires of man.</div>",
       "guid": "westminster-shorter-catechism:q3",
       "pub_date": "2026-06-06T06:51:50.331130082Z"
+    },
+    {
+      "title": "Chicago Statement on Biblical Inerrancy Art.1",
+      "description": "<div style='white-space: pre-wrap;'>Article 1: Article I\n\nWE AFFIRM that the Holy Scriptures are to be received as the authoritative Word of God.\n\nWE DENY that the Scriptures receive their authority from the Church, tradition, or any other human source.</div>",
+      "guid": "chicago-statement:art1",
+      "pub_date": "2026-06-07T07:55:07.272756941Z"
     }
   ]
 }
