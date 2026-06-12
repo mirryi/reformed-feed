@@ -50,33 +50,33 @@
         95
       ],
       "positions": {
+        "heidelberg-catechism": 4,
+        "chalcedonian-definition": 0,
+        "westminster-confession": 5,
+        "39-articles": 1,
+        "westminster-shorter-catechism": 3,
+        "first-confession-of-basel": 0,
+        "westminster-larger-catechism": 5,
         "1695-baptist-catechism": 3,
         "apostles-creed": 0,
-        "savoy-declaration": 4,
         "puritan-catechism": 2,
+        "canons-of-dort": 3,
         "chicago-statement": 1,
         "london-baptist-1689": 4,
-        "waldensian-confession": 0,
-        "scots-confession": 1,
-        "westminster-confession": 5,
-        "second-helvetic-confession": 8,
-        "canons-of-dort": 3,
         "athanasian-creed": 0,
-        "westminster-larger-catechism": 5,
-        "first-confession-of-basel": 0,
-        "39-articles": 1,
         "nicene-creed": 0,
-        "chalcedonian-definition": 0,
-        "westminster-shorter-catechism": 3,
         "irenaeus-rule-of-faith": 0,
-        "heidelberg-catechism": 3,
         "belgic-confession": 1,
+        "scots-confession": 1,
+        "savoy-declaration": 4,
+        "waldensian-confession": 0,
+        "second-helvetic-confession": 8,
         "95-theses": 3
       },
       "accumulated": [
         3.0,
         5.0,
-        3.0,
+        4.0,
         3.0,
         2.0,
         5.0,
@@ -97,17 +97,11 @@
         1.0,
         3.0
       ],
-      "turn": 47
+      "turn": 48
     },
-    "last_emitted": "2026-06-11T08:46:54.358399885Z"
+    "last_emitted": "2026-06-12T08:25:27.833461557Z"
   },
   "recent_items": [
-    {
-      "title": "London Baptist Confession of 1689 Ch.1 Sec.4",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 4\n\nThe Authority of the Holy Scripture for which it ought to be believed dependeth not upon the testimony of any man, or Church; but wholly upon God (who is truth it self) the Author thereof; therefore it is to be received, because it is the Word of God.</div>",
-      "guid": "london-baptist-1689:ch1:sec4",
-      "pub_date": "2026-06-02T08:38:09.112269068Z"
-    },
     {
       "title": "Savoy Declaration Ch.1 Sec.4",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 4\n\nThe authority of the holy Scripture, for which it ought to be believed and obeyed, dependeth not upon the testimony of any man or church, but wholly upon God (who is truth itself), the Author thereof; and therefore it is to be received, because it is the Word of God.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of Interpreting The Holy Scripture; and of Fathers, Councils, and Traditions\nSection 1\n\nTHE TRUE INTERPRETATION OF SCRIPTURE\n\nThe apostle Peter has said that the Holy Scriptures are not of private interpretation (2 Pet. 1:20), and thus we do not allow all possible interpretations. Nor consequently do we acknowledge as the true or genuine interpretation of the Scriptures what is called the conception of the Roman Church, that is, what the defenders of the Roman Church plainly maintain should be thrust upon all for acceptance. But we hold that the interpretation of the Scripture to be orthodox and genuine which is gleaned from the Scriptures themselves (from the nature of the language in which they were written, likewise according to the circumstances in which they were set down, and expounded in the light of and unlike passages and of many and clearer passages) and which agree with the rule of faith and love, and contributes much to the glory of God and man&#39;s salvation.</div>",
       "guid": "second-helvetic-confession:ch2:sec1",
       "pub_date": "2026-06-11T08:46:54.358667970Z"
+    },
+    {
+      "title": "Heidelberg Catechism Q4",
+      "description": "<div style='white-space: pre-wrap;'>Q4. What does God&#39;s law require of us?\n\nA. Christ teaches us this in a summary in Matthew 22: You shall love the LORD your God with all your heart, and with all your soul, and with all your mind. This is the great and first commandment. And a second is like it, You shall love your neighbour as yourself. On these two commandments depend all the law and the prophets.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Deut.6.5\n[2] Lev.19.18</div>",
+      "guid": "heidelberg-catechism:q4",
+      "pub_date": "2026-06-12T08:25:27.833722237Z"
     }
   ]
 }
