@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "39-articles": 1,
-        "scots-confession": 1,
-        "95-theses": 3,
-        "second-helvetic-confession": 8,
-        "belgic-confession": 1,
-        "1695-baptist-catechism": 3,
-        "westminster-confession": 5,
-        "chalcedonian-definition": 0,
-        "heidelberg-catechism": 4,
         "nicene-creed": 0,
-        "savoy-declaration": 4,
-        "london-baptist-1689": 5,
+        "heidelberg-catechism": 4,
         "waldensian-confession": 0,
-        "westminster-larger-catechism": 6,
-        "chicago-statement": 1,
-        "athanasian-creed": 0,
+        "1695-baptist-catechism": 3,
         "apostles-creed": 0,
         "westminster-shorter-catechism": 3,
         "first-confession-of-basel": 0,
-        "irenaeus-rule-of-faith": 0,
         "canons-of-dort": 3,
-        "puritan-catechism": 2
+        "london-baptist-1689": 5,
+        "westminster-confession": 5,
+        "39-articles": 1,
+        "belgic-confession": 1,
+        "puritan-catechism": 2,
+        "second-helvetic-confession": 8,
+        "scots-confession": 1,
+        "chicago-statement": 1,
+        "athanasian-creed": 0,
+        "irenaeus-rule-of-faith": 0,
+        "savoy-declaration": 5,
+        "chalcedonian-definition": 0,
+        "westminster-larger-catechism": 6,
+        "95-theses": 3
       },
       "accumulated": [
         3.0,
@@ -81,7 +81,7 @@
         2.0,
         5.0,
         5.0,
-        4.0,
+        5.0,
         3.0,
         8.0,
         1.0,
@@ -97,17 +97,11 @@
         1.0,
         3.0
       ],
-      "turn": 50
+      "turn": 51
     },
-    "last_emitted": "2026-06-14T08:15:45.075230461Z"
+    "last_emitted": "2026-06-15T10:23:24.800869863Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.1 Sec.7",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of The Holy Scripture Being The True Word of God\nSection 7\n\nAPOCRYPHA\n\nAnd yet we do not conceal the fact that certain books of the Old Testament were by the ancient authors called apocryphal, and by the others ecclesiastical; in as much as some would have them read in the churches, but not advanced as an authority from which the faith is to be established. As Augustine also, in his De Civitate Dei, book 18, ch. 38, remarks that &quot;In the books of the Kings, the names and books of certain prophets are cited&quot;; but he adds that &quot;They are not in the canon&quot;; and that &quot;those books which we have suffice unto godliness.&quot;</div>",
-      "guid": "second-helvetic-confession:ch1:sec7",
-      "pub_date": "2026-06-05T08:06:11.988201333Z"
-    },
     {
       "title": "Westminster Shorter Catechism Q3",
       "description": "<div style='white-space: pre-wrap;'>Q3. What do the Scriptures principally teach?\n\nA. The Scriptures principally teach what man is to believe concerning God, and what duty God requires of man.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 5\n\nWe may be moved and induced by the testimony of the Church of God, to an high and reverent esteem of the Holy Scriptures; and the heavenliness of the matter, the efficacy of the Doctrine, and the Majesty of the stile, the consent of all the parts, the scope of the whole (which is to give all glory to God) the full discovery it makes of the only way of mans salvation, and many other incomparable Excellencies, and intire perfections thereof, are arguments whereby it doth abundantly evidence it self to be the Word of God; yet notwithstanding; our full perswasion, and assurance of the infallible truth, and divine authority thereof, is from the inward work of the Holy Spirit, bearing witness by and with the Word in our Hearts.</div>",
       "guid": "london-baptist-1689:ch1:sec5",
       "pub_date": "2026-06-14T08:15:45.075524393Z"
+    },
+    {
+      "title": "Savoy Declaration Ch.1 Sec.5",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 5\n\nWe may be moved and induced by the testimony of the Church to an high and reverent esteem of the holy Scripture; and the heavenliness of the matter, the efficacy of the doctrine, the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man&#39;s salvation, the many other incomparable excellencies, and the entire perfection thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God; yet, notwithstanding, our full persuasion and assurance of the infallible truth, and divine authority thereof, is from the inward work of the Holy Spirit, bearing witness by and with the Word in our hearts.</div>",
+      "guid": "savoy-declaration:ch1:sec5",
+      "pub_date": "2026-06-15T10:23:24.801155932Z"
     }
   ]
 }
