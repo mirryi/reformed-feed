@@ -51,33 +51,33 @@
       ],
       "positions": {
         "39-articles": 1,
-        "london-baptist-1689": 5,
-        "westminster-shorter-catechism": 3,
-        "irenaeus-rule-of-faith": 0,
-        "second-helvetic-confession": 9,
-        "westminster-confession": 5,
-        "belgic-confession": 1,
-        "savoy-declaration": 5,
-        "chalcedonian-definition": 0,
-        "first-confession-of-basel": 0,
-        "scots-confession": 1,
-        "heidelberg-catechism": 4,
-        "puritan-catechism": 3,
         "waldensian-confession": 0,
+        "london-baptist-1689": 5,
+        "puritan-catechism": 3,
+        "95-theses": 3,
+        "westminster-confession": 5,
+        "scots-confession": 1,
         "nicene-creed": 0,
-        "athanasian-creed": 0,
-        "1695-baptist-catechism": 3,
+        "1695-baptist-catechism": 4,
+        "heidelberg-catechism": 4,
+        "chalcedonian-definition": 0,
+        "westminster-shorter-catechism": 3,
+        "second-helvetic-confession": 9,
         "apostles-creed": 0,
         "chicago-statement": 1,
+        "savoy-declaration": 5,
         "westminster-larger-catechism": 6,
-        "95-theses": 3,
-        "canons-of-dort": 3
+        "first-confession-of-basel": 0,
+        "belgic-confession": 1,
+        "canons-of-dort": 3,
+        "athanasian-creed": 0,
+        "irenaeus-rule-of-faith": 0
       },
       "accumulated": [
         3.0,
         6.0,
         4.0,
-        3.0,
+        4.0,
         3.0,
         5.0,
         5.0,
@@ -97,17 +97,11 @@
         1.0,
         3.0
       ],
-      "turn": 53
+      "turn": 54
     },
-    "last_emitted": "2026-06-17T09:02:17.514453328Z"
+    "last_emitted": "2026-06-18T08:47:23.260010321Z"
   },
   "recent_items": [
-    {
-      "title": "Martin Luther's 95 theses Thesis 3",
-      "description": "<div style='white-space: pre-wrap;'>Thesis 3\n\nYet it does not mean solely inner repentance; such inner repentance is worthless unless it produces various outward mortification of the flesh.</div>",
-      "guid": "95-theses:thesis3",
-      "pub_date": "2026-06-08T08:54:43.676695712Z"
-    },
     {
       "title": "Westminster Confession of Faith Ch.1 Sec.5",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 5\n\nWe may be moved and induced by the testimony of the Church to an high and reverent esteem of the holy Scripture;[1] and the heavenliness of the matter, the efficacy of the doctrine, the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man&#39;s salvation, the many other incomparable excellencies, and the entire perfection thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God; yet, notwithstanding, our full persuasion and assurance of the infallible truth, and divine authority thereof, is from the inward work of the Holy Spirit, bearing witness by and with the Word in our hearts.[2]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1Tim.3.15\n[2] Isa.59.21, John.16.13-John.16.14, 1Cor.2.10-1Cor.2.12, 1John.2.20, 1John.2.27</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of Interpreting The Holy Scripture; and of Fathers, Councils, and Traditions\nSection 2\n\nINTERPRETATIONS OF THE HOLY FATHERS\n\nWherefore we do not despise the interpretations of the holy Greek and Latin fathers, nor reject their disputations and treatises concerning sacred matters as far as they agree with the Scriptures; but we modestly dissent from them when they are found to set down things differing from, or altogether contrary to, the Scriptures. Neither do we think that we do them any wrong in this matter; seeing that they all, with one consent, will not have their writings equated with the canonical Scriptures, but command us to prove how far they agree or disagree with them, and to accept what is in agreement and to reject what is in disagreement.</div>",
       "guid": "second-helvetic-confession:ch2:sec2",
       "pub_date": "2026-06-17T09:02:17.514712031Z"
+    },
+    {
+      "title": "1695 Baptist Catechism Q4",
+      "description": "<div style='white-space: pre-wrap;'>Q4. What is the Word of God?\n\nA. The Holy Scriptures of the Old and New Testaments are the Word of God, and the only certain Rule of Faith and Obedience.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 2Tim.3.16, Eph.2.20</div>",
+      "guid": "1695-baptist-catechism:q4",
+      "pub_date": "2026-06-18T08:47:23.260296757Z"
     }
   ]
 }
