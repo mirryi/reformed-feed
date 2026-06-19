@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "39-articles": 1,
+        "first-confession-of-basel": 0,
         "waldensian-confession": 0,
-        "london-baptist-1689": 5,
+        "westminster-confession": 6,
         "puritan-catechism": 3,
+        "canons-of-dort": 3,
+        "london-baptist-1689": 5,
         "95-theses": 3,
-        "westminster-confession": 5,
         "scots-confession": 1,
-        "nicene-creed": 0,
         "1695-baptist-catechism": 4,
+        "westminster-larger-catechism": 6,
+        "athanasian-creed": 0,
         "heidelberg-catechism": 4,
+        "second-helvetic-confession": 9,
+        "nicene-creed": 0,
+        "irenaeus-rule-of-faith": 0,
+        "39-articles": 1,
         "chalcedonian-definition": 0,
         "westminster-shorter-catechism": 3,
-        "second-helvetic-confession": 9,
-        "apostles-creed": 0,
         "chicago-statement": 1,
-        "savoy-declaration": 5,
-        "westminster-larger-catechism": 6,
-        "first-confession-of-basel": 0,
         "belgic-confession": 1,
-        "canons-of-dort": 3,
-        "athanasian-creed": 0,
-        "irenaeus-rule-of-faith": 0
+        "savoy-declaration": 5,
+        "apostles-creed": 0
       },
       "accumulated": [
         3.0,
@@ -79,7 +79,7 @@
         4.0,
         4.0,
         3.0,
-        5.0,
+        6.0,
         5.0,
         5.0,
         3.0,
@@ -97,17 +97,11 @@
         1.0,
         3.0
       ],
-      "turn": 54
+      "turn": 55
     },
-    "last_emitted": "2026-06-18T08:47:23.260010321Z"
+    "last_emitted": "2026-06-19T09:05:32.529180903Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Confession of Faith Ch.1 Sec.5",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 5\n\nWe may be moved and induced by the testimony of the Church to an high and reverent esteem of the holy Scripture;[1] and the heavenliness of the matter, the efficacy of the doctrine, the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man&#39;s salvation, the many other incomparable excellencies, and the entire perfection thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God; yet, notwithstanding, our full persuasion and assurance of the infallible truth, and divine authority thereof, is from the inward work of the Holy Spirit, bearing witness by and with the Word in our hearts.[2]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1Tim.3.15\n[2] Isa.59.21, John.16.13-John.16.14, 1Cor.2.10-1Cor.2.12, 1John.2.20, 1John.2.27</div>",
-      "guid": "westminster-confession:ch1:sec5",
-      "pub_date": "2026-06-09T07:48:13.290896303Z"
-    },
     {
       "title": "Canons of Dort Ch.1 Sec.A3",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A3\n\nAnd that men may be brought to believe, God mercifully sends the messengers of these most joyful tidings to whom He will and at what time He pleaseth; by whose ministry men are called to repentance and faith in Christ crucified. &quot;How then shall they call on Him in whom they have not believed? and how shall they believe in Him of whom they have not heard? and how shall they hear without a preacher? And how shall they preach, except they be sent?&quot; (Rom. 10:14-15).</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q4. What is the Word of God?\n\nA. The Holy Scriptures of the Old and New Testaments are the Word of God, and the only certain Rule of Faith and Obedience.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 2Tim.3.16, Eph.2.20</div>",
       "guid": "1695-baptist-catechism:q4",
       "pub_date": "2026-06-18T08:47:23.260296757Z"
+    },
+    {
+      "title": "Westminster Confession of Faith Ch.1 Sec.6",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 6\n\nThe whole counsel of God, concerning all things necessary for his own glory, man&#39;s salvation, faith, and life, is either expressly set down in Scripture, or by good and necessary consequence may be deduced from Scripture: unto which nothing at any time is to be added, whether by new revelations of the Spirit, or traditions of men.[1] Nevertheless we acknowledge the inward illumination of the Spirit of God to be necessary for the saving understanding of such things as are revealed in the Word;[2] and that there are some circumstances concerning the worship of God, and government of the Church, common to human actions and societies, which are to be ordered by the light of nature and Christian prudence, according to the general rules of the Word, which are always to be observed.[3]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gal.1.8-Gal.1.9, 2Thess.2.2, 2Tim.3.15-2Tim.3.17\n[3] 1Cor.11.13-1Cor.11.14, 1Cor.14.26, 1Cor.14.40\n[2] John.6.45, 1Cor.2.9-1Cor.2.12</div>",
+      "guid": "westminster-confession:ch1:sec6",
+      "pub_date": "2026-06-19T09:05:32.529447160Z"
     }
   ]
 }
