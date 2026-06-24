@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "irenaeus-rule-of-faith": 0,
-        "second-helvetic-confession": 10,
-        "westminster-confession": 6,
-        "scots-confession": 1,
-        "chicago-statement": 1,
-        "nicene-creed": 0,
-        "london-baptist-1689": 5,
-        "1695-baptist-catechism": 4,
-        "39-articles": 1,
-        "westminster-larger-catechism": 7,
-        "heidelberg-catechism": 4,
-        "waldensian-confession": 1,
-        "first-confession-of-basel": 0,
-        "chalcedonian-definition": 0,
-        "athanasian-creed": 0,
-        "puritan-catechism": 3,
-        "westminster-shorter-catechism": 4,
         "belgic-confession": 1,
+        "chicago-statement": 1,
+        "westminster-confession": 6,
+        "puritan-catechism": 3,
         "savoy-declaration": 5,
         "canons-of-dort": 3,
+        "chalcedonian-definition": 0,
+        "apostles-creed": 0,
+        "heidelberg-catechism": 4,
+        "irenaeus-rule-of-faith": 0,
+        "westminster-larger-catechism": 7,
+        "39-articles": 1,
+        "nicene-creed": 0,
+        "scots-confession": 1,
         "95-theses": 3,
-        "apostles-creed": 0
+        "second-helvetic-confession": 10,
+        "london-baptist-1689": 6,
+        "first-confession-of-basel": 0,
+        "athanasian-creed": 0,
+        "westminster-shorter-catechism": 4,
+        "waldensian-confession": 1,
+        "1695-baptist-catechism": 4
       },
       "accumulated": [
         4.0,
@@ -80,7 +80,7 @@
         4.0,
         3.0,
         6.0,
-        5.0,
+        6.0,
         5.0,
         3.0,
         10.0,
@@ -97,17 +97,11 @@
         1.0,
         3.0
       ],
-      "turn": 59
+      "turn": 60
     },
-    "last_emitted": "2026-06-23T07:49:02.091632271Z"
+    "last_emitted": "2026-06-24T07:39:49.283256234Z"
   },
   "recent_items": [
-    {
-      "title": "London Baptist Confession of 1689 Ch.1 Sec.5",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 5\n\nWe may be moved and induced by the testimony of the Church of God, to an high and reverent esteem of the Holy Scriptures; and the heavenliness of the matter, the efficacy of the Doctrine, and the Majesty of the stile, the consent of all the parts, the scope of the whole (which is to give all glory to God) the full discovery it makes of the only way of mans salvation, and many other incomparable Excellencies, and intire perfections thereof, are arguments whereby it doth abundantly evidence it self to be the Word of God; yet notwithstanding; our full perswasion, and assurance of the infallible truth, and divine authority thereof, is from the inward work of the Holy Spirit, bearing witness by and with the Word in our Hearts.</div>",
-      "guid": "london-baptist-1689:ch1:sec5",
-      "pub_date": "2026-06-14T08:15:45.075524393Z"
-    },
     {
       "title": "Savoy Declaration Ch.1 Sec.5",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 5\n\nWe may be moved and induced by the testimony of the Church to an high and reverent esteem of the holy Scripture; and the heavenliness of the matter, the efficacy of the doctrine, the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man&#39;s salvation, the many other incomparable excellencies, and the entire perfection thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God; yet, notwithstanding, our full persuasion and assurance of the infallible truth, and divine authority thereof, is from the inward work of the Holy Spirit, bearing witness by and with the Word in our hearts.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of Interpreting The Holy Scripture; and of Fathers, Councils, and Traditions\nSection 3\n\nCOUNCILS\n\nAnd in the same order also we place the decrees and canons of councils. \n\nWherefore we do not permit ourselves, in controversies about religion or matters of faith, to urge our case with only the opinions of the fathers or decrees of councils; much less by received customs, or by the large number of those who share the same opinion, or by the prescription of a long time. Who Is The Judge? Therefore, we do not admit any other judge than God himself, who proclaims by the Holy Scriptures what is true, what is false, what is to be followed, or what to be avoided. So we do assent to the judgments of spiritual men which are drawn from the Word of God. Certainly Jeremiah and other prophets vehemently condemned the assemblies of priests which were set up against the law of God; and diligently admonished us that we should not listen to the fathers, or tread in their path who, walking in their own inventions, swerved from the law of God.</div>",
       "guid": "second-helvetic-confession:ch2:sec3",
       "pub_date": "2026-06-23T07:49:02.091891996Z"
+    },
+    {
+      "title": "London Baptist Confession of 1689 Ch.1 Sec.6",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 6\n\nThe whole Councel of God concerning all things necessary for his own Glory, Mans Salvation, Faith and Life, is either expressely set down or necessarily contained in the Holy Scripture; unto which nothing at any time is to be added, whether by new Revelation of the Spirit, or traditions of men.Nevertheless we acknowledge the inward illumination of the Spirit of God, to be necessary for the saving understanding of such things as are revealed in the Word, and that there are some circumstances concerning the worship of God, and government of the Church common to humane actions and societies; which are to be ordered by the light of nature, and Christian prudence according to the general rules of the Word, which are always to be observed.</div>",
+      "guid": "london-baptist-1689:ch1:sec6",
+      "pub_date": "2026-06-24T07:39:49.283696578Z"
     }
   ]
 }
