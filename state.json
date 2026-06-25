@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "belgic-confession": 1,
+        "first-confession-of-basel": 0,
+        "1695-baptist-catechism": 4,
+        "london-baptist-1689": 6,
+        "westminster-shorter-catechism": 4,
+        "chalcedonian-definition": 0,
+        "heidelberg-catechism": 4,
+        "savoy-declaration": 6,
+        "westminster-larger-catechism": 7,
+        "athanasian-creed": 0,
         "chicago-statement": 1,
         "westminster-confession": 6,
-        "puritan-catechism": 3,
-        "savoy-declaration": 5,
         "canons-of-dort": 3,
-        "chalcedonian-definition": 0,
-        "apostles-creed": 0,
-        "heidelberg-catechism": 4,
-        "irenaeus-rule-of-faith": 0,
-        "westminster-larger-catechism": 7,
+        "belgic-confession": 1,
         "39-articles": 1,
-        "nicene-creed": 0,
-        "scots-confession": 1,
         "95-theses": 3,
-        "second-helvetic-confession": 10,
-        "london-baptist-1689": 6,
-        "first-confession-of-basel": 0,
-        "athanasian-creed": 0,
-        "westminster-shorter-catechism": 4,
         "waldensian-confession": 1,
-        "1695-baptist-catechism": 4
+        "apostles-creed": 0,
+        "second-helvetic-confession": 10,
+        "puritan-catechism": 3,
+        "nicene-creed": 0,
+        "irenaeus-rule-of-faith": 0,
+        "scots-confession": 1
       },
       "accumulated": [
         4.0,
@@ -81,7 +81,7 @@
         3.0,
         6.0,
         6.0,
-        5.0,
+        6.0,
         3.0,
         10.0,
         1.0,
@@ -97,17 +97,11 @@
         1.0,
         3.0
       ],
-      "turn": 60
+      "turn": 61
     },
-    "last_emitted": "2026-06-24T07:39:49.283256234Z"
+    "last_emitted": "2026-06-25T07:41:16.210059791Z"
   },
   "recent_items": [
-    {
-      "title": "Savoy Declaration Ch.1 Sec.5",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 5\n\nWe may be moved and induced by the testimony of the Church to an high and reverent esteem of the holy Scripture; and the heavenliness of the matter, the efficacy of the doctrine, the majesty of the style, the consent of all the parts, the scope of the whole (which is to give all glory to God), the full discovery it makes of the only way of man&#39;s salvation, the many other incomparable excellencies, and the entire perfection thereof, are arguments whereby it doth abundantly evidence itself to be the Word of God; yet, notwithstanding, our full persuasion and assurance of the infallible truth, and divine authority thereof, is from the inward work of the Holy Spirit, bearing witness by and with the Word in our hearts.</div>",
-      "guid": "savoy-declaration:ch1:sec5",
-      "pub_date": "2026-06-15T10:23:24.801155932Z"
-    },
     {
       "title": "Puritan Catechism Q3",
       "description": "<div style='white-space: pre-wrap;'>Q3. What do the Scriptures principally teach?\n\nA. The Scriptures principally teach what man is to believe concerning God, and what duty God requires of man.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 2Tim.1.13, Eccl.12.13</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 6\n\nThe whole Councel of God concerning all things necessary for his own Glory, Mans Salvation, Faith and Life, is either expressely set down or necessarily contained in the Holy Scripture; unto which nothing at any time is to be added, whether by new Revelation of the Spirit, or traditions of men.Nevertheless we acknowledge the inward illumination of the Spirit of God, to be necessary for the saving understanding of such things as are revealed in the Word, and that there are some circumstances concerning the worship of God, and government of the Church common to humane actions and societies; which are to be ordered by the light of nature, and Christian prudence according to the general rules of the Word, which are always to be observed.</div>",
       "guid": "london-baptist-1689:ch1:sec6",
       "pub_date": "2026-06-24T07:39:49.283696578Z"
+    },
+    {
+      "title": "Savoy Declaration Ch.1 Sec.6",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 6\n\nThe whole counsel of God, concerning all things necessary for his own glory, man&#39;s salvation, faith, and life, is either expressly set down in Scripture, or by good and necessary consequence may be deduced from Scripture: unto which nothing at any time is to be added, whether by new revelations of the Spirit, or traditions of men. Nevertheless we acknowledge the inward illumination of the Spirit of God to be necessary for the saving understanding of such things as are revealed in the Word; and that there are some circumstances concerning the worship of God, and government of the Church, common to human actions and societies, which are to be ordered by the light of nature and Christian prudence, according to the general rules of the Word, which are always to be observed.</div>",
+      "guid": "savoy-declaration:ch1:sec6",
+      "pub_date": "2026-06-25T07:41:16.210323179Z"
     }
   ]
 }
