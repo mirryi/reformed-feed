@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "westminster-shorter-catechism": 4,
-        "95-theses": 3,
-        "first-confession-of-basel": 0,
-        "puritan-catechism": 3,
+        "waldensian-confession": 1,
         "nicene-creed": 0,
-        "1695-baptist-catechism": 4,
         "chicago-statement": 1,
         "scots-confession": 1,
-        "waldensian-confession": 1,
-        "westminster-confession": 6,
-        "chalcedonian-definition": 0,
         "39-articles": 1,
+        "chalcedonian-definition": 0,
         "london-baptist-1689": 6,
-        "westminster-larger-catechism": 7,
         "apostles-creed": 0,
-        "canons-of-dort": 3,
-        "irenaeus-rule-of-faith": 0,
-        "belgic-confession": 1,
         "savoy-declaration": 6,
-        "second-helvetic-confession": 10,
+        "westminster-shorter-catechism": 4,
+        "95-theses": 3,
+        "heidelberg-catechism": 5,
+        "first-confession-of-basel": 1,
+        "1695-baptist-catechism": 4,
+        "westminster-confession": 6,
         "athanasian-creed": 0,
-        "heidelberg-catechism": 5
+        "irenaeus-rule-of-faith": 0,
+        "puritan-catechism": 3,
+        "belgic-confession": 1,
+        "second-helvetic-confession": 10,
+        "westminster-larger-catechism": 7,
+        "canons-of-dort": 3
       },
       "accumulated": [
         4.0,
@@ -86,7 +86,7 @@
         10.0,
         1.0,
         1.0,
-        0.0,
+        1.0,
         1.0,
         1.0,
         0.0,
@@ -97,17 +97,11 @@
         1.0,
         3.0
       ],
-      "turn": 62
+      "turn": 63
     },
-    "last_emitted": "2026-06-26T07:51:45.523570316Z"
+    "last_emitted": "2026-06-27T06:51:40.762407027Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.2 Sec.2",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of Interpreting The Holy Scripture; and of Fathers, Councils, and Traditions\nSection 2\n\nINTERPRETATIONS OF THE HOLY FATHERS\n\nWherefore we do not despise the interpretations of the holy Greek and Latin fathers, nor reject their disputations and treatises concerning sacred matters as far as they agree with the Scriptures; but we modestly dissent from them when they are found to set down things differing from, or altogether contrary to, the Scriptures. Neither do we think that we do them any wrong in this matter; seeing that they all, with one consent, will not have their writings equated with the canonical Scriptures, but command us to prove how far they agree or disagree with them, and to accept what is in agreement and to reject what is in disagreement.</div>",
-      "guid": "second-helvetic-confession:ch2:sec2",
-      "pub_date": "2026-06-17T09:02:17.514712031Z"
-    },
     {
       "title": "1695 Baptist Catechism Q4",
       "description": "<div style='white-space: pre-wrap;'>Q4. What is the Word of God?\n\nA. The Holy Scriptures of the Old and New Testaments are the Word of God, and the only certain Rule of Faith and Obedience.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 2Tim.3.16, Eph.2.20</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q5. Can you keep all this perfectly?\n\nA. No, I am inclined by nature to hate God and my neighbour.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.3.10,Rom.3.23, 1John.1.8,1John.1.10\n[2] Gen.6.5, Gen.8.21, Jer.17.9, Rom.7.23, Rom.8.7, Eph.2.3, Titus.3.3</div>",
       "guid": "heidelberg-catechism:q5",
       "pub_date": "2026-06-26T07:51:45.523886995Z"
+    },
+    {
+      "title": "First Confession of Basel Art.I",
+      "description": "<div style='white-space: pre-wrap;'>Article I: CONCERNING GOD\n\nWe believe in God the Father, God the Son, God the Holy Spirit, one holy, divine Trinity, three Persons and one single, eternal, almighty God, in essence and substance, and not three gods. We also believe that God has created all things by His eternal Word, that is, by His only-begotten Son, and preserves and strengthens all things by His Spirit, that is, by His power; and therefore, God sustains and governs all things as He created them.[1]\n\nHence we confess that before He created the world God elected all those upon whom He willed to bestow the inheritance of eternal salvation.[2]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1.1, John.1.14, 1Chr.29.11-1Chr.29.12, Acts.2.23\n[2] Rom.8.28, Rom.9.6, Rom.11.5, Eph.1.4</div>",
+      "guid": "first-confession-of-basel:artI",
+      "pub_date": "2026-06-27T06:51:40.762708940Z"
     }
   ]
 }
