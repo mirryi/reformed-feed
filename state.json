@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "second-helvetic-confession": 10,
-        "chalcedonian-definition": 0,
+        "westminster-larger-catechism": 7,
         "nicene-creed": 0,
-        "heidelberg-catechism": 5,
-        "irenaeus-rule-of-faith": 0,
-        "westminster-shorter-catechism": 4,
-        "waldensian-confession": 1,
         "london-baptist-1689": 6,
-        "95-theses": 4,
-        "athanasian-creed": 0,
-        "39-articles": 1,
-        "westminster-confession": 6,
-        "apostles-creed": 0,
-        "first-confession-of-basel": 1,
+        "heidelberg-catechism": 5,
         "puritan-catechism": 3,
         "scots-confession": 1,
+        "apostles-creed": 0,
+        "westminster-confession": 6,
+        "canons-of-dort": 4,
+        "athanasian-creed": 0,
+        "second-helvetic-confession": 11,
+        "chicago-statement": 1,
+        "irenaeus-rule-of-faith": 0,
+        "39-articles": 1,
+        "chalcedonian-definition": 0,
+        "first-confession-of-basel": 1,
+        "belgic-confession": 1,
+        "waldensian-confession": 1,
+        "95-theses": 4,
         "1695-baptist-catechism": 4,
         "savoy-declaration": 6,
-        "canons-of-dort": 4,
-        "chicago-statement": 1,
-        "westminster-larger-catechism": 7,
-        "belgic-confession": 1
+        "westminster-shorter-catechism": 4
       },
       "accumulated": [
         4.0,
@@ -83,7 +83,7 @@
         6.0,
         6.0,
         4.0,
-        10.0,
+        11.0,
         1.0,
         1.0,
         1.0,
@@ -97,17 +97,11 @@
         1.0,
         4.0
       ],
-      "turn": 65
+      "turn": 66
     },
-    "last_emitted": "2026-06-29T08:58:03.962238712Z"
+    "last_emitted": "2026-06-30T07:53:09.736995279Z"
   },
   "recent_items": [
-    {
-      "title": "Waldensian Confession Art.1",
-      "description": "<div style='white-space: pre-wrap;'>Article 1: Article 1\n\nWe believe and firmly hold all that which is contained in the twelve Articles of the Symbol, which is called the Apostles&#39; Creed, accounting for Heresie whatsoever is disagreeing, and not consonant to the said 12 Articles.</div>",
-      "guid": "waldensian-confession:art1",
-      "pub_date": "2026-06-20T07:50:21.313573255Z"
-    },
     {
       "title": "Westminster Shorter Catechism Q4",
       "description": "<div style='white-space: pre-wrap;'>Q4. What is God?\n\nA. God is a Spirit, infinite, eternal, and unchangeable in his being, wisdom, power, holiness, justice, goodness, and truth.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A4\n\nThe wrath of God abideth upon those who believe not this gospel. But such as receive it, and embrace Jesus the Savior by a true and living faith, are by Him delivered from the wrath of God and from destruction, and have the gift of eternal life conferred upon them.</div>",
       "guid": "canons-of-dort:ch1:secA4",
       "pub_date": "2026-06-29T08:58:03.962505932Z"
+    },
+    {
+      "title": "Second Helvetic Confession Ch.2 Sec.4",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of Interpreting The Holy Scripture; and of Fathers, Councils, and Traditions\nSection 4\n\nTRADITIONS OF MEN\n\nLikewise we reject human traditions, even if they be adorned with high-sounding titles, as though they were divine and apostolical, delivered to the Church by the living voice of the apostles, and, as it were, through the hands of apostolical men to succeeding bishops which, when compared with the Scriptures, disagree with them; and by their disagreement show that they are not Apostolic at all. For as the apostles did not contradict themselves in doctrine, so the apostolic men did not set forth things contrary to the apostles. On the contrary, it would be wicked to assert that the apostles by a living voice delivered anything contrary to their writings. Paul affirms expressly that he taught the same things in all churches (I Cor. 4:17). And, again, &quot;For we write you nothing but what you can read and understand.&quot; (II Cor. 1:13). Also, in another place, he testifies that he and his disciples - that is, apostolic men - walked in the same way, and jointly by the same Spirit did all things (II Cor. 12:18). Moreover, the Jews in former times had the traditions of their elders; but these traditions were severely rejected by the Lord, indicating that the keeping of them hinders God&#39;s law, and that God is worshipped in vain by such traditions (Matt. 15:1 ff.; Mark 7:1 ff).</div>",
+      "guid": "second-helvetic-confession:ch2:sec4",
+      "pub_date": "2026-06-30T07:53:09.737229252Z"
     }
   ]
 }
