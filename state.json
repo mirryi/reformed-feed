@@ -50,34 +50,34 @@
         95
       ],
       "positions": {
+        "savoy-declaration": 6,
+        "athanasian-creed": 0,
+        "westminster-shorter-catechism": 4,
+        "apostles-creed": 0,
+        "chalcedonian-definition": 0,
+        "chicago-statement": 1,
+        "waldensian-confession": 1,
+        "westminster-larger-catechism": 8,
+        "belgic-confession": 1,
         "95-theses": 4,
+        "1695-baptist-catechism": 5,
         "westminster-confession": 7,
         "canons-of-dort": 4,
-        "1695-baptist-catechism": 4,
-        "39-articles": 2,
-        "athanasian-creed": 0,
-        "irenaeus-rule-of-faith": 0,
-        "puritan-catechism": 3,
-        "savoy-declaration": 6,
-        "london-baptist-1689": 6,
-        "westminster-shorter-catechism": 4,
-        "waldensian-confession": 1,
-        "belgic-confession": 1,
-        "apostles-creed": 0,
         "nicene-creed": 0,
+        "second-helvetic-confession": 11,
+        "heidelberg-catechism": 5,
         "scots-confession": 1,
         "first-confession-of-basel": 1,
-        "chalcedonian-definition": 0,
-        "westminster-larger-catechism": 8,
-        "heidelberg-catechism": 5,
-        "chicago-statement": 1,
-        "second-helvetic-confession": 11
+        "puritan-catechism": 3,
+        "irenaeus-rule-of-faith": 0,
+        "39-articles": 2,
+        "london-baptist-1689": 6
       },
       "accumulated": [
         4.0,
         8.0,
         5.0,
-        4.0,
+        5.0,
         3.0,
         7.0,
         6.0,
@@ -97,17 +97,11 @@
         2.0,
         4.0
       ],
-      "turn": 69
+      "turn": 70
     },
-    "last_emitted": "2026-07-03T07:19:42.001100171Z"
+    "last_emitted": "2026-07-04T06:46:12.715410202Z"
   },
   "recent_items": [
-    {
-      "title": "London Baptist Confession of 1689 Ch.1 Sec.6",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 6\n\nThe whole Councel of God concerning all things necessary for his own Glory, Mans Salvation, Faith and Life, is either expressely set down or necessarily contained in the Holy Scripture; unto which nothing at any time is to be added, whether by new Revelation of the Spirit, or traditions of men.Nevertheless we acknowledge the inward illumination of the Spirit of God, to be necessary for the saving understanding of such things as are revealed in the Word, and that there are some circumstances concerning the worship of God, and government of the Church common to humane actions and societies; which are to be ordered by the light of nature, and Christian prudence according to the general rules of the Word, which are always to be observed.</div>",
-      "guid": "london-baptist-1689:ch1:sec6",
-      "pub_date": "2026-06-24T07:39:49.283696578Z"
-    },
     {
       "title": "Savoy Declaration Ch.1 Sec.6",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 6\n\nThe whole counsel of God, concerning all things necessary for his own glory, man&#39;s salvation, faith, and life, is either expressly set down in Scripture, or by good and necessary consequence may be deduced from Scripture: unto which nothing at any time is to be added, whether by new revelations of the Spirit, or traditions of men. Nevertheless we acknowledge the inward illumination of the Spirit of God to be necessary for the saving understanding of such things as are revealed in the Word; and that there are some circumstances concerning the worship of God, and government of the Church, common to human actions and societies, which are to be ordered by the light of nature and Christian prudence, according to the general rules of the Word, which are always to be observed.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Article 2: Of the Word or Son of God, which was made very Man.\n\nThe Son, which is the Word of the Father, begotten from everlasting of the Father, the very and eternal God, and of one substance with the Father, took Man&#39;s nature in the womb of the blessed Virgin, of her substance: so that two whole and perfect Natures, that is to say, the Godhead and Manhood, were joined together in one Person, never to be divided, whereof is one Christ, very God, and very Man; who truly suffered, was crucified, dead and buried, to reconcile his Father to us, and to be a sacrifice, not only for original guilt, but also for all actual sins of men.\n</div>",
       "guid": "39-articles:art2",
       "pub_date": "2026-07-03T07:19:42.001410801Z"
+    },
+    {
+      "title": "1695 Baptist Catechism Q5",
+      "description": "<div style='white-space: pre-wrap;'>Q5. May all Men make use of the Holy Scriptures?\n\nA. All Men are not only permitted, but commanded and exhorted, to read, hear, and understand the Holy Scriptures.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] John.5.39, Deut.17.18-Deut.17.19, Rev.1.3, Acts.8.30</div>",
+      "guid": "1695-baptist-catechism:q5",
+      "pub_date": "2026-07-04T06:46:12.715677129Z"
     }
   ]
 }
