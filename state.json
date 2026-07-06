@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "westminster-larger-catechism": 8,
-        "1695-baptist-catechism": 5,
-        "london-baptist-1689": 7,
-        "waldensian-confession": 1,
-        "apostles-creed": 0,
-        "puritan-catechism": 3,
-        "chicago-statement": 1,
-        "irenaeus-rule-of-faith": 0,
-        "savoy-declaration": 6,
-        "chalcedonian-definition": 0,
-        "95-theses": 4,
-        "westminster-confession": 7,
-        "athanasian-creed": 0,
-        "first-confession-of-basel": 1,
-        "second-helvetic-confession": 11,
-        "heidelberg-catechism": 5,
-        "westminster-shorter-catechism": 4,
-        "nicene-creed": 0,
-        "canons-of-dort": 4,
-        "39-articles": 2,
         "belgic-confession": 1,
-        "scots-confession": 1
+        "scots-confession": 1,
+        "puritan-catechism": 3,
+        "athanasian-creed": 0,
+        "nicene-creed": 0,
+        "irenaeus-rule-of-faith": 0,
+        "apostles-creed": 0,
+        "chalcedonian-definition": 0,
+        "chicago-statement": 1,
+        "95-theses": 4,
+        "1695-baptist-catechism": 5,
+        "first-confession-of-basel": 1,
+        "waldensian-confession": 1,
+        "westminster-confession": 7,
+        "second-helvetic-confession": 11,
+        "westminster-shorter-catechism": 4,
+        "canons-of-dort": 4,
+        "westminster-larger-catechism": 8,
+        "savoy-declaration": 7,
+        "london-baptist-1689": 7,
+        "heidelberg-catechism": 5,
+        "39-articles": 2
       },
       "accumulated": [
         4.0,
@@ -81,7 +81,7 @@
         3.0,
         7.0,
         7.0,
-        6.0,
+        7.0,
         4.0,
         11.0,
         1.0,
@@ -97,17 +97,11 @@
         2.0,
         4.0
       ],
-      "turn": 71
+      "turn": 72
     },
-    "last_emitted": "2026-07-05T07:25:04.290383387Z"
+    "last_emitted": "2026-07-06T08:19:22.205753546Z"
   },
   "recent_items": [
-    {
-      "title": "Heidelberg Catechism Q5",
-      "description": "<div style='white-space: pre-wrap;'>Q5. Can you keep all this perfectly?\n\nA. No, I am inclined by nature to hate God and my neighbour.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.3.10,Rom.3.23, 1John.1.8,1John.1.10\n[2] Gen.6.5, Gen.8.21, Jer.17.9, Rom.7.23, Rom.8.7, Eph.2.3, Titus.3.3</div>",
-      "guid": "heidelberg-catechism:q5",
-      "pub_date": "2026-06-26T07:51:45.523886995Z"
-    },
     {
       "title": "First Confession of Basel Art.I",
       "description": "<div style='white-space: pre-wrap;'>Article I: CONCERNING GOD\n\nWe believe in God the Father, God the Son, God the Holy Spirit, one holy, divine Trinity, three Persons and one single, eternal, almighty God, in essence and substance, and not three gods. We also believe that God has created all things by His eternal Word, that is, by His only-begotten Son, and preserves and strengthens all things by His Spirit, that is, by His power; and therefore, God sustains and governs all things as He created them.[1]\n\nHence we confess that before He created the world God elected all those upon whom He willed to bestow the inheritance of eternal salvation.[2]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1.1, John.1.14, 1Chr.29.11-1Chr.29.12, Acts.2.23\n[2] Rom.8.28, Rom.9.6, Rom.11.5, Eph.1.4</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 7\n\nAll things in Scripture are not alike plain in themselves, nor alike clear unto all; yet those things which are necessary to be known, believed, and observed for Salvation, are so clearly propounded, and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of ordinary means, may attain to a sufficient understanding of them.</div>",
       "guid": "london-baptist-1689:ch1:sec7",
       "pub_date": "2026-07-05T07:25:04.290648112Z"
+    },
+    {
+      "title": "Savoy Declaration Ch.1 Sec.7",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 7\n\nAll things in Scripture are not alike plain in themselves, nor alike clear unto all; yet those things which are necessary to be known, believed, and observed, for salvation, are so clearly propounded and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of the ordinary means, may attain unto a sufficient understanding of them.</div>",
+      "guid": "savoy-declaration:ch1:sec7",
+      "pub_date": "2026-07-06T08:19:22.206026207Z"
     }
   ]
 }
