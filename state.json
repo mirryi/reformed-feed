@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "belgic-confession": 1,
-        "second-helvetic-confession": 12,
-        "1695-baptist-catechism": 5,
-        "savoy-declaration": 7,
-        "london-baptist-1689": 7,
         "apostles-creed": 0,
-        "westminster-shorter-catechism": 4,
-        "heidelberg-catechism": 5,
-        "scots-confession": 1,
-        "athanasian-creed": 0,
-        "39-articles": 2,
+        "1695-baptist-catechism": 5,
         "puritan-catechism": 3,
-        "chicago-statement": 1,
-        "waldensian-confession": 1,
-        "westminster-confession": 7,
+        "athanasian-creed": 0,
         "canons-of-dort": 4,
         "irenaeus-rule-of-faith": 0,
-        "chalcedonian-definition": 0,
-        "nicene-creed": 0,
+        "scots-confession": 1,
+        "waldensian-confession": 1,
         "first-confession-of-basel": 1,
+        "belgic-confession": 2,
+        "london-baptist-1689": 7,
+        "westminster-shorter-catechism": 4,
+        "chalcedonian-definition": 0,
+        "95-theses": 4,
+        "heidelberg-catechism": 5,
+        "nicene-creed": 0,
+        "second-helvetic-confession": 12,
         "westminster-larger-catechism": 8,
-        "95-theses": 4
+        "westminster-confession": 7,
+        "savoy-declaration": 7,
+        "39-articles": 2,
+        "chicago-statement": 1
       },
       "accumulated": [
         4.0,
@@ -84,7 +84,7 @@
         7.0,
         4.0,
         12.0,
-        1.0,
+        2.0,
         1.0,
         1.0,
         1.0,
@@ -97,17 +97,11 @@
         2.0,
         4.0
       ],
-      "turn": 73
+      "turn": 74
     },
-    "last_emitted": "2026-07-07T07:36:54.029086605Z"
+    "last_emitted": "2026-07-08T06:27:19.317895379Z"
   },
   "recent_items": [
-    {
-      "title": "Martin Luther's 95 theses Thesis 4",
-      "description": "<div style='white-space: pre-wrap;'>Thesis 4\n\nThe penalty of sin remains as long as the hatred of self (that is, true inner repentance), namely till our entrance into the kingdom of heaven.</div>",
-      "guid": "95-theses:thesis4",
-      "pub_date": "2026-06-28T07:50:35.892393223Z"
-    },
     {
       "title": "Canons of Dort Ch.1 Sec.A4",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A4\n\nThe wrath of God abideth upon those who believe not this gospel. But such as receive it, and embrace Jesus the Savior by a true and living faith, are by Him delivered from the wrath of God and from destruction, and have the gift of eternal life conferred upon them.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God, His Unity and Trinity\nSection 1\n\nGOD IS ONE\n\nWe believe and teach that God is one in essence or nature, subsisting in himself, all sufficient in himself, invisible, incorporeal, immense, eternal, Creator of all things both visible and invisible, the greatest good, living, quickening and preserving all things, omnipotent and supremely wise, kind and merciful, just and true. Truly we detest many gods because it is expressly written: &quot;The Lord your God is one Lord&quot; (Deut.6:4). &quot;I am the Lord your God. You shall have no other gods before me&quot; (Ex. 20:2-3). &quot;I am the Lord, and there is no other god besides me. Am I not the Lord, and there is no other God beside me? A righteous God and a Savior; there is none besides me&quot; ((Isa. 45:5, 21). &quot;The Lord, the Lord, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness&quot; (Ex. 34:6).</div>",
       "guid": "second-helvetic-confession:ch3:sec1",
       "pub_date": "2026-07-07T07:36:54.029345760Z"
+    },
+    {
+      "title": "Belgic Confession Art.2",
+      "description": "<div style='white-space: pre-wrap;'>Article 2: The Means by Which We Know God\n\nWe know God by two means: First, by the creation, preservation, and government of the universe, since that universe is before our eyes like a beautiful book in which all creatures, great and small, are as letters to make us ponder the invisible things of God: God&#39;s eternal power and divinity, as the apostle Paul says in Romans 1:20. All these things are enough to convict humans and to leave them without excuse. Second, God makes himself known to us more clearly by his holy and divine Word, as much as we need in this life, for God&#39;s glory and for our salvation.</div>",
+      "guid": "belgic-confession:art2",
+      "pub_date": "2026-07-08T06:27:19.318166657Z"
     }
   ]
 }
