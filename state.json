@@ -50,31 +50,31 @@
         95
       ],
       "positions": {
-        "apostles-creed": 0,
-        "1695-baptist-catechism": 5,
-        "puritan-catechism": 3,
-        "athanasian-creed": 0,
-        "canons-of-dort": 4,
         "irenaeus-rule-of-faith": 0,
-        "scots-confession": 1,
-        "waldensian-confession": 1,
-        "first-confession-of-basel": 1,
-        "belgic-confession": 2,
-        "london-baptist-1689": 7,
-        "westminster-shorter-catechism": 4,
-        "chalcedonian-definition": 0,
-        "95-theses": 4,
-        "heidelberg-catechism": 5,
-        "nicene-creed": 0,
-        "second-helvetic-confession": 12,
+        "canons-of-dort": 4,
         "westminster-larger-catechism": 8,
-        "westminster-confession": 7,
+        "apostles-creed": 0,
+        "belgic-confession": 2,
+        "95-theses": 4,
         "savoy-declaration": 7,
         "39-articles": 2,
-        "chicago-statement": 1
+        "chicago-statement": 1,
+        "london-baptist-1689": 7,
+        "westminster-confession": 7,
+        "heidelberg-catechism": 5,
+        "1695-baptist-catechism": 5,
+        "nicene-creed": 0,
+        "puritan-catechism": 3,
+        "second-helvetic-confession": 12,
+        "athanasian-creed": 0,
+        "westminster-shorter-catechism": 5,
+        "first-confession-of-basel": 1,
+        "scots-confession": 1,
+        "chalcedonian-definition": 0,
+        "waldensian-confession": 1
       },
       "accumulated": [
-        4.0,
+        5.0,
         8.0,
         5.0,
         5.0,
@@ -97,17 +97,11 @@
         2.0,
         4.0
       ],
-      "turn": 74
+      "turn": 75
     },
-    "last_emitted": "2026-07-08T06:27:19.317895379Z"
+    "last_emitted": "2026-07-10T07:34:03.588529962Z"
   },
   "recent_items": [
-    {
-      "title": "Canons of Dort Ch.1 Sec.A4",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A4\n\nThe wrath of God abideth upon those who believe not this gospel. But such as receive it, and embrace Jesus the Savior by a true and living faith, are by Him delivered from the wrath of God and from destruction, and have the gift of eternal life conferred upon them.</div>",
-      "guid": "canons-of-dort:ch1:secA4",
-      "pub_date": "2026-06-29T08:58:03.962505932Z"
-    },
     {
       "title": "Second Helvetic Confession Ch.2 Sec.4",
       "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of Interpreting The Holy Scripture; and of Fathers, Councils, and Traditions\nSection 4\n\nTRADITIONS OF MEN\n\nLikewise we reject human traditions, even if they be adorned with high-sounding titles, as though they were divine and apostolical, delivered to the Church by the living voice of the apostles, and, as it were, through the hands of apostolical men to succeeding bishops which, when compared with the Scriptures, disagree with them; and by their disagreement show that they are not Apostolic at all. For as the apostles did not contradict themselves in doctrine, so the apostolic men did not set forth things contrary to the apostles. On the contrary, it would be wicked to assert that the apostles by a living voice delivered anything contrary to their writings. Paul affirms expressly that he taught the same things in all churches (I Cor. 4:17). And, again, &quot;For we write you nothing but what you can read and understand.&quot; (II Cor. 1:13). Also, in another place, he testifies that he and his disciples - that is, apostolic men - walked in the same way, and jointly by the same Spirit did all things (II Cor. 12:18). Moreover, the Jews in former times had the traditions of their elders; but these traditions were severely rejected by the Lord, indicating that the keeping of them hinders God&#39;s law, and that God is worshipped in vain by such traditions (Matt. 15:1 ff.; Mark 7:1 ff).</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Article 2: The Means by Which We Know God\n\nWe know God by two means: First, by the creation, preservation, and government of the universe, since that universe is before our eyes like a beautiful book in which all creatures, great and small, are as letters to make us ponder the invisible things of God: God&#39;s eternal power and divinity, as the apostle Paul says in Romans 1:20. All these things are enough to convict humans and to leave them without excuse. Second, God makes himself known to us more clearly by his holy and divine Word, as much as we need in this life, for God&#39;s glory and for our salvation.</div>",
       "guid": "belgic-confession:art2",
       "pub_date": "2026-07-08T06:27:19.318166657Z"
+    },
+    {
+      "title": "Westminster Shorter Catechism Q5",
+      "description": "<div style='white-space: pre-wrap;'>Q5. Are there more Gods than one?\n\nA. There is but one only, the living and true God.</div>",
+      "guid": "westminster-shorter-catechism:q5",
+      "pub_date": "2026-07-10T07:34:03.588749274Z"
     }
   ]
 }
