@@ -50,32 +50,32 @@
         95
       ],
       "positions": {
+        "1695-baptist-catechism": 5,
         "apostles-creed": 0,
+        "scots-confession": 1,
+        "canons-of-dort": 4,
+        "95-theses": 4,
+        "chalcedonian-definition": 0,
+        "savoy-declaration": 7,
+        "waldensian-confession": 1,
+        "39-articles": 2,
         "nicene-creed": 0,
         "athanasian-creed": 0,
-        "chicago-statement": 1,
-        "chalcedonian-definition": 0,
-        "1695-baptist-catechism": 5,
-        "westminster-shorter-catechism": 5,
-        "belgic-confession": 2,
-        "savoy-declaration": 7,
-        "second-helvetic-confession": 12,
-        "scots-confession": 1,
-        "westminster-confession": 7,
-        "westminster-larger-catechism": 8,
-        "canons-of-dort": 4,
-        "puritan-catechism": 3,
-        "heidelberg-catechism": 6,
         "irenaeus-rule-of-faith": 0,
-        "95-theses": 4,
-        "39-articles": 2,
+        "puritan-catechism": 3,
+        "westminster-shorter-catechism": 5,
+        "heidelberg-catechism": 6,
+        "second-helvetic-confession": 12,
         "london-baptist-1689": 7,
-        "first-confession-of-basel": 1,
-        "waldensian-confession": 1
+        "belgic-confession": 2,
+        "westminster-confession": 7,
+        "chicago-statement": 1,
+        "westminster-larger-catechism": 9,
+        "first-confession-of-basel": 1
       },
       "accumulated": [
         5.0,
-        8.0,
+        9.0,
         6.0,
         5.0,
         3.0,
@@ -97,17 +97,11 @@
         2.0,
         4.0
       ],
-      "turn": 76
+      "turn": 77
     },
-    "last_emitted": "2026-07-11T06:11:53.626191003Z"
+    "last_emitted": "2026-07-12T06:31:57.755397407Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Confession of Faith Ch.1 Sec.7",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 7\n\nAll things in Scripture are not alike plain in themselves, nor alike clear unto all;[1] yet those things which are necessary to be known, believed, and observed, for salvation, are so clearly propounded and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of the ordinary means, may attain unto a sufficient understanding of them.[2]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 2Pet.3.16\n[2] Ps.119.105, Ps.119.130</div>",
-      "guid": "westminster-confession:ch1:sec7",
-      "pub_date": "2026-07-01T08:12:29.101676360Z"
-    },
     {
       "title": "Westminster Larger Catechism Q8",
       "description": "<div style='white-space: pre-wrap;'>Q8. Are there more Gods than one?\n\nA. There is but one only, the living and true God.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Deut.6.4, 1Cor.8.4,1Cor.8.6, Jer.10.10</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q6. Did God, then, create man so wicked and perverse?\n\nA. No, on the contrary, God created man good and in His image, that is, in true righteousness and holiness, so that he might rightly know God His Creator, heartily love Him, and live with Him in eternal blessedness to praise and glorify Him.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1.31\n[2] Gen.1.26-Gen.1.27\n[3] Eph.4.24\n[4] Col.3.10\n[5] Ps.8</div>",
       "guid": "heidelberg-catechism:q6",
       "pub_date": "2026-07-11T06:11:53.626403622Z"
+    },
+    {
+      "title": "Westminster Larger Catechism Q9",
+      "description": "<div style='white-space: pre-wrap;'>Q9. How many persons are there in the Godhead?\n\nA. There be three persons in the Godhead, the Father, the Son, and the Holy Ghost; and these three are one true, eternal God, the same in substance, equal in power and glory; although distinguished by their personal properties.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1John.5.7, Matt.3.16-Matt.3.17, Matt.28.19, 2Cor.13.14, John.10.30</div>",
+      "guid": "westminster-larger-catechism:q9",
+      "pub_date": "2026-07-12T06:31:57.755580832Z"
     }
   ]
 }
