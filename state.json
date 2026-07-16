@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "puritan-catechism": 4,
-        "scots-confession": 1,
-        "westminster-confession": 8,
         "chalcedonian-definition": 0,
-        "chicago-statement": 1,
-        "canons-of-dort": 4,
-        "athanasian-creed": 0,
-        "39-articles": 2,
-        "second-helvetic-confession": 13,
-        "nicene-creed": 0,
-        "heidelberg-catechism": 6,
-        "belgic-confession": 2,
-        "waldensian-confession": 1,
-        "london-baptist-1689": 7,
-        "westminster-shorter-catechism": 5,
         "1695-baptist-catechism": 5,
-        "first-confession-of-basel": 1,
-        "95-theses": 4,
         "apostles-creed": 0,
+        "athanasian-creed": 0,
+        "belgic-confession": 2,
+        "chicago-statement": 1,
+        "puritan-catechism": 4,
+        "westminster-confession": 8,
+        "second-helvetic-confession": 13,
+        "westminster-shorter-catechism": 5,
+        "irenaeus-rule-of-faith": 0,
+        "39-articles": 2,
+        "scots-confession": 1,
+        "london-baptist-1689": 8,
+        "nicene-creed": 0,
         "westminster-larger-catechism": 9,
-        "savoy-declaration": 7,
-        "irenaeus-rule-of-faith": 0
+        "canons-of-dort": 4,
+        "heidelberg-catechism": 6,
+        "95-theses": 4,
+        "first-confession-of-basel": 1,
+        "waldensian-confession": 1,
+        "savoy-declaration": 7
       },
       "accumulated": [
         5.0,
@@ -80,7 +80,7 @@
         5.0,
         4.0,
         8.0,
-        7.0,
+        8.0,
         7.0,
         4.0,
         13.0,
@@ -97,17 +97,11 @@
         2.0,
         4.0
       ],
-      "turn": 80
+      "turn": 81
     },
-    "last_emitted": "2026-07-15T06:12:52.477253944Z"
+    "last_emitted": "2026-07-16T06:16:53.539208863Z"
   },
   "recent_items": [
-    {
-      "title": "London Baptist Confession of 1689 Ch.1 Sec.7",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 7\n\nAll things in Scripture are not alike plain in themselves, nor alike clear unto all; yet those things which are necessary to be known, believed, and observed for Salvation, are so clearly propounded, and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of ordinary means, may attain to a sufficient understanding of them.</div>",
-      "guid": "london-baptist-1689:ch1:sec7",
-      "pub_date": "2026-07-05T07:25:04.290648112Z"
-    },
     {
       "title": "Savoy Declaration Ch.1 Sec.7",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 7\n\nAll things in Scripture are not alike plain in themselves, nor alike clear unto all; yet those things which are necessary to be known, believed, and observed, for salvation, are so clearly propounded and opened in some place of Scripture or other, that not only the learned, but the unlearned, in a due use of the ordinary means, may attain unto a sufficient understanding of them.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God, His Unity and Trinity\nSection 2\n\nGOD IS THREE\n\nNotwithstanding we believe and teach that the same immense, one and indivisible God is in person inseparably and without confusion distinguished as Father, Son and Holy Spirit so, as the Father has begotten the Son from eternity, the Son is begotten by an ineffable generation, and the holy Spirit truly proceeds from them both, and the same from eternity and is to be worshipped with both. \n\nThus there are not three gods, but three persons, cosubstantial, coeternal, and coequal; distinct with respect to hypostases, and with respect to order, the one preceding the other yet without any inequality. For according to the nature or essence they are so joined together that they are one God, and the divine nature is common to the Father, Son and Holy Spirit. \n\nFor Scripture has delivered to us a manifest distinction of persons, the angel saying, among other things, to the Blessed Virgin, &quot;The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy, the Son of God&quot; (Luke 1:35). And also in the baptism of Christ a voice is heard from heaven concerning Christ, saying, &quot;This is my beloved Son&quot; (Math. 3:17). The Holy Spirit also appeared in the form of a dove (John 1:32). And when the Lord himself commanded the apostles to baptize, he commanded them to baptize &quot;in the name of the Father, and the Son, and the Holy Spirit&quot; (Matt. 28:19). Elsewhere in the Gospel he said: &quot;The Father will send the Holy Spirit in my name&quot; (John 14:26), and again he said: &quot;When the Counselor comes, whom I shall send to you from the Father, even the Spirit of truth, who proceeds from the Father, he will bear witness to me,&quot; etc. (John 15:26). In short, we receive the Apostles&#39; Creed because it delivers to us the true faith.</div>",
       "guid": "second-helvetic-confession:ch3:sec2",
       "pub_date": "2026-07-15T06:12:52.477516415Z"
+    },
+    {
+      "title": "London Baptist Confession of 1689 Ch.1 Sec.8",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 8\n\nThe Old Testament in Hebrew, (which was the Native language of the people of God of old) and the New Testament in Greek (which at the time of the writing of it was most generally known to the Nations being immediately inspired by God, and by his singular care and Providence kept pure in all Ages, are therefore authentical; so as in all controversies of Religion the Church is finally to appeal unto them But because these original tongues are not known to all the people of God, who have a right unto, and interest in the Scriptures, and are commanded in the fear of God to read and search them, therefore they are to be translated into the vulgar language of every Nation, unto which they come, that the Word of God dwelling plentifully in all, they may worship him in an acceptable manner, and through patience and comfort of the Scriptures may have hope.</div>",
+      "guid": "london-baptist-1689:ch1:sec8",
+      "pub_date": "2026-07-16T06:16:53.539479229Z"
     }
   ]
 }
