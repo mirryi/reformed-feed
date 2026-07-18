@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "westminster-confession": 8,
+        "scots-confession": 1,
+        "chicago-statement": 1,
         "savoy-declaration": 8,
         "london-baptist-1689": 8,
         "irenaeus-rule-of-faith": 0,
-        "canons-of-dort": 4,
-        "belgic-confession": 2,
-        "athanasian-creed": 0,
-        "nicene-creed": 0,
-        "second-helvetic-confession": 13,
         "chalcedonian-definition": 0,
-        "puritan-catechism": 4,
-        "heidelberg-catechism": 6,
-        "chicago-statement": 1,
-        "1695-baptist-catechism": 5,
-        "apostles-creed": 0,
         "39-articles": 2,
-        "scots-confession": 1,
-        "westminster-shorter-catechism": 5,
-        "95-theses": 4,
+        "95-theses": 5,
         "first-confession-of-basel": 1,
+        "puritan-catechism": 4,
         "waldensian-confession": 1,
-        "westminster-larger-catechism": 9
+        "nicene-creed": 0,
+        "westminster-larger-catechism": 9,
+        "apostles-creed": 0,
+        "belgic-confession": 2,
+        "second-helvetic-confession": 13,
+        "canons-of-dort": 4,
+        "athanasian-creed": 0,
+        "1695-baptist-catechism": 5,
+        "westminster-shorter-catechism": 5,
+        "heidelberg-catechism": 6,
+        "westminster-confession": 8
       },
       "accumulated": [
         5.0,
@@ -95,19 +95,13 @@
         0.0,
         0.0,
         2.0,
-        4.0
+        5.0
       ],
-      "turn": 82
+      "turn": 83
     },
-    "last_emitted": "2026-07-17T06:14:10.480463113Z"
+    "last_emitted": "2026-07-18T06:04:24.570671252Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.3 Sec.1",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God, His Unity and Trinity\nSection 1\n\nGOD IS ONE\n\nWe believe and teach that God is one in essence or nature, subsisting in himself, all sufficient in himself, invisible, incorporeal, immense, eternal, Creator of all things both visible and invisible, the greatest good, living, quickening and preserving all things, omnipotent and supremely wise, kind and merciful, just and true. Truly we detest many gods because it is expressly written: &quot;The Lord your God is one Lord&quot; (Deut.6:4). &quot;I am the Lord your God. You shall have no other gods before me&quot; (Ex. 20:2-3). &quot;I am the Lord, and there is no other god besides me. Am I not the Lord, and there is no other God beside me? A righteous God and a Savior; there is none besides me&quot; ((Isa. 45:5, 21). &quot;The Lord, the Lord, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness&quot; (Ex. 34:6).</div>",
-      "guid": "second-helvetic-confession:ch3:sec1",
-      "pub_date": "2026-07-07T07:36:54.029345760Z"
-    },
     {
       "title": "Belgic Confession Art.2",
       "description": "<div style='white-space: pre-wrap;'>Article 2: The Means by Which We Know God\n\nWe know God by two means: First, by the creation, preservation, and government of the universe, since that universe is before our eyes like a beautiful book in which all creatures, great and small, are as letters to make us ponder the invisible things of God: God&#39;s eternal power and divinity, as the apostle Paul says in Romans 1:20. All these things are enough to convict humans and to leave them without excuse. Second, God makes himself known to us more clearly by his holy and divine Word, as much as we need in this life, for God&#39;s glory and for our salvation.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 8\n\nThe Old Testament in Hebrew (which was the native language of the people of God of old), and the New Testament in Greek (which at the time of the writing of it was most generally known to the nations), being immediately inspired by God, and by his singular care and providence kept pure in all ages, are therefore authentical; so as in all controversies of religion the Church is finally to appeal unto them. But because these original tongues are not known to all the people of God who have right unto, and interest in the Scriptures, and are commanded, in the fear of God, to read and search them, therefore they are to be translated into the vulgar language of every nation unto which they come, that the Word of God dwelling plentifully in all, they may worship him in an acceptable manner, and, through patience and comfort of the Scriptures, may have hope.</div>",
       "guid": "savoy-declaration:ch1:sec8",
       "pub_date": "2026-07-17T06:14:10.480731786Z"
+    },
+    {
+      "title": "Martin Luther's 95 theses Thesis 5",
+      "description": "<div style='white-space: pre-wrap;'>Thesis 5\n\nThe pope neither desires nor is able to remit any penalties except those imposed by his own authority or that of the canons.</div>",
+      "guid": "95-theses:thesis5",
+      "pub_date": "2026-07-18T06:04:24.570966624Z"
     }
   ]
 }
