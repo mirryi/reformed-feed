@@ -50,26 +50,26 @@
         95
       ],
       "positions": {
-        "westminster-larger-catechism": 10,
+        "savoy-declaration": 8,
+        "95-theses": 5,
+        "canons-of-dort": 5,
+        "heidelberg-catechism": 6,
+        "waldensian-confession": 1,
+        "puritan-catechism": 4,
+        "apostles-creed": 0,
+        "nicene-creed": 0,
+        "chicago-statement": 1,
+        "scots-confession": 1,
+        "belgic-confession": 2,
         "39-articles": 2,
         "london-baptist-1689": 8,
-        "nicene-creed": 0,
-        "puritan-catechism": 4,
         "athanasian-creed": 0,
         "chalcedonian-definition": 0,
         "1695-baptist-catechism": 6,
-        "belgic-confession": 2,
-        "canons-of-dort": 4,
         "westminster-shorter-catechism": 5,
         "second-helvetic-confession": 14,
-        "heidelberg-catechism": 6,
-        "apostles-creed": 0,
-        "savoy-declaration": 8,
-        "waldensian-confession": 1,
+        "westminster-larger-catechism": 10,
         "irenaeus-rule-of-faith": 0,
-        "scots-confession": 1,
-        "95-theses": 5,
-        "chicago-statement": 1,
         "first-confession-of-basel": 1,
         "westminster-confession": 8
       },
@@ -82,7 +82,7 @@
         8.0,
         8.0,
         8.0,
-        4.0,
+        5.0,
         14.0,
         2.0,
         1.0,
@@ -97,17 +97,11 @@
         2.0,
         5.0
       ],
-      "turn": 86
+      "turn": 87
     },
-    "last_emitted": "2026-07-21T06:27:23.033860143Z"
+    "last_emitted": "2026-07-22T06:27:13.126614831Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Larger Catechism Q9",
-      "description": "<div style='white-space: pre-wrap;'>Q9. How many persons are there in the Godhead?\n\nA. There be three persons in the Godhead, the Father, the Son, and the Holy Ghost; and these three are one true, eternal God, the same in substance, equal in power and glory; although distinguished by their personal properties.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1John.5.7, Matt.3.16-Matt.3.17, Matt.28.19, 2Cor.13.14, John.10.30</div>",
-      "guid": "westminster-larger-catechism:q9",
-      "pub_date": "2026-07-12T06:31:57.755580832Z"
-    },
     {
       "title": "Westminster Confession of Faith Ch.1 Sec.8",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 8\n\nThe Old Testament in Hebrew (which was the native language of the people of God of old), and the New Testament in Greek (which at the time of the writing of it was most generally known to the nations), being immediately inspired by God, and by his singular care and providence kept pure in all ages, are therefore authentical;[1] so as in all controversies of religion the Church is finally to appeal unto them.[2] But because these original tongues are not known to all the people of God who have right unto, and interest in the Scriptures, and are commanded, in the fear of God, to read and search them,[3] therefore they are to be translated into the vulgar language of every nation unto which they come,[4] that the Word of God dwelling plentifully in all, they may worship him in an acceptable manner,[5] and, through patience and comfort of the Scriptures, may have hope.[6]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Matt.5.18\n[3] John.5.39\n[2] Isa.8.20, John.5.39, John.5.46, Acts.15.15\n[5] Col.3.16\n[4] 1Cor.14.6, 1Cor.14.9, 1Cor.14.11-1Cor.14.12, 1Cor.14.24, 1Cor.14.27-1Cor.14.28\n[6] Rom.15.4</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q10. What are the personal properties of the three persons in the Godhead?\n\nA. It is proper to the Father to beget the Son, and to the Son to be begotten of the Father, and to the Holy Ghost to proceed from the Father and the Son from all eternity.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Heb.1.5-Heb.1.6,Heb.1.8\n[2] John.1.14,John.1.18\n[3] John.15.26, Gal.4.6</div>",
       "guid": "westminster-larger-catechism:q10",
       "pub_date": "2026-07-21T06:27:23.034160123Z"
+    },
+    {
+      "title": "Canons of Dort Ch.1 Sec.A5",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A5\n\nThe cause or guilt of this unbelief, as well as of all other sins, is no wise in God, but in man himself; whereas faith in Jesus Christ and salvation through Him is the free gift of God, as it is written: &quot;For by grace are ye saved through faith; and that not of yourselves: it is the gift of God&quot; (Eph. 2:8). &quot;For unto you it is given in the behalf of Christ, not only to believe on Him,&quot; etc. (Phil. 1:29).</div>",
+      "guid": "canons-of-dort:ch1:secA5",
+      "pub_date": "2026-07-22T06:27:13.126886734Z"
     }
   ]
 }
