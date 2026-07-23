@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "savoy-declaration": 8,
-        "95-theses": 5,
-        "canons-of-dort": 5,
-        "heidelberg-catechism": 6,
-        "waldensian-confession": 1,
-        "puritan-catechism": 4,
+        "westminster-shorter-catechism": 5,
         "apostles-creed": 0,
-        "nicene-creed": 0,
-        "chicago-statement": 1,
         "scots-confession": 1,
+        "chicago-statement": 1,
+        "athanasian-creed": 0,
+        "1695-baptist-catechism": 6,
+        "westminster-confession": 9,
+        "nicene-creed": 0,
+        "first-confession-of-basel": 1,
+        "95-theses": 5,
+        "savoy-declaration": 8,
+        "waldensian-confession": 1,
         "belgic-confession": 2,
         "39-articles": 2,
-        "london-baptist-1689": 8,
-        "athanasian-creed": 0,
+        "puritan-catechism": 4,
         "chalcedonian-definition": 0,
-        "1695-baptist-catechism": 6,
-        "westminster-shorter-catechism": 5,
+        "canons-of-dort": 5,
+        "heidelberg-catechism": 6,
+        "london-baptist-1689": 8,
         "second-helvetic-confession": 14,
         "westminster-larger-catechism": 10,
-        "irenaeus-rule-of-faith": 0,
-        "first-confession-of-basel": 1,
-        "westminster-confession": 8
+        "irenaeus-rule-of-faith": 0
       },
       "accumulated": [
         5.0,
@@ -79,7 +79,7 @@
         6.0,
         6.0,
         4.0,
-        8.0,
+        9.0,
         8.0,
         8.0,
         5.0,
@@ -97,17 +97,11 @@
         2.0,
         5.0
       ],
-      "turn": 87
+      "turn": 88
     },
-    "last_emitted": "2026-07-22T06:27:13.126614831Z"
+    "last_emitted": "2026-07-23T06:29:39.865756952Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Confession of Faith Ch.1 Sec.8",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 8\n\nThe Old Testament in Hebrew (which was the native language of the people of God of old), and the New Testament in Greek (which at the time of the writing of it was most generally known to the nations), being immediately inspired by God, and by his singular care and providence kept pure in all ages, are therefore authentical;[1] so as in all controversies of religion the Church is finally to appeal unto them.[2] But because these original tongues are not known to all the people of God who have right unto, and interest in the Scriptures, and are commanded, in the fear of God, to read and search them,[3] therefore they are to be translated into the vulgar language of every nation unto which they come,[4] that the Word of God dwelling plentifully in all, they may worship him in an acceptable manner,[5] and, through patience and comfort of the Scriptures, may have hope.[6]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Matt.5.18\n[3] John.5.39\n[2] Isa.8.20, John.5.39, John.5.46, Acts.15.15\n[5] Col.3.16\n[4] 1Cor.14.6, 1Cor.14.9, 1Cor.14.11-1Cor.14.12, 1Cor.14.24, 1Cor.14.27-1Cor.14.28\n[6] Rom.15.4</div>",
-      "guid": "westminster-confession:ch1:sec8",
-      "pub_date": "2026-07-13T06:52:10.514432191Z"
-    },
     {
       "title": "Puritan Catechism Q4",
       "description": "<div style='white-space: pre-wrap;'>Q4. What is God?\n\nA. God is Spirit, infinite, eternal, and unchangeable, in his being, wisdom, power, holiness, justice, goodness and truth.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] John.4.24\n[2] Job.11.7\n[3] Ps.90.2, 1Tim.1.17\n[4] Jas.1.17\n[5] Exod.3.14\n[6] Ps.147.5\n[7] Rev.4.8\n[8] Exod.34.6-Exod.34.7</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A5\n\nThe cause or guilt of this unbelief, as well as of all other sins, is no wise in God, but in man himself; whereas faith in Jesus Christ and salvation through Him is the free gift of God, as it is written: &quot;For by grace are ye saved through faith; and that not of yourselves: it is the gift of God&quot; (Eph. 2:8). &quot;For unto you it is given in the behalf of Christ, not only to believe on Him,&quot; etc. (Phil. 1:29).</div>",
       "guid": "canons-of-dort:ch1:secA5",
       "pub_date": "2026-07-22T06:27:13.126886734Z"
+    },
+    {
+      "title": "Westminster Confession of Faith Ch.1 Sec.9",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 9\n\nThe infallible rule of interpretation of Scripture is the Scripture itself; and therefore, when there is a question about the true and full sense of any scripture (which is not manifold, but one), it must be searched and known by other places that speak more clearly.[1]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Acts.15.15, 2Pet.1.20-2Pet.1.21</div>",
+      "guid": "westminster-confession:ch1:sec9",
+      "pub_date": "2026-07-23T06:29:39.866004340Z"
     }
   ]
 }
