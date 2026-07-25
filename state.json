@@ -50,31 +50,31 @@
         95
       ],
       "positions": {
-        "waldensian-confession": 1,
-        "95-theses": 5,
-        "puritan-catechism": 4,
         "canons-of-dort": 5,
-        "chicago-statement": 1,
-        "london-baptist-1689": 8,
-        "1695-baptist-catechism": 6,
-        "second-helvetic-confession": 14,
-        "39-articles": 2,
-        "athanasian-creed": 0,
         "chalcedonian-definition": 0,
-        "heidelberg-catechism": 7,
-        "scots-confession": 1,
-        "westminster-shorter-catechism": 5,
-        "first-confession-of-basel": 1,
-        "irenaeus-rule-of-faith": 0,
-        "belgic-confession": 2,
-        "westminster-larger-catechism": 10,
         "nicene-creed": 0,
-        "westminster-confession": 9,
+        "scots-confession": 1,
+        "belgic-confession": 2,
         "apostles-creed": 0,
-        "savoy-declaration": 8
+        "chicago-statement": 1,
+        "savoy-declaration": 8,
+        "heidelberg-catechism": 7,
+        "second-helvetic-confession": 14,
+        "westminster-shorter-catechism": 6,
+        "1695-baptist-catechism": 6,
+        "london-baptist-1689": 8,
+        "first-confession-of-basel": 1,
+        "95-theses": 5,
+        "waldensian-confession": 1,
+        "athanasian-creed": 0,
+        "irenaeus-rule-of-faith": 0,
+        "puritan-catechism": 4,
+        "westminster-confession": 9,
+        "westminster-larger-catechism": 10,
+        "39-articles": 2
       },
       "accumulated": [
-        5.0,
+        6.0,
         10.0,
         7.0,
         6.0,
@@ -97,17 +97,11 @@
         2.0,
         5.0
       ],
-      "turn": 89
+      "turn": 90
     },
-    "last_emitted": "2026-07-24T06:25:15.643143673Z"
+    "last_emitted": "2026-07-25T06:16:58.111618428Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.3 Sec.2",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God, His Unity and Trinity\nSection 2\n\nGOD IS THREE\n\nNotwithstanding we believe and teach that the same immense, one and indivisible God is in person inseparably and without confusion distinguished as Father, Son and Holy Spirit so, as the Father has begotten the Son from eternity, the Son is begotten by an ineffable generation, and the holy Spirit truly proceeds from them both, and the same from eternity and is to be worshipped with both. \n\nThus there are not three gods, but three persons, cosubstantial, coeternal, and coequal; distinct with respect to hypostases, and with respect to order, the one preceding the other yet without any inequality. For according to the nature or essence they are so joined together that they are one God, and the divine nature is common to the Father, Son and Holy Spirit. \n\nFor Scripture has delivered to us a manifest distinction of persons, the angel saying, among other things, to the Blessed Virgin, &quot;The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy, the Son of God&quot; (Luke 1:35). And also in the baptism of Christ a voice is heard from heaven concerning Christ, saying, &quot;This is my beloved Son&quot; (Math. 3:17). The Holy Spirit also appeared in the form of a dove (John 1:32). And when the Lord himself commanded the apostles to baptize, he commanded them to baptize &quot;in the name of the Father, and the Son, and the Holy Spirit&quot; (Matt. 28:19). Elsewhere in the Gospel he said: &quot;The Father will send the Holy Spirit in my name&quot; (John 14:26), and again he said: &quot;When the Counselor comes, whom I shall send to you from the Father, even the Spirit of truth, who proceeds from the Father, he will bear witness to me,&quot; etc. (John 15:26). In short, we receive the Apostles&#39; Creed because it delivers to us the true faith.</div>",
-      "guid": "second-helvetic-confession:ch3:sec2",
-      "pub_date": "2026-07-15T06:12:52.477516415Z"
-    },
     {
       "title": "London Baptist Confession of 1689 Ch.1 Sec.8",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 8\n\nThe Old Testament in Hebrew, (which was the Native language of the people of God of old) and the New Testament in Greek (which at the time of the writing of it was most generally known to the Nations being immediately inspired by God, and by his singular care and Providence kept pure in all Ages, are therefore authentical; so as in all controversies of Religion the Church is finally to appeal unto them But because these original tongues are not known to all the people of God, who have a right unto, and interest in the Scriptures, and are commanded in the fear of God to read and search them, therefore they are to be translated into the vulgar language of every Nation, unto which they come, that the Word of God dwelling plentifully in all, they may worship him in an acceptable manner, and through patience and comfort of the Scriptures may have hope.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q7. From where, then, did man&#39;s depraved nature come?\n\nA. From the fall and disobedience of our first parents, Adam and Eve, in Paradise, for there our nature became so corrupt that we are all conceived and born in sin.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.3\n[2] Rom.5.12,Rom.5.18-Rom.5.19\n[3] Ps.51.5</div>",
       "guid": "heidelberg-catechism:q7",
       "pub_date": "2026-07-24T06:25:15.643442649Z"
+    },
+    {
+      "title": "Westminster Shorter Catechism Q6",
+      "description": "<div style='white-space: pre-wrap;'>Q6. How many persons are there in the Godhead?\n\nA. There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.</div>",
+      "guid": "westminster-shorter-catechism:q6",
+      "pub_date": "2026-07-25T06:16:58.111910754Z"
     }
   ]
 }
