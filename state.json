@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "canons-of-dort": 5,
-        "chalcedonian-definition": 0,
-        "nicene-creed": 0,
-        "scots-confession": 1,
-        "belgic-confession": 2,
+        "first-confession-of-basel": 1,
         "apostles-creed": 0,
-        "chicago-statement": 1,
-        "savoy-declaration": 8,
         "heidelberg-catechism": 7,
-        "second-helvetic-confession": 14,
-        "westminster-shorter-catechism": 6,
+        "95-theses": 5,
+        "canons-of-dort": 5,
         "1695-baptist-catechism": 6,
         "london-baptist-1689": 8,
-        "first-confession-of-basel": 1,
-        "95-theses": 5,
-        "waldensian-confession": 1,
-        "athanasian-creed": 0,
-        "irenaeus-rule-of-faith": 0,
+        "chicago-statement": 1,
+        "westminster-shorter-catechism": 6,
+        "belgic-confession": 2,
         "puritan-catechism": 4,
         "westminster-confession": 9,
         "westminster-larger-catechism": 10,
-        "39-articles": 2
+        "39-articles": 2,
+        "athanasian-creed": 0,
+        "chalcedonian-definition": 0,
+        "savoy-declaration": 8,
+        "second-helvetic-confession": 15,
+        "waldensian-confession": 1,
+        "nicene-creed": 0,
+        "scots-confession": 1,
+        "irenaeus-rule-of-faith": 0
       },
       "accumulated": [
         6.0,
@@ -83,7 +83,7 @@
         8.0,
         8.0,
         5.0,
-        14.0,
+        15.0,
         2.0,
         1.0,
         1.0,
@@ -97,17 +97,11 @@
         2.0,
         5.0
       ],
-      "turn": 90
+      "turn": 91
     },
-    "last_emitted": "2026-07-25T06:16:58.111618428Z"
+    "last_emitted": "2026-07-26T06:35:35.620640251Z"
   },
   "recent_items": [
-    {
-      "title": "London Baptist Confession of 1689 Ch.1 Sec.8",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 8\n\nThe Old Testament in Hebrew, (which was the Native language of the people of God of old) and the New Testament in Greek (which at the time of the writing of it was most generally known to the Nations being immediately inspired by God, and by his singular care and Providence kept pure in all Ages, are therefore authentical; so as in all controversies of Religion the Church is finally to appeal unto them But because these original tongues are not known to all the people of God, who have a right unto, and interest in the Scriptures, and are commanded in the fear of God to read and search them, therefore they are to be translated into the vulgar language of every Nation, unto which they come, that the Word of God dwelling plentifully in all, they may worship him in an acceptable manner, and through patience and comfort of the Scriptures may have hope.</div>",
-      "guid": "london-baptist-1689:ch1:sec8",
-      "pub_date": "2026-07-16T06:16:53.539479229Z"
-    },
     {
       "title": "Savoy Declaration Ch.1 Sec.8",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 8\n\nThe Old Testament in Hebrew (which was the native language of the people of God of old), and the New Testament in Greek (which at the time of the writing of it was most generally known to the nations), being immediately inspired by God, and by his singular care and providence kept pure in all ages, are therefore authentical; so as in all controversies of religion the Church is finally to appeal unto them. But because these original tongues are not known to all the people of God who have right unto, and interest in the Scriptures, and are commanded, in the fear of God, to read and search them, therefore they are to be translated into the vulgar language of every nation unto which they come, that the Word of God dwelling plentifully in all, they may worship him in an acceptable manner, and, through patience and comfort of the Scriptures, may have hope.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q6. How many persons are there in the Godhead?\n\nA. There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.</div>",
       "guid": "westminster-shorter-catechism:q6",
       "pub_date": "2026-07-25T06:16:58.111910754Z"
+    },
+    {
+      "title": "Second Helvetic Confession Ch.4 Sec.1",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 4: Of Idols or Images of God, Christ and The Saints\nSection 1\n\nIMAGES OF GOD\n\nSince God as Spirit is in essence invisible and immense, he cannot really be expressed by any art or image. For this reason we have no fear pronouncing with Scripture that images of God are mere lies. Therefore we reject not only the idols of the Gentiles, but also the images of Christians.</div>",
+      "guid": "second-helvetic-confession:ch4:sec1",
+      "pub_date": "2026-07-26T06:35:35.620899093Z"
     }
   ]
 }
