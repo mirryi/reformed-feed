@@ -50,35 +50,35 @@
         95
       ],
       "positions": {
-        "athanasian-creed": 0,
-        "chalcedonian-definition": 0,
-        "heidelberg-catechism": 7,
-        "london-baptist-1689": 9,
-        "westminster-shorter-catechism": 6,
-        "puritan-catechism": 4,
-        "1695-baptist-catechism": 6,
-        "westminster-confession": 9,
-        "chicago-statement": 1,
-        "95-theses": 5,
-        "nicene-creed": 0,
-        "waldensian-confession": 1,
-        "belgic-confession": 2,
-        "savoy-declaration": 9,
-        "apostles-creed": 0,
-        "39-articles": 2,
-        "second-helvetic-confession": 15,
-        "westminster-larger-catechism": 11,
-        "first-confession-of-basel": 1,
         "irenaeus-rule-of-faith": 0,
+        "apostles-creed": 0,
+        "chicago-statement": 1,
+        "1695-baptist-catechism": 6,
+        "nicene-creed": 0,
+        "puritan-catechism": 5,
+        "95-theses": 5,
+        "waldensian-confession": 1,
+        "chalcedonian-definition": 0,
+        "belgic-confession": 2,
+        "39-articles": 2,
+        "first-confession-of-basel": 1,
+        "athanasian-creed": 0,
+        "savoy-declaration": 9,
+        "westminster-larger-catechism": 11,
+        "heidelberg-catechism": 7,
+        "scots-confession": 1,
+        "westminster-confession": 9,
+        "westminster-shorter-catechism": 6,
         "canons-of-dort": 5,
-        "scots-confession": 1
+        "london-baptist-1689": 9,
+        "second-helvetic-confession": 15
       },
       "accumulated": [
         6.0,
         11.0,
         7.0,
         6.0,
-        4.0,
+        5.0,
         9.0,
         9.0,
         9.0,
@@ -97,17 +97,11 @@
         2.0,
         5.0
       ],
-      "turn": 94
+      "turn": 95
     },
-    "last_emitted": "2026-07-29T06:29:56.285217830Z"
+    "last_emitted": "2026-07-30T06:26:36.299848158Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.3 Sec.3",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God, His Unity and Trinity\nSection 3\n\nHERESIES\n\nTherefore we condemn the Jews and Mohammedans, and all those who blaspheme that sacred and adorable Trinity. We also condemn all heresies and heretics who teach that the Son and Holy Spirit are God in name only, and also that there is something created and subservient, or subordinate to another in the Trinity, and that their is something unequal in it, a greater or a less, something corporeal or corporeally conceived, something different with respect to character or will, something mixed or solitary, as if the Son and Holy Spirit were the affections and properties of one God the Father, as the Monarchians, Novatians, Praxeas, Patripassians, Sabellius, Paul of Samosata, Aetius, Macedonius, Anthropomorphites, Arius, and such like, have thought.</div>",
-      "guid": "second-helvetic-confession:ch3:sec3",
-      "pub_date": "2026-07-20T06:44:35.985867751Z"
-    },
     {
       "title": "Westminster Larger Catechism Q10",
       "description": "<div style='white-space: pre-wrap;'>Q10. What are the personal properties of the three persons in the Godhead?\n\nA. It is proper to the Father to beget the Son, and to the Son to be begotten of the Father, and to the Holy Ghost to proceed from the Father and the Son from all eternity.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Heb.1.5-Heb.1.6,Heb.1.8\n[2] John.1.14,John.1.18\n[3] John.15.26, Gal.4.6</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q11. How doth it appear that the Son and the Holy Ghost are God equal with the Father?\n\nA. The scriptures manifest that the Son and the Holy Ghost are God equal with the Father, ascribing unto them such names, attributes, works, and worship, as are proper to God only.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Isa.6.3,Isa.6.5,Isa.6.8, John.12.41, Acts.5.3-Acts.5.4, Acts.28.25, 1John.5.20\n[2] John.1.1, John.2.24-John.2.25, Isa.9.6, 1Cor.2.10-1Cor.2.11\n[3] Col.1.16, Gen.1.2\n[4] Matt.28.19, 2Cor.13.14</div>",
       "guid": "westminster-larger-catechism:q11",
       "pub_date": "2026-07-29T06:29:56.285505664Z"
+    },
+    {
+      "title": "Puritan Catechism Q5",
+      "description": "<div style='white-space: pre-wrap;'>Q5. Are there more Gods than one?\n\nA. There is but one only, the living and true God.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Deut.6.4\n[2] Jer.10.10</div>",
+      "guid": "puritan-catechism:q5",
+      "pub_date": "2026-07-30T06:26:36.300145307Z"
     }
   ]
 }
