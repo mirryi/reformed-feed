@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "canons-of-dort": 5,
-        "belgic-confession": 2,
-        "scots-confession": 2,
-        "westminster-shorter-catechism": 6,
-        "chalcedonian-definition": 0,
-        "athanasian-creed": 0,
-        "waldensian-confession": 1,
-        "irenaeus-rule-of-faith": 0,
-        "second-helvetic-confession": 16,
-        "nicene-creed": 0,
-        "first-confession-of-basel": 1,
-        "westminster-confession": 10,
-        "95-theses": 5,
-        "westminster-larger-catechism": 11,
-        "chicago-statement": 1,
-        "puritan-catechism": 5,
-        "1695-baptist-catechism": 7,
-        "apostles-creed": 0,
-        "london-baptist-1689": 9,
         "heidelberg-catechism": 7,
+        "athanasian-creed": 0,
+        "95-theses": 6,
+        "westminster-larger-catechism": 11,
+        "second-helvetic-confession": 16,
+        "waldensian-confession": 1,
+        "nicene-creed": 0,
+        "puritan-catechism": 5,
+        "canons-of-dort": 5,
+        "first-confession-of-basel": 1,
         "savoy-declaration": 9,
-        "39-articles": 2
+        "chicago-statement": 1,
+        "chalcedonian-definition": 0,
+        "1695-baptist-catechism": 7,
+        "irenaeus-rule-of-faith": 0,
+        "london-baptist-1689": 9,
+        "39-articles": 2,
+        "westminster-shorter-catechism": 6,
+        "scots-confession": 2,
+        "belgic-confession": 2,
+        "apostles-creed": 0,
+        "westminster-confession": 10
       },
       "accumulated": [
         6.0,
@@ -95,19 +95,13 @@
         0.0,
         0.0,
         2.0,
-        5.0
+        6.0
       ],
-      "turn": 99
+      "turn": 100
     },
-    "last_emitted": "2026-08-03T07:23:50.820538386Z"
+    "last_emitted": "2026-08-04T06:26:54.334962848Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Shorter Catechism Q6",
-      "description": "<div style='white-space: pre-wrap;'>Q6. How many persons are there in the Godhead?\n\nA. There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.</div>",
-      "guid": "westminster-shorter-catechism:q6",
-      "pub_date": "2026-07-25T06:16:58.111910754Z"
-    },
     {
       "title": "Second Helvetic Confession Ch.4 Sec.1",
       "description": "<div style='white-space: pre-wrap;'>Chapter 4: Of Idols or Images of God, Christ and The Saints\nSection 1\n\nIMAGES OF GOD\n\nSince God as Spirit is in essence invisible and immense, he cannot really be expressed by any art or image. For this reason we have no fear pronouncing with Scripture that images of God are mere lies. Therefore we reject not only the idols of the Gentiles, but also the images of Christians.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Article 2: Of the Creation of Man\n\nWe confess and acknowledge this our God to have created man (to wit, our first father Adam) to his own image and similitude, to whom he gave wisdom, lordship, justice, free will, and clear knowledge of himself; so that in the whole nature of man there could be noted no imperfection: from which honour and perfection man and woman did both fall; the woman being deceived by the serpent, and man obeying the voice of the woman: both conspiring against the Sovereign Majesty of God, who in expressed words had before threatened death, if they presumed to eat of the forbidden tree.</div>",
       "guid": "scots-confession:art2",
       "pub_date": "2026-08-03T07:23:50.820791728Z"
+    },
+    {
+      "title": "Martin Luther's 95 theses Thesis 6",
+      "description": "<div style='white-space: pre-wrap;'>Thesis 6\n\nThe pope cannot remit any guilt, except by declaring and showing that it has been remitted by God; or, to be sure, by remitting guilt in cases reserved to his judgment. If his right to grant remission in these cases were disregarded, the guilt would certainly remain unforgiven.</div>",
+      "guid": "95-theses:thesis6",
+      "pub_date": "2026-08-04T06:26:54.335237461Z"
     }
   ]
 }
