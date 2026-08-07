@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
+        "1695-baptist-catechism": 7,
+        "canons-of-dort": 6,
+        "second-helvetic-confession": 16,
         "puritan-catechism": 5,
+        "belgic-confession": 2,
         "chicago-statement": 1,
         "39-articles": 2,
-        "london-baptist-1689": 9,
-        "heidelberg-catechism": 8,
-        "chalcedonian-definition": 0,
-        "nicene-creed": 0,
-        "belgic-confession": 2,
-        "95-theses": 6,
         "first-confession-of-basel": 1,
-        "1695-baptist-catechism": 7,
-        "irenaeus-rule-of-faith": 0,
-        "athanasian-creed": 0,
-        "second-helvetic-confession": 16,
-        "scots-confession": 2,
-        "waldensian-confession": 1,
-        "westminster-shorter-catechism": 6,
-        "westminster-confession": 10,
-        "westminster-larger-catechism": 12,
         "apostles-creed": 0,
+        "scots-confession": 2,
         "savoy-declaration": 9,
-        "canons-of-dort": 5
+        "heidelberg-catechism": 8,
+        "waldensian-confession": 1,
+        "chalcedonian-definition": 0,
+        "95-theses": 6,
+        "westminster-shorter-catechism": 6,
+        "london-baptist-1689": 9,
+        "westminster-larger-catechism": 12,
+        "athanasian-creed": 0,
+        "nicene-creed": 0,
+        "westminster-confession": 10,
+        "irenaeus-rule-of-faith": 0
       },
       "accumulated": [
         6.0,
@@ -82,7 +82,7 @@
         10.0,
         9.0,
         9.0,
-        5.0,
+        6.0,
         16.0,
         2.0,
         2.0,
@@ -97,17 +97,11 @@
         2.0,
         6.0
       ],
-      "turn": 102
+      "turn": 103
     },
-    "last_emitted": "2026-08-06T06:29:02.609669961Z"
+    "last_emitted": "2026-08-07T05:39:17.662709784Z"
   },
   "recent_items": [
-    {
-      "title": "Savoy Declaration Ch.1 Sec.9",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 9\n\nThe infallible rule of interpretation of Scripture is the Scripture itself; and therefore, when there is a question about the true and full sense of any scripture (which is not manifold, but one), it must be searched and known by other places that speak more clearly.</div>",
-      "guid": "savoy-declaration:ch1:sec9",
-      "pub_date": "2026-07-28T06:26:09.110198953Z"
-    },
     {
       "title": "Westminster Larger Catechism Q11",
       "description": "<div style='white-space: pre-wrap;'>Q11. How doth it appear that the Son and the Holy Ghost are God equal with the Father?\n\nA. The scriptures manifest that the Son and the Holy Ghost are God equal with the Father, ascribing unto them such names, attributes, works, and worship, as are proper to God only.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Isa.6.3,Isa.6.5,Isa.6.8, John.12.41, Acts.5.3-Acts.5.4, Acts.28.25, 1John.5.20\n[2] John.1.1, John.2.24-John.2.25, Isa.9.6, 1Cor.2.10-1Cor.2.11\n[3] Col.1.16, Gen.1.2\n[4] Matt.28.19, 2Cor.13.14</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q12. What are the decrees of God?\n\nA. God&#39;s decrees are the wise, free, and holy acts of the counsel of his will, whereby, from all eternity, he hath, for his own glory, unchangeably foreordained: Whatsoever comes to pass in time, especially concerning angels and men.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Eph.1.11, Rom.9.14-Rom.9.15,Rom.9.18, Rom.11.33\n[2] Eph.1.4,Eph.1.11, Rom.9.22-Rom.9.23, Ps.33.11</div>",
       "guid": "westminster-larger-catechism:q12",
       "pub_date": "2026-08-06T06:29:02.609949656Z"
+    },
+    {
+      "title": "Canons of Dort Ch.1 Sec.A6",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A6\n\nThat some receive the gift of faith from God and others do not receive it proceeds from God&#39;s eternal decree, for &quot;known unto God are all His works from the beginning of the world&quot; (Acts 15:18). &quot;Who worketh all things after the counsel of His own will&quot; (Eph. 1:11). According to which decree, He graciously softens the hearts of the elect, however obstinate, and inclines them to believe, while He leaves the non-elect in His just judgment to their own wickedness and obduracy. And herein is especially displayed the profound, the merciful, and at the same time the righteous discrimination between men, equally involved in ruin; or that decree of election and reprobation revealed in the Word of God, which though men of perverse, impure and unstable minds wrest to their own destruction, yet to holy and pious souls affords unspeakable consolation.</div>",
+      "guid": "canons-of-dort:ch1:secA6",
+      "pub_date": "2026-08-07T05:39:17.662986270Z"
     }
   ]
 }
