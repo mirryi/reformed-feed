@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "heidelberg-catechism": 8,
-        "39-articles": 3,
-        "1695-baptist-catechism": 7,
-        "westminster-shorter-catechism": 7,
-        "savoy-declaration": 10,
-        "irenaeus-rule-of-faith": 0,
-        "athanasian-creed": 0,
-        "london-baptist-1689": 10,
-        "95-theses": 6,
-        "apostles-creed": 0,
-        "chicago-statement": 1,
-        "nicene-creed": 0,
-        "puritan-catechism": 5,
-        "waldensian-confession": 1,
-        "belgic-confession": 2,
-        "first-confession-of-basel": 1,
-        "scots-confession": 2,
         "chalcedonian-definition": 0,
-        "canons-of-dort": 6,
         "westminster-confession": 11,
+        "athanasian-creed": 0,
+        "39-articles": 3,
+        "chicago-statement": 1,
+        "waldensian-confession": 1,
+        "irenaeus-rule-of-faith": 0,
+        "1695-baptist-catechism": 7,
+        "puritan-catechism": 5,
+        "95-theses": 6,
+        "savoy-declaration": 10,
+        "belgic-confession": 3,
+        "heidelberg-catechism": 8,
+        "scots-confession": 2,
+        "london-baptist-1689": 10,
         "westminster-larger-catechism": 13,
-        "second-helvetic-confession": 18
+        "canons-of-dort": 6,
+        "westminster-shorter-catechism": 7,
+        "second-helvetic-confession": 18,
+        "nicene-creed": 0,
+        "first-confession-of-basel": 1,
+        "apostles-creed": 0
       },
       "accumulated": [
         7.0,
@@ -84,7 +84,7 @@
         10.0,
         6.0,
         18.0,
-        2.0,
+        3.0,
         2.0,
         1.0,
         1.0,
@@ -97,17 +97,11 @@
         3.0,
         6.0
       ],
-      "turn": 111
+      "turn": 112
     },
-    "last_emitted": "2026-08-15T04:29:28.300678186Z"
+    "last_emitted": "2026-08-16T04:34:28.652591373Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Larger Catechism Q12",
-      "description": "<div style='white-space: pre-wrap;'>Q12. What are the decrees of God?\n\nA. God&#39;s decrees are the wise, free, and holy acts of the counsel of his will, whereby, from all eternity, he hath, for his own glory, unchangeably foreordained: Whatsoever comes to pass in time, especially concerning angels and men.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Eph.1.11, Rom.9.14-Rom.9.15,Rom.9.18, Rom.11.33\n[2] Eph.1.4,Eph.1.11, Rom.9.22-Rom.9.23, Ps.33.11</div>",
-      "guid": "westminster-larger-catechism:q12",
-      "pub_date": "2026-08-06T06:29:02.609949656Z"
-    },
     {
       "title": "Canons of Dort Ch.1 Sec.A6",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A6\n\nThat some receive the gift of faith from God and others do not receive it proceeds from God&#39;s eternal decree, for &quot;known unto God are all His works from the beginning of the world&quot; (Acts 15:18). &quot;Who worketh all things after the counsel of His own will&quot; (Eph. 1:11). According to which decree, He graciously softens the hearts of the elect, however obstinate, and inclines them to believe, while He leaves the non-elect in His just judgment to their own wickedness and obduracy. And herein is especially displayed the profound, the merciful, and at the same time the righteous discrimination between men, equally involved in ruin; or that decree of election and reprobation revealed in the Word of God, which though men of perverse, impure and unstable minds wrest to their own destruction, yet to holy and pious souls affords unspeakable consolation.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q13. What hath God especially decreed concerning angels and men?\n\nA. God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory; and in Christ hath chosen some men to eternal life, and the means thereof: and also, according to his sovereign power, and the unsearchable counsel of his own will (whereby he extendeth or withholdeth favor as he pleases), hath passed by and foreordained the rest to dishonor and wrath, to be for their sin inflicted, to the praise of the glory of his justice.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1Tim.5.21\n[2] Eph.1.4-Eph.1.6, 2Thess.2.13-2Thess.2.14\n[3] Rom.9.17-Rom.9.18,Rom.9.21-Rom.9.22, Matt.11.25-Matt.11.26, 2Tim.2.20, Jude.1.4, 1Pet.2.8</div>",
       "guid": "westminster-larger-catechism:q13",
       "pub_date": "2026-08-15T04:29:28.300955635Z"
+    },
+    {
+      "title": "Belgic Confession Art.3",
+      "description": "<div style='white-space: pre-wrap;'>Article 3: The Written Word of God\n\nWe confess that this Word of God was not sent nor delivered &quot;by human will,&quot; but that &quot;men and women moved by the Holy Spirit spoke from God,&quot; as Peter says. (2 Pet. 1:21) Afterward our God- with special care for us and our salvation- commanded his servants, the prophets and apostles, to commit this revealed Word to writing. God, with his own finger, wrote the two tables of the law. Therefore we call such writings holy and divine Scriptures.</div>",
+      "guid": "belgic-confession:art3",
+      "pub_date": "2026-08-16T04:34:28.652868189Z"
     }
   ]
 }
