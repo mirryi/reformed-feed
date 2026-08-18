@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "chalcedonian-definition": 0,
-        "london-baptist-1689": 10,
         "savoy-declaration": 10,
-        "westminster-confession": 11,
-        "puritan-catechism": 5,
-        "waldensian-confession": 1,
-        "nicene-creed": 0,
         "scots-confession": 2,
-        "95-theses": 6,
-        "canons-of-dort": 6,
-        "heidelberg-catechism": 8,
-        "39-articles": 3,
-        "apostles-creed": 0,
-        "westminster-shorter-catechism": 7,
+        "westminster-confession": 11,
         "chicago-statement": 1,
+        "chalcedonian-definition": 0,
+        "95-theses": 6,
+        "1695-baptist-catechism": 8,
+        "london-baptist-1689": 11,
+        "apostles-creed": 0,
+        "second-helvetic-confession": 18,
+        "belgic-confession": 3,
         "westminster-larger-catechism": 13,
+        "nicene-creed": 0,
+        "heidelberg-catechism": 8,
+        "waldensian-confession": 1,
+        "39-articles": 3,
+        "canons-of-dort": 6,
+        "puritan-catechism": 5,
+        "first-confession-of-basel": 1,
         "irenaeus-rule-of-faith": 0,
         "athanasian-creed": 0,
-        "1695-baptist-catechism": 8,
-        "second-helvetic-confession": 18,
-        "first-confession-of-basel": 1,
-        "belgic-confession": 3
+        "westminster-shorter-catechism": 7
       },
       "accumulated": [
         7.0,
@@ -80,7 +80,7 @@
         8.0,
         5.0,
         11.0,
-        10.0,
+        11.0,
         10.0,
         6.0,
         18.0,
@@ -97,17 +97,11 @@
         3.0,
         6.0
       ],
-      "turn": 113
+      "turn": 114
     },
-    "last_emitted": "2026-08-17T04:40:19.577068714Z"
+    "last_emitted": "2026-08-18T04:33:59.713125647Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.4 Sec.3",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 4: Of Idols or Images of God, Christ and The Saints\nSection 3\n\nIMAGES OF SAINTS\n\nAnd since the blessed spirits and saints in heaven, while they lived here on earth, rejected all worship of themselves (Acts 3:12 f.; 14:11 ff.; Rev. 14:7; 22:9) and condemned images, shall anyone find it likely that the heavenly saints and angels are pleased with their own images before which men kneel. uncover their heads, and bestow other honors? \n\nBut in fact in order to instruct men in religion and to remind them of divine things and of their salvation, the Lord commanded the preaching of the Gospel (Mark 16:15) - not to paint and to teach the laity by means of pictures. Moreover, he instituted sacraments, but nowhere did he set up images.</div>",
-      "guid": "second-helvetic-confession:ch4:sec3",
-      "pub_date": "2026-08-08T04:55:21.869523277Z"
-    },
     {
       "title": "London Baptist Confession of 1689 Ch.1 Sec.10",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 10\n\nThe supream judge by which all controversies of Religion are to be determined, and all Decrees of Councels, opinions of antient Writers, Doctrines of men, and private Spirits, are to be examined, and in whose sentence we are to rest, can be no other but the Holy Scripture delivered by the Spirit, into which Scripture so delivered, our faith is finally resolved.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q8. Are there more Gods than One?\n\nA. There is but One only, the Living and True God.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Deut.6.4, Jer.10.10</div>",
       "guid": "1695-baptist-catechism:q8",
       "pub_date": "2026-08-17T04:40:19.577326344Z"
+    },
+    {
+      "title": "London Baptist Confession of 1689 Ch.2 Sec.1",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God and of the Holy Trinity\nSection 1\n\nThe Lord our God is but one only living, and true God; whose subsistence is in and of himself, infinite in being, and perfection, whose Essence cannot be comprehended by any but himself; a most pure spirit, invisible, without body, parts, or passions, who only hath immortality, dwelling in the light, which no man can approach unto, who is immutable, immense, eternal, incomprehensible, Almighty, every way infinit, most holy, most wise, most free, most absolute, working all things according to the councel of his own immutable, and most righteous will, for his own glory, most loving, gracious, merciful, long suffering, abundant in goodness and truth, forgiving iniquity, transgression and sin, the rewarder of them that diligently seek him, and withall most just, and terrible in his judgements, hating all sin, and who will by no means clear the guilty.</div>",
+      "guid": "london-baptist-1689:ch2:sec1",
+      "pub_date": "2026-08-18T04:33:59.713352048Z"
     }
   ]
 }
