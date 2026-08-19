@@ -50,33 +50,33 @@
         95
       ],
       "positions": {
-        "savoy-declaration": 10,
-        "scots-confession": 2,
-        "westminster-confession": 11,
-        "chicago-statement": 1,
-        "chalcedonian-definition": 0,
+        "canons-of-dort": 6,
         "95-theses": 6,
+        "chalcedonian-definition": 0,
+        "first-confession-of-basel": 1,
+        "chicago-statement": 1,
+        "waldensian-confession": 1,
         "1695-baptist-catechism": 8,
+        "39-articles": 3,
+        "westminster-shorter-catechism": 7,
         "london-baptist-1689": 11,
-        "apostles-creed": 0,
         "second-helvetic-confession": 18,
         "belgic-confession": 3,
-        "westminster-larger-catechism": 13,
-        "nicene-creed": 0,
-        "heidelberg-catechism": 8,
-        "waldensian-confession": 1,
-        "39-articles": 3,
-        "canons-of-dort": 6,
-        "puritan-catechism": 5,
-        "first-confession-of-basel": 1,
+        "apostles-creed": 0,
+        "scots-confession": 2,
         "irenaeus-rule-of-faith": 0,
+        "puritan-catechism": 5,
+        "westminster-confession": 11,
+        "heidelberg-catechism": 9,
+        "savoy-declaration": 10,
+        "westminster-larger-catechism": 13,
         "athanasian-creed": 0,
-        "westminster-shorter-catechism": 7
+        "nicene-creed": 0
       },
       "accumulated": [
         7.0,
         13.0,
-        8.0,
+        9.0,
         8.0,
         5.0,
         11.0,
@@ -97,17 +97,11 @@
         3.0,
         6.0
       ],
-      "turn": 114
+      "turn": 115
     },
-    "last_emitted": "2026-08-18T04:33:59.713125647Z"
+    "last_emitted": "2026-08-19T04:35:13.428136906Z"
   },
   "recent_items": [
-    {
-      "title": "London Baptist Confession of 1689 Ch.1 Sec.10",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scriptures\nSection 10\n\nThe supream judge by which all controversies of Religion are to be determined, and all Decrees of Councels, opinions of antient Writers, Doctrines of men, and private Spirits, are to be examined, and in whose sentence we are to rest, can be no other but the Holy Scripture delivered by the Spirit, into which Scripture so delivered, our faith is finally resolved.</div>",
-      "guid": "london-baptist-1689:ch1:sec10",
-      "pub_date": "2026-08-09T05:03:19.641423347Z"
-    },
     {
       "title": "Savoy Declaration Ch.1 Sec.10",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of the Holy Scripture\nSection 10\n\nThe Supreme Judge, by which all controversies of religion are to be determined, and all decrees of councils, opinions of ancient writers, doctrines of men, and private spirits, are to be examined, and in whose sentence we are to rest, can be no other but the holy Scripture delivered by the Spirit; into which Scripture so delivered, our faith is finally resolved.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God and of the Holy Trinity\nSection 1\n\nThe Lord our God is but one only living, and true God; whose subsistence is in and of himself, infinite in being, and perfection, whose Essence cannot be comprehended by any but himself; a most pure spirit, invisible, without body, parts, or passions, who only hath immortality, dwelling in the light, which no man can approach unto, who is immutable, immense, eternal, incomprehensible, Almighty, every way infinit, most holy, most wise, most free, most absolute, working all things according to the councel of his own immutable, and most righteous will, for his own glory, most loving, gracious, merciful, long suffering, abundant in goodness and truth, forgiving iniquity, transgression and sin, the rewarder of them that diligently seek him, and withall most just, and terrible in his judgements, hating all sin, and who will by no means clear the guilty.</div>",
       "guid": "london-baptist-1689:ch2:sec1",
       "pub_date": "2026-08-18T04:33:59.713352048Z"
+    },
+    {
+      "title": "Heidelberg Catechism Q9",
+      "description": "<div style='white-space: pre-wrap;'>Q9. Is God, then, not unjust by requiring in His law what man cannot do?\n\nA. No, for God so created man that he was able to do it. But man, at the instigation of the devil, in deliberate disobedience robbed himself and all his descendants of these gifts.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1.31\n[2] Gen.3.13, John.8.44, 1Tim.2.13-1Tim.2.14\n[3] Gen.3.6\n[4] Rom.5.12,Rom.5.18-Rom.5.19</div>",
+      "guid": "heidelberg-catechism:q9",
+      "pub_date": "2026-08-19T04:35:13.428412933Z"
     }
   ]
 }
