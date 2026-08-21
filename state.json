@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "puritan-catechism": 5,
-        "nicene-creed": 0,
-        "apostles-creed": 0,
         "belgic-confession": 3,
-        "athanasian-creed": 0,
-        "chicago-statement": 1,
-        "waldensian-confession": 1,
-        "39-articles": 3,
+        "apostles-creed": 0,
+        "westminster-shorter-catechism": 7,
         "westminster-larger-catechism": 13,
-        "scots-confession": 2,
-        "canons-of-dort": 6,
-        "95-theses": 6,
-        "chalcedonian-definition": 0,
-        "savoy-declaration": 11,
-        "second-helvetic-confession": 18,
-        "first-confession-of-basel": 1,
         "london-baptist-1689": 11,
         "irenaeus-rule-of-faith": 0,
-        "westminster-confession": 11,
         "1695-baptist-catechism": 8,
-        "westminster-shorter-catechism": 7,
-        "heidelberg-catechism": 9
+        "chalcedonian-definition": 0,
+        "95-theses": 6,
+        "savoy-declaration": 11,
+        "puritan-catechism": 5,
+        "nicene-creed": 0,
+        "waldensian-confession": 1,
+        "westminster-confession": 11,
+        "heidelberg-catechism": 9,
+        "canons-of-dort": 6,
+        "scots-confession": 2,
+        "chicago-statement": 1,
+        "second-helvetic-confession": 19,
+        "39-articles": 3,
+        "athanasian-creed": 0,
+        "first-confession-of-basel": 1
       },
       "accumulated": [
         7.0,
@@ -83,7 +83,7 @@
         11.0,
         11.0,
         6.0,
-        18.0,
+        19.0,
         3.0,
         2.0,
         1.0,
@@ -97,17 +97,11 @@
         3.0,
         6.0
       ],
-      "turn": 116
+      "turn": 117
     },
-    "last_emitted": "2026-08-20T04:35:19.677087783Z"
+    "last_emitted": "2026-08-21T04:36:43.961621547Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Confession of Faith Ch.2 Sec.1",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 1\n\nThere is but one only[1] living and true God,[2] who is infinite in being and perfection,[3] a most pure spirit,[4] invisible,[5] without body, parts,[6] or passions,[7] immutable,[8] immense,[9] eternal,[10] incomprehensible,[11] almighty,[12] most wise,[13] most holy,[14] most free,[15] most absolute,[16] working all things according to the counsel of his own immutable and most righteous will,[17] for his own glory;[18] most loving,[19] gracious, merciful, long-suffering, abundant in goodness and truth, forgiving iniquity, transgression, and sin;[20] the rewarder of them that diligently seek him;[21] and withal most just and terrible in his judgments;[22] hating all sin,[23] and who will by no means clear the guilty.[24]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Deut.6.4, 1Cor.8.4, 1Cor.8.6\n[3] Job.11.7-Job.11.9, Job.26.14\n[2] Jer.10.10, 1Thess.1.9\n[5] 1Tim.1.17\n[4] John.4.24\n[7] Acts.14.11, Acts.14.15\n[6] Deut.4.15-Deut.4.16, John.4.24, Luke.24.39\n[9] 1Kgs.8.27, Jer.23.23-Jer.23.24\n[8] Mal.3.6, Jas.1.17\n[10] Ps.90.2, 1Tim.1.17\n[12] Gen.17.1, Rev.4.8\n[11] Ps.145.3\n[14] Isa.6.3, Rev.4.8\n[13] Rom.16.27\n[16] Exod.3.14\n[15] Ps.115.3\n[18] Prov.16.4, Rom.11.36\n[17] Eph.1.11\n[20] Exod.34.6-Exod.34.7\n[19] 1John.4.8, 1John.4.16\n[21] Heb.11.6\n[23] Ps.5.5-Ps.5.6\n[22] Neh.9.32-Neh.9.33\n[24] Exod.34.7, Nah.1.2-Nah.1.3</div>",
-      "guid": "westminster-confession:ch2:sec1",
-      "pub_date": "2026-08-11T05:06:48.564890338Z"
-    },
     {
       "title": "Westminster Shorter Catechism Q7",
       "description": "<div style='white-space: pre-wrap;'>Q7. What are the decrees of God?\n\nA. The decrees of God are, his eternal purpose, according to the counsel of his will, whereby, for his own glory, he hath foreordained whatsoever comes to pass.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 1\n\nThere is but one only living and true God, who is infinite in being and perfection, a most pure spirit, invisible, without body, parts, or passions, immutable, immense, eternal, incomprehensible, almighty, most wise, most holy, most free, most absolute, working all things according to the counsel of his own immutable and most righteous will, for his own glory; most loving, gracious, merciful, long-suffering, abundant in goodness and truth, forgiving iniquity, transgression, and sin; the rewarder of them that diligently seek him; and withal most just and terrible in his judgments; hating all sin, and who will by no means clear the guilty.</div>",
       "guid": "savoy-declaration:ch2:sec1",
       "pub_date": "2026-08-20T04:35:19.677347073Z"
+    },
+    {
+      "title": "Second Helvetic Confession Ch.4 Sec.5",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 4: Of Idols or Images of God, Christ and The Saints\nSection 5\n\nLACTANTIUS\n\nTherefore we approved the judgment of Lactantius, and ancient writer, who says: &quot;Undoubtedly no religion exists where there is an image.&quot;</div>",
+      "guid": "second-helvetic-confession:ch4:sec5",
+      "pub_date": "2026-08-21T04:36:43.961895047Z"
     }
   ]
 }
