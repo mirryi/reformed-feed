@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "belgic-confession": 3,
-        "apostles-creed": 0,
-        "westminster-shorter-catechism": 7,
-        "westminster-larger-catechism": 13,
-        "london-baptist-1689": 11,
-        "irenaeus-rule-of-faith": 0,
-        "1695-baptist-catechism": 8,
-        "chalcedonian-definition": 0,
-        "95-theses": 6,
-        "savoy-declaration": 11,
-        "puritan-catechism": 5,
-        "nicene-creed": 0,
-        "waldensian-confession": 1,
-        "westminster-confession": 11,
-        "heidelberg-catechism": 9,
         "canons-of-dort": 6,
-        "scots-confession": 2,
+        "first-confession-of-basel": 1,
+        "waldensian-confession": 1,
+        "westminster-larger-catechism": 13,
+        "nicene-creed": 0,
+        "irenaeus-rule-of-faith": 0,
+        "95-theses": 6,
+        "westminster-confession": 12,
         "chicago-statement": 1,
-        "second-helvetic-confession": 19,
-        "39-articles": 3,
+        "belgic-confession": 3,
+        "scots-confession": 2,
         "athanasian-creed": 0,
-        "first-confession-of-basel": 1
+        "apostles-creed": 0,
+        "puritan-catechism": 5,
+        "heidelberg-catechism": 9,
+        "second-helvetic-confession": 19,
+        "1695-baptist-catechism": 8,
+        "39-articles": 3,
+        "savoy-declaration": 11,
+        "westminster-shorter-catechism": 7,
+        "london-baptist-1689": 11,
+        "chalcedonian-definition": 0
       },
       "accumulated": [
         7.0,
@@ -79,7 +79,7 @@
         9.0,
         8.0,
         5.0,
-        11.0,
+        12.0,
         11.0,
         11.0,
         6.0,
@@ -97,17 +97,11 @@
         3.0,
         6.0
       ],
-      "turn": 117
+      "turn": 118
     },
-    "last_emitted": "2026-08-21T04:36:43.961621547Z"
+    "last_emitted": "2026-08-22T04:31:35.931808500Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Shorter Catechism Q7",
-      "description": "<div style='white-space: pre-wrap;'>Q7. What are the decrees of God?\n\nA. The decrees of God are, his eternal purpose, according to the counsel of his will, whereby, for his own glory, he hath foreordained whatsoever comes to pass.</div>",
-      "guid": "westminster-shorter-catechism:q7",
-      "pub_date": "2026-08-12T05:36:31.861466356Z"
-    },
     {
       "title": "Thirty-nine Articles of Religion Art.3",
       "description": "<div style='white-space: pre-wrap;'>Article 3: Of the going down of Christ into Hell.\n\nAs Christ died for us, and was buried, so also is it to be believed, that he went down into Hell.\n</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 4: Of Idols or Images of God, Christ and The Saints\nSection 5\n\nLACTANTIUS\n\nTherefore we approved the judgment of Lactantius, and ancient writer, who says: &quot;Undoubtedly no religion exists where there is an image.&quot;</div>",
       "guid": "second-helvetic-confession:ch4:sec5",
       "pub_date": "2026-08-21T04:36:43.961895047Z"
+    },
+    {
+      "title": "Westminster Confession of Faith Ch.2 Sec.2",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 2\n\nGod hath all life,[1] glory,[2] goodness,[3] blessedness,[4] in and of himself; and is alone in and unto himself all-sufficient, not standing in need of any creatures which he hath made,[5] nor deriving any glory from them,[6] but only manifesting his own glory in, by, unto, and upon them: he is the alone fountain of all being, of whom, through whom, and to whom are all things;[7] and hath most sovereign dominion over them, to do by them, for them, or upon them whatsoever himself pleaseth.[8] In his sight all things are open and manifest;[9] his knowledge is infinite, infallible, and independent upon the creature;[10] so as nothing is to him contingent or uncertain.[11] He is most holy in all his counsels, in all his works, and in all his commands.[12] To him is due from angels and men, and every other creature, whatsoever worship, service, or obedience, he is pleased to require of them.[13]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] John.5.26\n[3] Ps.119.68\n[2] Acts.7.2\n[5] Acts.17.24-Acts.17.25\n[4] Rom.9.5, 1Tim.6.15\n[7] Rom.11.36\n[6] Job.22.2-Job.22.3\n[9] Heb.4.13\n[8] Dan.4.25, Dan.4.35, 1Tim.6.15, Rev.4.11\n[10] Ps.147.5, Rom.11.33-Rom.11.34\n[12] Ps.145.17, Rom.7.12\n[11] Ezek.11.5, Acts.15.18\n[13] Rev.5.12-Rev.5.14</div>",
+      "guid": "westminster-confession:ch2:sec2",
+      "pub_date": "2026-08-22T04:31:35.932114055Z"
     }
   ]
 }
