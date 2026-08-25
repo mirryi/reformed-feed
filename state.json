@@ -50,32 +50,32 @@
         95
       ],
       "positions": {
+        "first-confession-of-basel": 1,
+        "canons-of-dort": 6,
+        "westminster-shorter-catechism": 7,
+        "second-helvetic-confession": 19,
+        "belgic-confession": 3,
+        "nicene-creed": 0,
+        "london-baptist-1689": 11,
         "athanasian-creed": 0,
         "heidelberg-catechism": 9,
-        "belgic-confession": 3,
-        "95-theses": 7,
         "scots-confession": 2,
-        "1695-baptist-catechism": 8,
         "puritan-catechism": 6,
-        "chicago-statement": 1,
-        "nicene-creed": 0,
-        "canons-of-dort": 6,
-        "london-baptist-1689": 11,
         "westminster-confession": 12,
+        "chicago-statement": 1,
         "irenaeus-rule-of-faith": 0,
-        "39-articles": 3,
-        "savoy-declaration": 11,
-        "waldensian-confession": 1,
         "chalcedonian-definition": 0,
-        "westminster-shorter-catechism": 7,
-        "westminster-larger-catechism": 13,
         "apostles-creed": 0,
-        "first-confession-of-basel": 1,
-        "second-helvetic-confession": 19
+        "1695-baptist-catechism": 8,
+        "savoy-declaration": 11,
+        "95-theses": 7,
+        "westminster-larger-catechism": 14,
+        "39-articles": 3,
+        "waldensian-confession": 1
       },
       "accumulated": [
         7.0,
-        13.0,
+        14.0,
         9.0,
         8.0,
         6.0,
@@ -97,17 +97,11 @@
         3.0,
         7.0
       ],
-      "turn": 120
+      "turn": 121
     },
-    "last_emitted": "2026-08-24T04:42:34.321725031Z"
+    "last_emitted": "2026-08-25T04:37:10.868772847Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Larger Catechism Q13",
-      "description": "<div style='white-space: pre-wrap;'>Q13. What hath God especially decreed concerning angels and men?\n\nA. God, by an eternal and immutable decree, out of his mere love, for the praise of his glorious grace, to be manifested in due time, hath elected some angels to glory; and in Christ hath chosen some men to eternal life, and the means thereof: and also, according to his sovereign power, and the unsearchable counsel of his own will (whereby he extendeth or withholdeth favor as he pleases), hath passed by and foreordained the rest to dishonor and wrath, to be for their sin inflicted, to the praise of the glory of his justice.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1Tim.5.21\n[2] Eph.1.4-Eph.1.6, 2Thess.2.13-2Thess.2.14\n[3] Rom.9.17-Rom.9.18,Rom.9.21-Rom.9.22, Matt.11.25-Matt.11.26, 2Tim.2.20, Jude.1.4, 1Pet.2.8</div>",
-      "guid": "westminster-larger-catechism:q13",
-      "pub_date": "2026-08-15T04:29:28.300955635Z"
-    },
     {
       "title": "Belgic Confession Art.3",
       "description": "<div style='white-space: pre-wrap;'>Article 3: The Written Word of God\n\nWe confess that this Word of God was not sent nor delivered &quot;by human will,&quot; but that &quot;men and women moved by the Holy Spirit spoke from God,&quot; as Peter says. (2 Pet. 1:21) Afterward our God- with special care for us and our salvation- commanded his servants, the prophets and apostles, to commit this revealed Word to writing. God, with his own finger, wrote the two tables of the law. Therefore we call such writings holy and divine Scriptures.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Thesis 7\n\nGod remits guilt to no one unless at the same time he humbles him in all things and makes him submissive to the vicar, the priest.</div>",
       "guid": "95-theses:thesis7",
       "pub_date": "2026-08-24T04:42:34.321975491Z"
+    },
+    {
+      "title": "Westminster Larger Catechism Q14",
+      "description": "<div style='white-space: pre-wrap;'>Q14. How doth God execute his decrees?\n\nA. God executeth his decrees in the works of creation and providence, according to his infallible foreknowledge, and the free and immutable counsel of his own will.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Eph.1.11</div>",
+      "guid": "westminster-larger-catechism:q14",
+      "pub_date": "2026-08-25T04:37:10.869038944Z"
     }
   ]
 }
