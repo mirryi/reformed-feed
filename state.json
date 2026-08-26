@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "first-confession-of-basel": 1,
-        "canons-of-dort": 6,
-        "westminster-shorter-catechism": 7,
-        "second-helvetic-confession": 19,
+        "1695-baptist-catechism": 8,
         "belgic-confession": 3,
+        "heidelberg-catechism": 9,
+        "westminster-shorter-catechism": 7,
+        "first-confession-of-basel": 1,
+        "second-helvetic-confession": 19,
+        "chicago-statement": 1,
         "nicene-creed": 0,
         "london-baptist-1689": 11,
-        "athanasian-creed": 0,
-        "heidelberg-catechism": 9,
-        "scots-confession": 2,
-        "puritan-catechism": 6,
         "westminster-confession": 12,
-        "chicago-statement": 1,
+        "savoy-declaration": 11,
+        "puritan-catechism": 6,
+        "westminster-larger-catechism": 14,
         "irenaeus-rule-of-faith": 0,
         "chalcedonian-definition": 0,
+        "canons-of-dort": 7,
+        "scots-confession": 2,
+        "athanasian-creed": 0,
         "apostles-creed": 0,
-        "1695-baptist-catechism": 8,
-        "savoy-declaration": 11,
+        "waldensian-confession": 1,
         "95-theses": 7,
-        "westminster-larger-catechism": 14,
-        "39-articles": 3,
-        "waldensian-confession": 1
+        "39-articles": 3
       },
       "accumulated": [
         7.0,
@@ -82,7 +82,7 @@
         12.0,
         11.0,
         11.0,
-        6.0,
+        7.0,
         19.0,
         3.0,
         2.0,
@@ -97,17 +97,11 @@
         3.0,
         7.0
       ],
-      "turn": 121
+      "turn": 122
     },
-    "last_emitted": "2026-08-25T04:37:10.868772847Z"
+    "last_emitted": "2026-08-26T04:38:01.784785602Z"
   },
   "recent_items": [
-    {
-      "title": "Belgic Confession Art.3",
-      "description": "<div style='white-space: pre-wrap;'>Article 3: The Written Word of God\n\nWe confess that this Word of God was not sent nor delivered &quot;by human will,&quot; but that &quot;men and women moved by the Holy Spirit spoke from God,&quot; as Peter says. (2 Pet. 1:21) Afterward our God- with special care for us and our salvation- commanded his servants, the prophets and apostles, to commit this revealed Word to writing. God, with his own finger, wrote the two tables of the law. Therefore we call such writings holy and divine Scriptures.</div>",
-      "guid": "belgic-confession:art3",
-      "pub_date": "2026-08-16T04:34:28.652868189Z"
-    },
     {
       "title": "1695 Baptist Catechism Q8",
       "description": "<div style='white-space: pre-wrap;'>Q8. Are there more Gods than One?\n\nA. There is but One only, the Living and True God.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Deut.6.4, Jer.10.10</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q14. How doth God execute his decrees?\n\nA. God executeth his decrees in the works of creation and providence, according to his infallible foreknowledge, and the free and immutable counsel of his own will.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Eph.1.11</div>",
       "guid": "westminster-larger-catechism:q14",
       "pub_date": "2026-08-25T04:37:10.869038944Z"
+    },
+    {
+      "title": "Canons of Dort Ch.1 Sec.A7",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A7\n\nElection is the unchangeable purpose of God, whereby, before the foundation of the world, He hath out of mere grace, according to the sovereign good pleasure of His own will, chosen, from the whole human race, which had fallen through their own fault from their primitive state of rectitude into sin and destruction, a certain number of persons to redemption in Christ, whom He from eternity appointed the Mediator and Head of the elect, and the foundation of salvation.\n\nThis elect number, though by nature neither better nor more deserving than others, but with them involved in one common misery, God hath decreed to give to Christ, to be saved by Him, and effectually to call and draw them to His communion by His Word and Spirit, to bestow upon them true faith, justification and sanctification; and having powerfully preserved them in the fellowship of His Son, finally, to glorify them for the demonstration of His mercy and for the praise of His glorious grace, as it is written: &quot;According as He hath chosen us in Him before the foundation of the world, that we should be holy and without blame before Him in love: having predestinated us unto the adoption of children by Jesus Christ to Himself, according to the good pleasure of His will, to the praise of the glory of His grace, wherein He hath made us accepted in the beloved&quot; (Eph. 1:4-6). And elsewhere: &quot;Whom He did predestinate, them He also called: and whom He called, them He also justified: and whom He justified them He also glorified&quot; (Rom. 8:30).</div>",
+      "guid": "canons-of-dort:ch1:secA7",
+      "pub_date": "2026-08-26T04:38:01.785082541Z"
     }
   ]
 }
