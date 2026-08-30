@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
+        "1695-baptist-catechism": 8,
+        "savoy-declaration": 11,
+        "puritan-catechism": 6,
+        "irenaeus-rule-of-faith": 0,
+        "belgic-confession": 3,
+        "95-theses": 7,
+        "westminster-larger-catechism": 14,
+        "heidelberg-catechism": 9,
+        "westminster-shorter-catechism": 8,
+        "waldensian-confession": 1,
         "apostles-creed": 0,
+        "nicene-creed": 0,
+        "westminster-confession": 12,
         "chalcedonian-definition": 0,
+        "first-confession-of-basel": 1,
+        "chicago-statement": 1,
         "athanasian-creed": 0,
         "canons-of-dort": 7,
-        "westminster-larger-catechism": 14,
-        "nicene-creed": 0,
-        "belgic-confession": 3,
-        "first-confession-of-basel": 1,
-        "heidelberg-catechism": 9,
+        "scots-confession": 2,
         "39-articles": 3,
-        "westminster-shorter-catechism": 8,
-        "chicago-statement": 1,
-        "puritan-catechism": 6,
         "second-helvetic-confession": 20,
-        "savoy-declaration": 11,
-        "95-theses": 7,
-        "london-baptist-1689": 11,
-        "1695-baptist-catechism": 8,
-        "waldensian-confession": 1,
-        "westminster-confession": 12,
-        "irenaeus-rule-of-faith": 0,
-        "scots-confession": 2
+        "london-baptist-1689": 12
       },
       "accumulated": [
         8.0,
@@ -80,7 +80,7 @@
         8.0,
         6.0,
         12.0,
-        11.0,
+        12.0,
         11.0,
         7.0,
         20.0,
@@ -97,17 +97,11 @@
         3.0,
         7.0
       ],
-      "turn": 124
+      "turn": 125
     },
-    "last_emitted": "2026-08-28T15:55:10.613308967Z"
+    "last_emitted": "2026-08-30T09:45:24.234693414Z"
   },
   "recent_items": [
-    {
-      "title": "Heidelberg Catechism Q9",
-      "description": "<div style='white-space: pre-wrap;'>Q9. Is God, then, not unjust by requiring in His law what man cannot do?\n\nA. No, for God so created man that he was able to do it. But man, at the instigation of the devil, in deliberate disobedience robbed himself and all his descendants of these gifts.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1.31\n[2] Gen.3.13, John.8.44, 1Tim.2.13-1Tim.2.14\n[3] Gen.3.6\n[4] Rom.5.12,Rom.5.18-Rom.5.19</div>",
-      "guid": "heidelberg-catechism:q9",
-      "pub_date": "2026-08-19T04:35:13.428412933Z"
-    },
     {
       "title": "Savoy Declaration Ch.2 Sec.1",
       "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 1\n\nThere is but one only living and true God, who is infinite in being and perfection, a most pure spirit, invisible, without body, parts, or passions, immutable, immense, eternal, incomprehensible, almighty, most wise, most holy, most free, most absolute, working all things according to the counsel of his own immutable and most righteous will, for his own glory; most loving, gracious, merciful, long-suffering, abundant in goodness and truth, forgiving iniquity, transgression, and sin; the rewarder of them that diligently seek him; and withal most just and terrible in his judgments; hating all sin, and who will by no means clear the guilty.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q8. How doth God execute his decrees?\n\nA. God executeth his decrees in the works of creation and providence.</div>",
       "guid": "westminster-shorter-catechism:q8",
       "pub_date": "2026-08-28T15:55:10.613603888Z"
+    },
+    {
+      "title": "London Baptist Confession of 1689 Ch.2 Sec.2",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God and of the Holy Trinity\nSection 2\n\nGod having all life, glory, goodness, blessedness, in and of himself: is alone in, and unto himself all-sufficient, not standing in need of any Creature which he hath made, nor deriving any glory from them, but onely manifesting his own glory in, by, unto, and upon them, he is the alone fountain of all Being, of whom, through whom, and to whom are all things, and he hath most soveraign dominion over all creatures, to do by them, for them, or upon them, whatsoever himself pleaseth; in his sight all things are open and manifest, his knowledge is infinite, infallible, and independant upon the Creature, so as nothing is to him contingent, or uncertain; he is most holy in all his Councels, in all his Works, and in all his Commands; to him is due from Angels and men, whatsoever worship, service, or obedience as Creatures they owe unto the Creator, and whatever he is further pleased to require of them.</div>",
+      "guid": "london-baptist-1689:ch2:sec2",
+      "pub_date": "2026-08-30T09:45:24.234987844Z"
     }
   ]
 }
