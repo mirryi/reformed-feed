@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "1695-baptist-catechism": 8,
-        "savoy-declaration": 11,
-        "puritan-catechism": 6,
-        "irenaeus-rule-of-faith": 0,
+        "nicene-creed": 0,
         "belgic-confession": 3,
         "95-theses": 7,
+        "westminster-confession": 12,
         "westminster-larger-catechism": 14,
-        "heidelberg-catechism": 9,
+        "apostles-creed": 0,
+        "london-baptist-1689": 12,
+        "canons-of-dort": 7,
         "westminster-shorter-catechism": 8,
         "waldensian-confession": 1,
-        "apostles-creed": 0,
-        "nicene-creed": 0,
-        "westminster-confession": 12,
-        "chalcedonian-definition": 0,
         "first-confession-of-basel": 1,
+        "heidelberg-catechism": 9,
         "chicago-statement": 1,
-        "athanasian-creed": 0,
-        "canons-of-dort": 7,
         "scots-confession": 2,
-        "39-articles": 3,
         "second-helvetic-confession": 20,
-        "london-baptist-1689": 12
+        "irenaeus-rule-of-faith": 0,
+        "39-articles": 3,
+        "1695-baptist-catechism": 8,
+        "savoy-declaration": 12,
+        "athanasian-creed": 0,
+        "puritan-catechism": 6,
+        "chalcedonian-definition": 0
       },
       "accumulated": [
         8.0,
@@ -81,7 +81,7 @@
         6.0,
         12.0,
         12.0,
-        11.0,
+        12.0,
         7.0,
         20.0,
         3.0,
@@ -97,17 +97,11 @@
         3.0,
         7.0
       ],
-      "turn": 125
+      "turn": 126
     },
-    "last_emitted": "2026-08-30T09:45:24.234693414Z"
+    "last_emitted": "2026-08-31T10:34:32.145552487Z"
   },
   "recent_items": [
-    {
-      "title": "Savoy Declaration Ch.2 Sec.1",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 1\n\nThere is but one only living and true God, who is infinite in being and perfection, a most pure spirit, invisible, without body, parts, or passions, immutable, immense, eternal, incomprehensible, almighty, most wise, most holy, most free, most absolute, working all things according to the counsel of his own immutable and most righteous will, for his own glory; most loving, gracious, merciful, long-suffering, abundant in goodness and truth, forgiving iniquity, transgression, and sin; the rewarder of them that diligently seek him; and withal most just and terrible in his judgments; hating all sin, and who will by no means clear the guilty.</div>",
-      "guid": "savoy-declaration:ch2:sec1",
-      "pub_date": "2026-08-20T04:35:19.677347073Z"
-    },
     {
       "title": "Second Helvetic Confession Ch.4 Sec.5",
       "description": "<div style='white-space: pre-wrap;'>Chapter 4: Of Idols or Images of God, Christ and The Saints\nSection 5\n\nLACTANTIUS\n\nTherefore we approved the judgment of Lactantius, and ancient writer, who says: &quot;Undoubtedly no religion exists where there is an image.&quot;</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God and of the Holy Trinity\nSection 2\n\nGod having all life, glory, goodness, blessedness, in and of himself: is alone in, and unto himself all-sufficient, not standing in need of any Creature which he hath made, nor deriving any glory from them, but onely manifesting his own glory in, by, unto, and upon them, he is the alone fountain of all Being, of whom, through whom, and to whom are all things, and he hath most soveraign dominion over all creatures, to do by them, for them, or upon them, whatsoever himself pleaseth; in his sight all things are open and manifest, his knowledge is infinite, infallible, and independant upon the Creature, so as nothing is to him contingent, or uncertain; he is most holy in all his Councels, in all his Works, and in all his Commands; to him is due from Angels and men, whatsoever worship, service, or obedience as Creatures they owe unto the Creator, and whatever he is further pleased to require of them.</div>",
       "guid": "london-baptist-1689:ch2:sec2",
       "pub_date": "2026-08-30T09:45:24.234987844Z"
+    },
+    {
+      "title": "Savoy Declaration Ch.2 Sec.2",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 2\n\nGod hath all life, glory, goodness, blessedness, in and of himself; and is alone in and unto himself all-sufficient, not standing in need of any creatures which he hath made, nor deriving any glory from them, but only manifesting his own glory in, by, unto, and upon them: he is the alone fountain of all being, of whom, through whom, and to whom are all things; and hath most sovereign dominion over them, to do by them, for them, or upon them whatsoever himself pleaseth. In his sight all things are open and manifest; his knowledge is infinite, infallible, and independent upon the creature; so as nothing is to him contingent or uncertain. He is most holy in all his counsels, in all his works, and in all his commands. To him is due from angels and men, and every other creature, whatsoever worship, service, or obedience, as creatures, they owe unto the Creator, and whatever he is further pleased to require of them.</div>",
+      "guid": "savoy-declaration:ch2:sec2",
+      "pub_date": "2026-08-31T10:34:32.145831991Z"
     }
   ]
 }
