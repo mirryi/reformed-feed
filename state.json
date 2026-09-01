@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "nicene-creed": 0,
-        "belgic-confession": 3,
+        "irenaeus-rule-of-faith": 0,
+        "second-helvetic-confession": 20,
         "95-theses": 7,
-        "westminster-confession": 12,
-        "westminster-larger-catechism": 14,
-        "apostles-creed": 0,
-        "london-baptist-1689": 12,
-        "canons-of-dort": 7,
         "westminster-shorter-catechism": 8,
         "waldensian-confession": 1,
-        "first-confession-of-basel": 1,
-        "heidelberg-catechism": 9,
-        "chicago-statement": 1,
-        "scots-confession": 2,
-        "second-helvetic-confession": 20,
-        "irenaeus-rule-of-faith": 0,
         "39-articles": 3,
         "1695-baptist-catechism": 8,
-        "savoy-declaration": 12,
         "athanasian-creed": 0,
+        "canons-of-dort": 7,
         "puritan-catechism": 6,
-        "chalcedonian-definition": 0
+        "chicago-statement": 1,
+        "nicene-creed": 0,
+        "apostles-creed": 0,
+        "heidelberg-catechism": 9,
+        "scots-confession": 2,
+        "westminster-confession": 13,
+        "westminster-larger-catechism": 14,
+        "savoy-declaration": 12,
+        "london-baptist-1689": 12,
+        "chalcedonian-definition": 0,
+        "belgic-confession": 3,
+        "first-confession-of-basel": 1
       },
       "accumulated": [
         8.0,
@@ -79,7 +79,7 @@
         9.0,
         8.0,
         6.0,
-        12.0,
+        13.0,
         12.0,
         12.0,
         7.0,
@@ -97,17 +97,11 @@
         3.0,
         7.0
       ],
-      "turn": 126
+      "turn": 127
     },
-    "last_emitted": "2026-08-31T10:34:32.145552487Z"
+    "last_emitted": "2026-09-01T09:11:24.439987396Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.4 Sec.5",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 4: Of Idols or Images of God, Christ and The Saints\nSection 5\n\nLACTANTIUS\n\nTherefore we approved the judgment of Lactantius, and ancient writer, who says: &quot;Undoubtedly no religion exists where there is an image.&quot;</div>",
-      "guid": "second-helvetic-confession:ch4:sec5",
-      "pub_date": "2026-08-21T04:36:43.961895047Z"
-    },
     {
       "title": "Westminster Confession of Faith Ch.2 Sec.2",
       "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 2\n\nGod hath all life,[1] glory,[2] goodness,[3] blessedness,[4] in and of himself; and is alone in and unto himself all-sufficient, not standing in need of any creatures which he hath made,[5] nor deriving any glory from them,[6] but only manifesting his own glory in, by, unto, and upon them: he is the alone fountain of all being, of whom, through whom, and to whom are all things;[7] and hath most sovereign dominion over them, to do by them, for them, or upon them whatsoever himself pleaseth.[8] In his sight all things are open and manifest;[9] his knowledge is infinite, infallible, and independent upon the creature;[10] so as nothing is to him contingent or uncertain.[11] He is most holy in all his counsels, in all his works, and in all his commands.[12] To him is due from angels and men, and every other creature, whatsoever worship, service, or obedience, he is pleased to require of them.[13]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] John.5.26\n[3] Ps.119.68\n[2] Acts.7.2\n[5] Acts.17.24-Acts.17.25\n[4] Rom.9.5, 1Tim.6.15\n[7] Rom.11.36\n[6] Job.22.2-Job.22.3\n[9] Heb.4.13\n[8] Dan.4.25, Dan.4.35, 1Tim.6.15, Rev.4.11\n[10] Ps.147.5, Rom.11.33-Rom.11.34\n[12] Ps.145.17, Rom.7.12\n[11] Ezek.11.5, Acts.15.18\n[13] Rev.5.12-Rev.5.14</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 2\n\nGod hath all life, glory, goodness, blessedness, in and of himself; and is alone in and unto himself all-sufficient, not standing in need of any creatures which he hath made, nor deriving any glory from them, but only manifesting his own glory in, by, unto, and upon them: he is the alone fountain of all being, of whom, through whom, and to whom are all things; and hath most sovereign dominion over them, to do by them, for them, or upon them whatsoever himself pleaseth. In his sight all things are open and manifest; his knowledge is infinite, infallible, and independent upon the creature; so as nothing is to him contingent or uncertain. He is most holy in all his counsels, in all his works, and in all his commands. To him is due from angels and men, and every other creature, whatsoever worship, service, or obedience, as creatures, they owe unto the Creator, and whatever he is further pleased to require of them.</div>",
       "guid": "savoy-declaration:ch2:sec2",
       "pub_date": "2026-08-31T10:34:32.145831991Z"
+    },
+    {
+      "title": "Westminster Confession of Faith Ch.2 Sec.3",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 3\n\nIn the unity of the Godhead there be three persons, of one substance, power, and eternity: God the Father, God the Son, and God the Holy Ghost.[1] The Father is of none, neither begotten nor proceeding; the Son is eternally begotten of the Father;[2] the Holy Ghost eternally proceeding from the Father and the Son.[3]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Matt.3.16-Matt.3.17, Matt.28.19, 2Cor.13.14, 1John.5.7\n[3] John.15.26, Gal.4.6\n[2] John.1.14, John.1.18</div>",
+      "guid": "westminster-confession:ch2:sec3",
+      "pub_date": "2026-09-01T09:11:24.440269672Z"
     }
   ]
 }
