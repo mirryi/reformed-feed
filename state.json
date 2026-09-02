@@ -50,33 +50,33 @@
         95
       ],
       "positions": {
-        "irenaeus-rule-of-faith": 0,
-        "second-helvetic-confession": 20,
-        "95-theses": 7,
-        "westminster-shorter-catechism": 8,
-        "waldensian-confession": 1,
-        "39-articles": 3,
-        "1695-baptist-catechism": 8,
-        "athanasian-creed": 0,
-        "canons-of-dort": 7,
-        "puritan-catechism": 6,
         "chicago-statement": 1,
         "nicene-creed": 0,
         "apostles-creed": 0,
-        "heidelberg-catechism": 9,
+        "waldensian-confession": 1,
         "scots-confession": 2,
+        "39-articles": 3,
         "westminster-confession": 13,
-        "westminster-larger-catechism": 14,
         "savoy-declaration": 12,
         "london-baptist-1689": 12,
+        "95-theses": 7,
         "chalcedonian-definition": 0,
+        "heidelberg-catechism": 10,
+        "westminster-larger-catechism": 14,
+        "puritan-catechism": 6,
         "belgic-confession": 3,
-        "first-confession-of-basel": 1
+        "irenaeus-rule-of-faith": 0,
+        "first-confession-of-basel": 1,
+        "canons-of-dort": 7,
+        "athanasian-creed": 0,
+        "1695-baptist-catechism": 8,
+        "second-helvetic-confession": 20,
+        "westminster-shorter-catechism": 8
       },
       "accumulated": [
         8.0,
         14.0,
-        9.0,
+        10.0,
         8.0,
         6.0,
         13.0,
@@ -97,17 +97,11 @@
         3.0,
         7.0
       ],
-      "turn": 127
+      "turn": 128
     },
-    "last_emitted": "2026-09-01T09:11:24.439987396Z"
+    "last_emitted": "2026-09-02T08:24:50.905337179Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Confession of Faith Ch.2 Sec.2",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 2\n\nGod hath all life,[1] glory,[2] goodness,[3] blessedness,[4] in and of himself; and is alone in and unto himself all-sufficient, not standing in need of any creatures which he hath made,[5] nor deriving any glory from them,[6] but only manifesting his own glory in, by, unto, and upon them: he is the alone fountain of all being, of whom, through whom, and to whom are all things;[7] and hath most sovereign dominion over them, to do by them, for them, or upon them whatsoever himself pleaseth.[8] In his sight all things are open and manifest;[9] his knowledge is infinite, infallible, and independent upon the creature;[10] so as nothing is to him contingent or uncertain.[11] He is most holy in all his counsels, in all his works, and in all his commands.[12] To him is due from angels and men, and every other creature, whatsoever worship, service, or obedience, he is pleased to require of them.[13]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] John.5.26\n[3] Ps.119.68\n[2] Acts.7.2\n[5] Acts.17.24-Acts.17.25\n[4] Rom.9.5, 1Tim.6.15\n[7] Rom.11.36\n[6] Job.22.2-Job.22.3\n[9] Heb.4.13\n[8] Dan.4.25, Dan.4.35, 1Tim.6.15, Rev.4.11\n[10] Ps.147.5, Rom.11.33-Rom.11.34\n[12] Ps.145.17, Rom.7.12\n[11] Ezek.11.5, Acts.15.18\n[13] Rev.5.12-Rev.5.14</div>",
-      "guid": "westminster-confession:ch2:sec2",
-      "pub_date": "2026-08-22T04:31:35.932114055Z"
-    },
     {
       "title": "Puritan Catechism Q6",
       "description": "<div style='white-space: pre-wrap;'>Q6. How many persons are there in the Godhead?\n\nA. There are three persons in the Godhead, the Father, the Son, and the Holy Spirit, and these three are one God, the same in essence, equal in power and glory.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1John.5.7, Matt.28.19</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 3\n\nIn the unity of the Godhead there be three persons, of one substance, power, and eternity: God the Father, God the Son, and God the Holy Ghost.[1] The Father is of none, neither begotten nor proceeding; the Son is eternally begotten of the Father;[2] the Holy Ghost eternally proceeding from the Father and the Son.[3]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Matt.3.16-Matt.3.17, Matt.28.19, 2Cor.13.14, 1John.5.7\n[3] John.15.26, Gal.4.6\n[2] John.1.14, John.1.18</div>",
       "guid": "westminster-confession:ch2:sec3",
       "pub_date": "2026-09-01T09:11:24.440269672Z"
+    },
+    {
+      "title": "Heidelberg Catechism Q10",
+      "description": "<div style='white-space: pre-wrap;'>Q10. Will God allow such disobedience and apostasy to go unpunished?\n\nA. Certainly not. He is terribly displeased with our original sin as well as our actual sins. Therefore He will punish them by a just judgment both now and eternally, as He has declared: Cursed be every one who does not abide by all things written in the book of the law, and do them (Galatians 3:10).</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Exod.34.7, Ps.5.4-Ps.5.6, Ps.7.10, Nah.1.2, Rom.1.18, Rom.5.12, Eph.5.6, Heb.9.27\n[2] Deut.27.26</div>",
+      "guid": "heidelberg-catechism:q10",
+      "pub_date": "2026-09-02T08:24:50.905521286Z"
     }
   ]
 }
