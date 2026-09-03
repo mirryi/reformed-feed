@@ -51,27 +51,27 @@
       ],
       "positions": {
         "chicago-statement": 1,
-        "nicene-creed": 0,
-        "apostles-creed": 0,
-        "waldensian-confession": 1,
-        "scots-confession": 2,
         "39-articles": 3,
-        "westminster-confession": 13,
-        "savoy-declaration": 12,
         "london-baptist-1689": 12,
-        "95-theses": 7,
-        "chalcedonian-definition": 0,
+        "belgic-confession": 3,
+        "puritan-catechism": 6,
+        "nicene-creed": 0,
+        "scots-confession": 2,
         "heidelberg-catechism": 10,
         "westminster-larger-catechism": 14,
-        "puritan-catechism": 6,
-        "belgic-confession": 3,
-        "irenaeus-rule-of-faith": 0,
+        "westminster-confession": 13,
         "first-confession-of-basel": 1,
         "canons-of-dort": 7,
-        "athanasian-creed": 0,
         "1695-baptist-catechism": 8,
-        "second-helvetic-confession": 20,
-        "westminster-shorter-catechism": 8
+        "westminster-shorter-catechism": 8,
+        "apostles-creed": 0,
+        "athanasian-creed": 0,
+        "95-theses": 7,
+        "waldensian-confession": 1,
+        "second-helvetic-confession": 21,
+        "chalcedonian-definition": 0,
+        "savoy-declaration": 12,
+        "irenaeus-rule-of-faith": 0
       },
       "accumulated": [
         8.0,
@@ -83,7 +83,7 @@
         12.0,
         12.0,
         7.0,
-        20.0,
+        21.0,
         3.0,
         2.0,
         1.0,
@@ -97,17 +97,11 @@
         3.0,
         7.0
       ],
-      "turn": 128
+      "turn": 129
     },
-    "last_emitted": "2026-09-02T08:24:50.905337179Z"
+    "last_emitted": "2026-09-03T08:34:02.580800739Z"
   },
   "recent_items": [
-    {
-      "title": "Puritan Catechism Q6",
-      "description": "<div style='white-space: pre-wrap;'>Q6. How many persons are there in the Godhead?\n\nA. There are three persons in the Godhead, the Father, the Son, and the Holy Spirit, and these three are one God, the same in essence, equal in power and glory.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1John.5.7, Matt.28.19</div>",
-      "guid": "puritan-catechism:q6",
-      "pub_date": "2026-08-23T04:35:05.382500591Z"
-    },
     {
       "title": "Martin Luther's 95 theses Thesis 7",
       "description": "<div style='white-space: pre-wrap;'>Thesis 7\n\nGod remits guilt to no one unless at the same time he humbles him in all things and makes him submissive to the vicar, the priest.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q10. Will God allow such disobedience and apostasy to go unpunished?\n\nA. Certainly not. He is terribly displeased with our original sin as well as our actual sins. Therefore He will punish them by a just judgment both now and eternally, as He has declared: Cursed be every one who does not abide by all things written in the book of the law, and do them (Galatians 3:10).</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Exod.34.7, Ps.5.4-Ps.5.6, Ps.7.10, Nah.1.2, Rom.1.18, Rom.5.12, Eph.5.6, Heb.9.27\n[2] Deut.27.26</div>",
       "guid": "heidelberg-catechism:q10",
       "pub_date": "2026-09-02T08:24:50.905521286Z"
+    },
+    {
+      "title": "Second Helvetic Confession Ch.5 Sec.1",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 5: Of The Adoration, Worship and Invocation of God Through The Only Mediator Jesus Christ\nSection 1\n\nGOD ALONE IS TO BE ADORED AND WORSHIPPED\n\nWe teach that the true God alone is to be adored and worshipped. This honor we impart to none other, according to the commandment of the Lord, &quot;You shall worship the Lord your God and him only shall you serve&quot; (Math. 4:10). Indeed, all the prophets severely inveighed against the people of Israel whenever they adored and worshipped strange gods, and not the only true God. But we teach that God is to be adored and worshipped as he himself has taught us to worship, namely, &quot;in spirit and in truth&quot; (John 4:23 f.), not with any superstition, but with sincerity, according to his Word; lest at anytime he should say to us: &quot;Who has required these things from your hands?&quot; (Isa. 1:12; Jer. 6:20). For Paul also says: &quot;God is not served by human hands, as though he needed anything,&quot; etc. (Acts 17:25).</div>",
+      "guid": "second-helvetic-confession:ch5:sec1",
+      "pub_date": "2026-09-03T08:34:02.581100502Z"
     }
   ]
 }
