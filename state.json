@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "westminster-shorter-catechism": 8,
         "heidelberg-catechism": 10,
-        "waldensian-confession": 1,
-        "london-baptist-1689": 13,
-        "95-theses": 8,
-        "39-articles": 3,
-        "westminster-confession": 14,
-        "westminster-larger-catechism": 15,
-        "second-helvetic-confession": 22,
-        "savoy-declaration": 12,
-        "scots-confession": 2,
-        "chicago-statement": 2,
-        "first-confession-of-basel": 1,
-        "canons-of-dort": 7,
+        "athanasian-creed": 0,
         "nicene-creed": 0,
         "apostles-creed": 0,
         "irenaeus-rule-of-faith": 0,
-        "1695-baptist-catechism": 9,
+        "scots-confession": 2,
+        "westminster-shorter-catechism": 8,
+        "westminster-larger-catechism": 15,
         "puritan-catechism": 6,
-        "chalcedonian-definition": 0,
-        "athanasian-creed": 0,
-        "belgic-confession": 3
+        "1695-baptist-catechism": 9,
+        "second-helvetic-confession": 22,
+        "london-baptist-1689": 13,
+        "belgic-confession": 3,
+        "waldensian-confession": 1,
+        "first-confession-of-basel": 1,
+        "95-theses": 8,
+        "39-articles": 3,
+        "canons-of-dort": 7,
+        "westminster-confession": 14,
+        "chicago-statement": 2,
+        "savoy-declaration": 13,
+        "chalcedonian-definition": 0
       },
       "accumulated": [
         8.0,
@@ -81,7 +81,7 @@
         6.0,
         14.0,
         13.0,
-        12.0,
+        13.0,
         7.0,
         22.0,
         3.0,
@@ -97,17 +97,11 @@
         3.0,
         8.0
       ],
-      "turn": 136
+      "turn": 137
     },
-    "last_emitted": "2026-09-10T08:40:11.161837681Z"
+    "last_emitted": "2026-09-11T08:35:58.566746719Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Confession of Faith Ch.2 Sec.3",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 3\n\nIn the unity of the Godhead there be three persons, of one substance, power, and eternity: God the Father, God the Son, and God the Holy Ghost.[1] The Father is of none, neither begotten nor proceeding; the Son is eternally begotten of the Father;[2] the Holy Ghost eternally proceeding from the Father and the Son.[3]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Matt.3.16-Matt.3.17, Matt.28.19, 2Cor.13.14, 1John.5.7\n[3] John.15.26, Gal.4.6\n[2] John.1.14, John.1.18</div>",
-      "guid": "westminster-confession:ch2:sec3",
-      "pub_date": "2026-09-01T09:11:24.440269672Z"
-    },
     {
       "title": "Heidelberg Catechism Q10",
       "description": "<div style='white-space: pre-wrap;'>Q10. Will God allow such disobedience and apostasy to go unpunished?\n\nA. Certainly not. He is terribly displeased with our original sin as well as our actual sins. Therefore He will punish them by a just judgment both now and eternally, as He has declared: Cursed be every one who does not abide by all things written in the book of the law, and do them (Galatians 3:10).</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Exod.34.7, Ps.5.4-Ps.5.6, Ps.7.10, Nah.1.2, Rom.1.18, Rom.5.12, Eph.5.6, Heb.9.27\n[2] Deut.27.26</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 1\n\nGod from all eternity did, by the most wise and holy counsel of his own will, freely and unchangeably ordain whatsoever comes to pass;[1] yet so as thereby neither is God the author of sin,[2] nor is violence offered to the will of the creatures, nor is the liberty or contingency of second causes taken away, but rather established.[3]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.9.15, Rom.9.18, Rom.11.33, Eph.1.11, Heb.6.17\n[3] Prov.16.33, Matt.17.12, John.19.11, Acts.2.23, Acts.4.27-Acts.4.28\n[2] Jas.1.13, Jas.1.17, 1John.1.5</div>",
       "guid": "westminster-confession:ch3:sec1",
       "pub_date": "2026-09-10T08:40:11.162084903Z"
+    },
+    {
+      "title": "Savoy Declaration Ch.2 Sec.3",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 2: Of God, and of the Holy Trinity\nSection 3\n\nIn the unity of the Godhead there be three persons, of one substance, power, and eternity: God the Father, God the Son, and God the Holy Ghost. The Father is of none, neither begotten nor proceeding; the Son is eternally begotten of the Father; the Holy Ghost eternally proceeding from the Father and the Son. Which doctrine of the Trinity is the foundation of all our communion with God, and comfortable dependence upon him.</div>",
+      "guid": "savoy-declaration:ch2:sec3",
+      "pub_date": "2026-09-11T08:35:58.567012232Z"
     }
   ]
 }
