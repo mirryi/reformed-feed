@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "athanasian-creed": 0,
-        "westminster-shorter-catechism": 9,
-        "irenaeus-rule-of-faith": 0,
-        "apostles-creed": 0,
-        "westminster-larger-catechism": 16,
-        "heidelberg-catechism": 10,
-        "puritan-catechism": 7,
-        "belgic-confession": 3,
         "canons-of-dort": 7,
-        "savoy-declaration": 13,
-        "westminster-confession": 14,
-        "1695-baptist-catechism": 9,
-        "second-helvetic-confession": 22,
+        "london-baptist-1689": 13,
+        "westminster-larger-catechism": 16,
+        "second-helvetic-confession": 23,
+        "heidelberg-catechism": 10,
         "scots-confession": 2,
         "first-confession-of-basel": 1,
-        "chicago-statement": 2,
+        "westminster-shorter-catechism": 9,
+        "apostles-creed": 0,
+        "belgic-confession": 3,
+        "westminster-confession": 14,
+        "savoy-declaration": 13,
         "chalcedonian-definition": 0,
+        "athanasian-creed": 0,
+        "1695-baptist-catechism": 9,
         "waldensian-confession": 1,
-        "london-baptist-1689": 13,
         "95-theses": 8,
         "39-articles": 3,
-        "nicene-creed": 0
+        "nicene-creed": 0,
+        "puritan-catechism": 7,
+        "irenaeus-rule-of-faith": 0,
+        "chicago-statement": 2
       },
       "accumulated": [
         9.0,
@@ -83,7 +83,7 @@
         13.0,
         13.0,
         7.0,
-        22.0,
+        23.0,
         3.0,
         2.0,
         1.0,
@@ -97,17 +97,11 @@
         3.0,
         8.0
       ],
-      "turn": 140
+      "turn": 141
     },
-    "last_emitted": "2026-09-15T09:13:03.881242658Z"
+    "last_emitted": "2026-09-16T09:05:13.547142921Z"
   },
   "recent_items": [
-    {
-      "title": "1695 Baptist Catechism Q9",
-      "description": "<div style='white-space: pre-wrap;'>Q9. How many Persons are there in the Godhead?\n\nA. There are Three Persons in the Godhead, the Father, the Son, and the Holy Spirit; and these Three are One God, the same in Essence, equal in Power and Glory.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1John.5.7, Matt.28.19</div>",
-      "guid": "1695-baptist-catechism:q9",
-      "pub_date": "2026-09-05T08:04:15.132542449Z"
-    },
     {
       "title": "Chicago Statement on Biblical Inerrancy Art.2",
       "description": "<div style='white-space: pre-wrap;'>Article 2: Article II\n\nWE AFFIRM that the Scriptures are the supreme written norm by which God binds the conscience, and that the authority of the Church is subordinate to that of Scripture.\n\nWE DENY that Church creeds, councils, or declarations have authority greater than or equal to the authority of the Bible.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q7. What are the decrees of God?\n\nA. The decrees of God are his eternal purpose according to the counsel of his own will, whereby for his own glory he has foreordained whatever comes to pass.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Eph.1.11-Eph.1.12</div>",
       "guid": "puritan-catechism:q7",
       "pub_date": "2026-09-15T09:13:03.881532931Z"
+    },
+    {
+      "title": "Second Helvetic Confession Ch.5 Sec.3",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 5: Of The Adoration, Worship and Invocation of God Through The Only Mediator Jesus Christ\nSection 3\n\nTHE SAINTS ARE NOT TO BE ADORED, WORSHIPPED OR INVOKED\n\nFor this reason we do not adore, worship, or pray to the saints in heaven, or to other gods, and we do not acknowledge them as our intercessors or mediators before the Father in heaven. For God and Christ the Mediator are sufficient for us; neither do we give to others the honor that is due to God alone and to his Son, because he has expressly said: &quot;My glory I give to no other: (Isa. 42:8), and because Peter has said: &quot;There is no other name under heaven given among men by which we must be saved,&quot; except the name of Christ (Acts 4:12). In him, those who give their assent by faith do not seek anything outside Christ.</div>",
+      "guid": "second-helvetic-confession:ch5:sec3",
+      "pub_date": "2026-09-16T09:05:13.547410973Z"
     }
   ]
 }
