@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "canons-of-dort": 7,
-        "london-baptist-1689": 13,
-        "westminster-larger-catechism": 16,
-        "second-helvetic-confession": 23,
-        "heidelberg-catechism": 10,
         "scots-confession": 2,
-        "first-confession-of-basel": 1,
-        "westminster-shorter-catechism": 9,
-        "apostles-creed": 0,
         "belgic-confession": 3,
-        "westminster-confession": 14,
-        "savoy-declaration": 13,
-        "chalcedonian-definition": 0,
-        "athanasian-creed": 0,
-        "1695-baptist-catechism": 9,
-        "waldensian-confession": 1,
-        "95-theses": 8,
-        "39-articles": 3,
         "nicene-creed": 0,
-        "puritan-catechism": 7,
+        "westminster-larger-catechism": 16,
+        "westminster-shorter-catechism": 9,
+        "waldensian-confession": 1,
         "irenaeus-rule-of-faith": 0,
-        "chicago-statement": 2
+        "first-confession-of-basel": 1,
+        "london-baptist-1689": 13,
+        "apostles-creed": 0,
+        "95-theses": 8,
+        "savoy-declaration": 13,
+        "athanasian-creed": 0,
+        "puritan-catechism": 7,
+        "chicago-statement": 2,
+        "second-helvetic-confession": 23,
+        "1695-baptist-catechism": 9,
+        "westminster-confession": 14,
+        "heidelberg-catechism": 10,
+        "39-articles": 3,
+        "chalcedonian-definition": 0,
+        "canons-of-dort": 8
       },
       "accumulated": [
         9.0,
@@ -82,7 +82,7 @@
         14.0,
         13.0,
         13.0,
-        7.0,
+        8.0,
         23.0,
         3.0,
         2.0,
@@ -97,17 +97,11 @@
         3.0,
         8.0
       ],
-      "turn": 141
+      "turn": 142
     },
-    "last_emitted": "2026-09-16T09:05:13.547142921Z"
+    "last_emitted": "2026-09-17T09:13:45.789963915Z"
   },
   "recent_items": [
-    {
-      "title": "Chicago Statement on Biblical Inerrancy Art.2",
-      "description": "<div style='white-space: pre-wrap;'>Article 2: Article II\n\nWE AFFIRM that the Scriptures are the supreme written norm by which God binds the conscience, and that the authority of the Church is subordinate to that of Scripture.\n\nWE DENY that Church creeds, councils, or declarations have authority greater than or equal to the authority of the Bible.</div>",
-      "guid": "chicago-statement:art2",
-      "pub_date": "2026-09-06T08:23:06.901526584Z"
-    },
     {
       "title": "Second Helvetic Confession Ch.5 Sec.2",
       "description": "<div style='white-space: pre-wrap;'>Chapter 5: Of The Adoration, Worship and Invocation of God Through The Only Mediator Jesus Christ\nSection 2\n\nGOD ALONE IS TO BE INVOKED THROUGH THE MEDIATION OF CHRIST ALONE\n\nIn all crises and trials of our life we call upon him alone, and that by the mediation of our only mediator and intercessor, Jesus Christ. For we have been explicitly commanded: &quot;Call upon me in the day of trouble; I will deliver you, and you shall glorify me&quot; (Ps. 1:15). Moreover, we have a most generous promise from the Lord Who said: &quot;If you ask anything of the Father, he will give it to you&quot; (John 16:23), and: &quot;Come to me, all who labor and are heavy laden and I will give you rest: (Matt 11:28). And since it is written: &quot;How are men to call upon him in whom they have not believed?&quot; (Rom. 10:14), and since we do believe in God alone, we assuredly call upon him alone, and we do so through Christ. For as the apostle says, &quot;There is one God and there is one mediator between God and men, the man Christ Jesus? (I Tim. 2:5), and, &quot;If any one does sin, we have an advocate with the Father, Jesus Christ the righteous,&quot; etc. (I John 2:1).</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 5: Of The Adoration, Worship and Invocation of God Through The Only Mediator Jesus Christ\nSection 3\n\nTHE SAINTS ARE NOT TO BE ADORED, WORSHIPPED OR INVOKED\n\nFor this reason we do not adore, worship, or pray to the saints in heaven, or to other gods, and we do not acknowledge them as our intercessors or mediators before the Father in heaven. For God and Christ the Mediator are sufficient for us; neither do we give to others the honor that is due to God alone and to his Son, because he has expressly said: &quot;My glory I give to no other: (Isa. 42:8), and because Peter has said: &quot;There is no other name under heaven given among men by which we must be saved,&quot; except the name of Christ (Acts 4:12). In him, those who give their assent by faith do not seek anything outside Christ.</div>",
       "guid": "second-helvetic-confession:ch5:sec3",
       "pub_date": "2026-09-16T09:05:13.547410973Z"
+    },
+    {
+      "title": "Canons of Dort Ch.1 Sec.A8",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A8\n\nThere are not various decrees of election, but one and the same decree respecting all those who shall be saved, both under the Old and New Testament; since the Scripture declares the good pleasure, purpose and counsel of the divine will to be one, according to which He hath chosen us from eternity, both to grace and glory, to salvation and the way of salvation, which He hath ordained that we should walk therein.</div>",
+      "guid": "canons-of-dort:ch1:secA8",
+      "pub_date": "2026-09-17T09:13:45.790243095Z"
     }
   ]
 }
