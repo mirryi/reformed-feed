@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "westminster-larger-catechism": 17,
-        "1695-baptist-catechism": 10,
-        "irenaeus-rule-of-faith": 0,
-        "westminster-confession": 15,
-        "puritan-catechism": 7,
-        "london-baptist-1689": 14,
-        "chalcedonian-definition": 0,
-        "39-articles": 3,
-        "waldensian-confession": 1,
-        "second-helvetic-confession": 23,
-        "chicago-statement": 2,
-        "savoy-declaration": 13,
-        "nicene-creed": 0,
-        "95-theses": 8,
-        "canons-of-dort": 8,
         "westminster-shorter-catechism": 9,
-        "belgic-confession": 3,
-        "athanasian-creed": 0,
+        "39-articles": 3,
+        "westminster-larger-catechism": 17,
+        "irenaeus-rule-of-faith": 0,
+        "chicago-statement": 2,
         "first-confession-of-basel": 1,
+        "savoy-declaration": 13,
+        "chalcedonian-definition": 0,
+        "puritan-catechism": 7,
+        "heidelberg-catechism": 11,
+        "athanasian-creed": 0,
+        "canons-of-dort": 8,
+        "london-baptist-1689": 14,
+        "95-theses": 8,
+        "westminster-confession": 15,
+        "waldensian-confession": 1,
+        "second-helvetic-confession": 24,
+        "nicene-creed": 0,
         "apostles-creed": 0,
+        "1695-baptist-catechism": 10,
         "scots-confession": 2,
-        "heidelberg-catechism": 11
+        "belgic-confession": 3
       },
       "accumulated": [
         9.0,
@@ -83,7 +83,7 @@
         14.0,
         13.0,
         8.0,
-        23.0,
+        24.0,
         3.0,
         2.0,
         1.0,
@@ -97,17 +97,11 @@
         3.0,
         8.0
       ],
-      "turn": 147
+      "turn": 148
     },
-    "last_emitted": "2026-09-22T09:02:05.652766814Z"
+    "last_emitted": "2026-09-23T09:06:02.745175725Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Larger Catechism Q16",
-      "description": "<div style='white-space: pre-wrap;'>Q16. How did God create angels?\n\nA. God created all the angels spirits, immortal, holy, excelling in knowledge, mighty in power, to execute his commandments, and to praise his name, yet subject to change.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Col.1.16\n[2] Ps.104.4\n[3] Matt.22.30\n[4] Matt.25.31\n[5] 2Sam.14.17, Matt.24.36\n[6] 2Thess.1.7\n[7] Ps.103.20-Ps.103.21\n[8] 2Pet.2.4</div>",
-      "guid": "westminster-larger-catechism:q16",
-      "pub_date": "2026-09-12T08:22:53.203310237Z"
-    },
     {
       "title": "Westminster Shorter Catechism Q9",
       "description": "<div style='white-space: pre-wrap;'>Q9. What is the work of creation?\n\nA. The work of creation is, God&#39;s making all things of nothing, by the word of his power, in the space of six days, and all very good.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Decree\nSection 1\n\nGod hath Decreed in himself from all Eternity, by the most wise and holy Councel of his own will, freely and unchangeably, all things whatsoever comes to passe; yet so as thereby is God neither the author of sin, nor hath fellowship with any therein, nor is violence offered to the will of the Creature, nor yet is the liberty, or contingency of second causes taken away, but rather established, in which appears his wisdom in disposing all things, and power, and faithfulness in accomplishing his Decree.</div>",
       "guid": "london-baptist-1689:ch3:sec1",
       "pub_date": "2026-09-22T09:02:05.653021328Z"
+    },
+    {
+      "title": "Second Helvetic Confession Ch.5 Sec.4",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 5: Of The Adoration, Worship and Invocation of God Through The Only Mediator Jesus Christ\nSection 4\n\nTHE DUE HONOR TO BE RENDERED TO THE SAINTS\n\nAt the same time we do not despise the saints or think basely of them. For we acknowledge them to be living members of Christ and friends of God who have gloriously overcome the flesh and the world. Hence we love them as brothers, and also honor them; yet not with any kind of worship but by an honorable opinion of them and just praises of them. We also imitate them. For with ardent longings and supplications we earnestly desire to be imitators of their faith and virtues, to share eternal salvation with them, to dwell eternally with them in the presence of God, and to rejoice with them in Christ. And in this respect we approve of the opinion of St. Augustine in De Vera Religione: &quot;Let not our religion be the cult of men who have died. For if they have lived holy lives, they are not to be thought of as seeking such honors; on the contrary, they want us to worship him by whose illumination they rejoice that we are fellow-servants of his merits. They are therefore to be honored by the way of imitation, but not to be adored in a religious manner,&quot; etc.</div>",
+      "guid": "second-helvetic-confession:ch5:sec4",
+      "pub_date": "2026-09-23T09:06:02.745439517Z"
     }
   ]
 }
