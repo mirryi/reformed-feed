@@ -51,27 +51,27 @@
       ],
       "positions": {
         "westminster-confession": 15,
-        "1695-baptist-catechism": 10,
-        "nicene-creed": 0,
-        "waldensian-confession": 1,
-        "belgic-confession": 3,
-        "irenaeus-rule-of-faith": 0,
-        "london-baptist-1689": 14,
-        "chicago-statement": 2,
-        "savoy-declaration": 14,
-        "apostles-creed": 0,
-        "westminster-larger-catechism": 17,
-        "chalcedonian-definition": 0,
-        "39-articles": 3,
-        "canons-of-dort": 8,
-        "heidelberg-catechism": 11,
-        "95-theses": 8,
-        "second-helvetic-confession": 24,
-        "westminster-shorter-catechism": 9,
-        "athanasian-creed": 0,
         "scots-confession": 2,
+        "belgic-confession": 3,
+        "savoy-declaration": 14,
+        "39-articles": 4,
+        "95-theses": 8,
+        "chalcedonian-definition": 0,
+        "westminster-shorter-catechism": 9,
+        "waldensian-confession": 1,
+        "chicago-statement": 2,
+        "first-confession-of-basel": 1,
+        "second-helvetic-confession": 24,
+        "athanasian-creed": 0,
+        "apostles-creed": 0,
+        "london-baptist-1689": 14,
         "puritan-catechism": 7,
-        "first-confession-of-basel": 1
+        "irenaeus-rule-of-faith": 0,
+        "1695-baptist-catechism": 10,
+        "westminster-larger-catechism": 17,
+        "heidelberg-catechism": 11,
+        "canons-of-dort": 8,
+        "nicene-creed": 0
       },
       "accumulated": [
         9.0,
@@ -94,20 +94,14 @@
         0.0,
         0.0,
         0.0,
-        3.0,
+        4.0,
         8.0
       ],
-      "turn": 149
+      "turn": 150
     },
-    "last_emitted": "2026-09-24T09:00:56.241668225Z"
+    "last_emitted": "2026-09-25T09:24:09.461732486Z"
   },
   "recent_items": [
-    {
-      "title": "Puritan Catechism Q7",
-      "description": "<div style='white-space: pre-wrap;'>Q7. What are the decrees of God?\n\nA. The decrees of God are his eternal purpose according to the counsel of his own will, whereby for his own glory he has foreordained whatever comes to pass.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Eph.1.11-Eph.1.12</div>",
-      "guid": "puritan-catechism:q7",
-      "pub_date": "2026-09-15T09:13:03.881532931Z"
-    },
     {
       "title": "Second Helvetic Confession Ch.5 Sec.3",
       "description": "<div style='white-space: pre-wrap;'>Chapter 5: Of The Adoration, Worship and Invocation of God Through The Only Mediator Jesus Christ\nSection 3\n\nTHE SAINTS ARE NOT TO BE ADORED, WORSHIPPED OR INVOKED\n\nFor this reason we do not adore, worship, or pray to the saints in heaven, or to other gods, and we do not acknowledge them as our intercessors or mediators before the Father in heaven. For God and Christ the Mediator are sufficient for us; neither do we give to others the honor that is due to God alone and to his Son, because he has expressly said: &quot;My glory I give to no other: (Isa. 42:8), and because Peter has said: &quot;There is no other name under heaven given among men by which we must be saved,&quot; except the name of Christ (Acts 4:12). In him, those who give their assent by faith do not seek anything outside Christ.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 1\n\nGod from all eternity did, by the most wise and holy counsel of his own will, freely and unchangeably ordain whatsoever comes to pass; yet so as thereby neither is God the author of sin, nor is violence offered to the will of the creatures, nor is the liberty or contingency of second causes taken away, but rather established.</div>",
       "guid": "savoy-declaration:ch3:sec1",
       "pub_date": "2026-09-24T09:00:56.241926879Z"
+    },
+    {
+      "title": "Thirty-nine Articles of Religion Art.4",
+      "description": "<div style='white-space: pre-wrap;'>Article 4: Of the Resurrection of Christ.\n\nChrist did truly rise again from death, and took again his body, with flesh, bones, and all things appertaining to the perfection of Man&#39;s nature; wherewith he ascended into Heaven, and there sitteth, until he return to judge all Men at the last day.\n</div>",
+      "guid": "39-articles:art4",
+      "pub_date": "2026-09-25T09:24:09.462028011Z"
     }
   ]
 }
