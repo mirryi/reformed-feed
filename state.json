@@ -50,31 +50,31 @@
         95
       ],
       "positions": {
-        "westminster-confession": 15,
+        "london-baptist-1689": 14,
+        "chalcedonian-definition": 0,
         "scots-confession": 2,
+        "second-helvetic-confession": 24,
+        "puritan-catechism": 7,
+        "95-theses": 8,
+        "athanasian-creed": 0,
+        "westminster-confession": 15,
         "belgic-confession": 3,
         "savoy-declaration": 14,
-        "39-articles": 4,
-        "95-theses": 8,
-        "chalcedonian-definition": 0,
-        "westminster-shorter-catechism": 9,
-        "waldensian-confession": 1,
+        "1695-baptist-catechism": 10,
+        "heidelberg-catechism": 11,
+        "irenaeus-rule-of-faith": 0,
         "chicago-statement": 2,
         "first-confession-of-basel": 1,
-        "second-helvetic-confession": 24,
-        "athanasian-creed": 0,
+        "39-articles": 4,
         "apostles-creed": 0,
-        "london-baptist-1689": 14,
-        "puritan-catechism": 7,
-        "irenaeus-rule-of-faith": 0,
-        "1695-baptist-catechism": 10,
         "westminster-larger-catechism": 17,
-        "heidelberg-catechism": 11,
         "canons-of-dort": 8,
-        "nicene-creed": 0
+        "nicene-creed": 0,
+        "westminster-shorter-catechism": 10,
+        "waldensian-confession": 1
       },
       "accumulated": [
-        9.0,
+        10.0,
         17.0,
         11.0,
         10.0,
@@ -97,17 +97,11 @@
         4.0,
         8.0
       ],
-      "turn": 150
+      "turn": 151
     },
-    "last_emitted": "2026-09-25T09:24:09.461732486Z"
+    "last_emitted": "2026-09-26T09:08:42.736144542Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.5 Sec.3",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 5: Of The Adoration, Worship and Invocation of God Through The Only Mediator Jesus Christ\nSection 3\n\nTHE SAINTS ARE NOT TO BE ADORED, WORSHIPPED OR INVOKED\n\nFor this reason we do not adore, worship, or pray to the saints in heaven, or to other gods, and we do not acknowledge them as our intercessors or mediators before the Father in heaven. For God and Christ the Mediator are sufficient for us; neither do we give to others the honor that is due to God alone and to his Son, because he has expressly said: &quot;My glory I give to no other: (Isa. 42:8), and because Peter has said: &quot;There is no other name under heaven given among men by which we must be saved,&quot; except the name of Christ (Acts 4:12). In him, those who give their assent by faith do not seek anything outside Christ.</div>",
-      "guid": "second-helvetic-confession:ch5:sec3",
-      "pub_date": "2026-09-16T09:05:13.547410973Z"
-    },
     {
       "title": "Canons of Dort Ch.1 Sec.A8",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A8\n\nThere are not various decrees of election, but one and the same decree respecting all those who shall be saved, both under the Old and New Testament; since the Scripture declares the good pleasure, purpose and counsel of the divine will to be one, according to which He hath chosen us from eternity, both to grace and glory, to salvation and the way of salvation, which He hath ordained that we should walk therein.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Article 4: Of the Resurrection of Christ.\n\nChrist did truly rise again from death, and took again his body, with flesh, bones, and all things appertaining to the perfection of Man&#39;s nature; wherewith he ascended into Heaven, and there sitteth, until he return to judge all Men at the last day.\n</div>",
       "guid": "39-articles:art4",
       "pub_date": "2026-09-25T09:24:09.462028011Z"
+    },
+    {
+      "title": "Westminster Shorter Catechism Q10",
+      "description": "<div style='white-space: pre-wrap;'>Q10. How did God create man?\n\nA. God created man male and female, after his own image, in knowledge, righteousness, and holiness, with dominion over the creatures.</div>",
+      "guid": "westminster-shorter-catechism:q10",
+      "pub_date": "2026-09-26T09:08:42.736430319Z"
     }
   ]
 }
