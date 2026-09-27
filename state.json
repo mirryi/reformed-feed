@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "london-baptist-1689": 14,
-        "chalcedonian-definition": 0,
-        "scots-confession": 2,
-        "second-helvetic-confession": 24,
-        "puritan-catechism": 7,
-        "95-theses": 8,
         "athanasian-creed": 0,
+        "westminster-larger-catechism": 17,
         "westminster-confession": 15,
-        "belgic-confession": 3,
-        "savoy-declaration": 14,
-        "1695-baptist-catechism": 10,
         "heidelberg-catechism": 11,
         "irenaeus-rule-of-faith": 0,
-        "chicago-statement": 2,
+        "second-helvetic-confession": 25,
         "first-confession-of-basel": 1,
         "39-articles": 4,
-        "apostles-creed": 0,
-        "westminster-larger-catechism": 17,
+        "savoy-declaration": 14,
+        "london-baptist-1689": 14,
+        "belgic-confession": 3,
+        "chalcedonian-definition": 0,
         "canons-of-dort": 8,
+        "apostles-creed": 0,
         "nicene-creed": 0,
+        "95-theses": 8,
+        "chicago-statement": 2,
         "westminster-shorter-catechism": 10,
-        "waldensian-confession": 1
+        "waldensian-confession": 1,
+        "scots-confession": 2,
+        "puritan-catechism": 7,
+        "1695-baptist-catechism": 10
       },
       "accumulated": [
         10.0,
@@ -83,7 +83,7 @@
         14.0,
         14.0,
         8.0,
-        24.0,
+        25.0,
         3.0,
         2.0,
         1.0,
@@ -97,17 +97,11 @@
         4.0,
         8.0
       ],
-      "turn": 151
+      "turn": 152
     },
-    "last_emitted": "2026-09-26T09:08:42.736144542Z"
+    "last_emitted": "2026-09-27T09:50:12.573279918Z"
   },
   "recent_items": [
-    {
-      "title": "Canons of Dort Ch.1 Sec.A8",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A8\n\nThere are not various decrees of election, but one and the same decree respecting all those who shall be saved, both under the Old and New Testament; since the Scripture declares the good pleasure, purpose and counsel of the divine will to be one, according to which He hath chosen us from eternity, both to grace and glory, to salvation and the way of salvation, which He hath ordained that we should walk therein.</div>",
-      "guid": "canons-of-dort:ch1:secA8",
-      "pub_date": "2026-09-17T09:13:45.790243095Z"
-    },
     {
       "title": "Heidelberg Catechism Q11",
       "description": "<div style='white-space: pre-wrap;'>Q11. But is God not also merciful?\n\nA. God is indeed merciful, but He is also just. His justice requires that sin committed against the most high majesty of God also be punished with the most severe, that is, with everlasting, punishment of body and soul.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Exod.20.6, Exod.34.6-Exod.34.7, Ps.103.8-Ps.103.9\n[2] Exod.20.5, Exod.34.7, Deut.7.9-Deut.7.11, Ps.5.4-Ps.5.6, Heb.10.30-Heb.10.31\n[3] Matt.25.45-Matt.25.46</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q10. How did God create man?\n\nA. God created man male and female, after his own image, in knowledge, righteousness, and holiness, with dominion over the creatures.</div>",
       "guid": "westminster-shorter-catechism:q10",
       "pub_date": "2026-09-26T09:08:42.736430319Z"
+    },
+    {
+      "title": "Second Helvetic Confession Ch.5 Sec.5",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 5: Of The Adoration, Worship and Invocation of God Through The Only Mediator Jesus Christ\nSection 5\n\nRELICS OF THE SAINTS\n\nMuch less do we believe that the relics of the saints are to be adored and reverenced. Those ancient saints seemed to have sufficiently honored their dead when they decently committed their remains to the earth after the spirit had ascended on high. And they thought that the most noble relics of their ancestors were their virtues, their doctrine, and their faith. Moreover, as they commend these &quot;relics&quot; when praising the dead, so they strive to copy them during their life on earth.</div>",
+      "guid": "second-helvetic-confession:ch5:sec5",
+      "pub_date": "2026-09-27T09:50:12.573539492Z"
     }
   ]
 }
