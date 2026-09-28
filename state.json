@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "athanasian-creed": 0,
-        "westminster-larger-catechism": 17,
-        "westminster-confession": 15,
-        "heidelberg-catechism": 11,
-        "irenaeus-rule-of-faith": 0,
-        "second-helvetic-confession": 25,
         "first-confession-of-basel": 1,
-        "39-articles": 4,
-        "savoy-declaration": 14,
-        "london-baptist-1689": 14,
-        "belgic-confession": 3,
-        "chalcedonian-definition": 0,
-        "canons-of-dort": 8,
-        "apostles-creed": 0,
-        "nicene-creed": 0,
-        "95-theses": 8,
+        "1695-baptist-catechism": 10,
+        "second-helvetic-confession": 25,
+        "irenaeus-rule-of-faith": 0,
+        "westminster-larger-catechism": 17,
         "chicago-statement": 2,
-        "westminster-shorter-catechism": 10,
         "waldensian-confession": 1,
-        "scots-confession": 2,
+        "apostles-creed": 0,
         "puritan-catechism": 7,
-        "1695-baptist-catechism": 10
+        "95-theses": 9,
+        "heidelberg-catechism": 11,
+        "athanasian-creed": 0,
+        "39-articles": 4,
+        "scots-confession": 2,
+        "london-baptist-1689": 14,
+        "nicene-creed": 0,
+        "savoy-declaration": 14,
+        "belgic-confession": 3,
+        "westminster-confession": 15,
+        "chalcedonian-definition": 0,
+        "westminster-shorter-catechism": 10,
+        "canons-of-dort": 8
       },
       "accumulated": [
         10.0,
@@ -95,19 +95,13 @@
         0.0,
         0.0,
         4.0,
-        8.0
+        9.0
       ],
-      "turn": 152
+      "turn": 153
     },
-    "last_emitted": "2026-09-27T09:50:12.573279918Z"
+    "last_emitted": "2026-09-28T10:36:33.367483435Z"
   },
   "recent_items": [
-    {
-      "title": "Heidelberg Catechism Q11",
-      "description": "<div style='white-space: pre-wrap;'>Q11. But is God not also merciful?\n\nA. God is indeed merciful, but He is also just. His justice requires that sin committed against the most high majesty of God also be punished with the most severe, that is, with everlasting, punishment of body and soul.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Exod.20.6, Exod.34.6-Exod.34.7, Ps.103.8-Ps.103.9\n[2] Exod.20.5, Exod.34.7, Deut.7.9-Deut.7.11, Ps.5.4-Ps.5.6, Heb.10.30-Heb.10.31\n[3] Matt.25.45-Matt.25.46</div>",
-      "guid": "heidelberg-catechism:q11",
-      "pub_date": "2026-09-18T08:46:42.100970667Z"
-    },
     {
       "title": "1695 Baptist Catechism Q10",
       "description": "<div style='white-space: pre-wrap;'>Q10. What are the Decrees of God?\n\nA. The Decrees of God are, his Eternal Purpose according to the Counsel of his Will, whereby, for his own Glory, he hath foreordained whatsoever comes to pass.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Eph.1.4,Eph.1.11, Rom.9.22-Rom.9.23</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 5: Of The Adoration, Worship and Invocation of God Through The Only Mediator Jesus Christ\nSection 5\n\nRELICS OF THE SAINTS\n\nMuch less do we believe that the relics of the saints are to be adored and reverenced. Those ancient saints seemed to have sufficiently honored their dead when they decently committed their remains to the earth after the spirit had ascended on high. And they thought that the most noble relics of their ancestors were their virtues, their doctrine, and their faith. Moreover, as they commend these &quot;relics&quot; when praising the dead, so they strive to copy them during their life on earth.</div>",
       "guid": "second-helvetic-confession:ch5:sec5",
       "pub_date": "2026-09-27T09:50:12.573539492Z"
+    },
+    {
+      "title": "Martin Luther's 95 theses Thesis 9",
+      "description": "<div style='white-space: pre-wrap;'>Thesis 9\n\nTherefore the Holy Spirit through the pope is kind to us insofar as the pope in his decrees always makes exception of the article of death and of necessity.</div>",
+      "guid": "95-theses:thesis9",
+      "pub_date": "2026-09-28T10:36:33.367763416Z"
     }
   ]
 }
