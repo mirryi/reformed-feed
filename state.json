@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "westminster-shorter-catechism": 10,
-        "savoy-declaration": 14,
-        "1695-baptist-catechism": 10,
-        "westminster-larger-catechism": 18,
-        "scots-confession": 2,
-        "apostles-creed": 0,
-        "irenaeus-rule-of-faith": 0,
-        "waldensian-confession": 1,
-        "95-theses": 9,
-        "belgic-confession": 3,
-        "westminster-confession": 16,
-        "39-articles": 4,
-        "chalcedonian-definition": 0,
-        "london-baptist-1689": 15,
         "heidelberg-catechism": 12,
-        "chicago-statement": 2,
-        "nicene-creed": 0,
         "puritan-catechism": 7,
+        "39-articles": 4,
+        "first-confession-of-basel": 1,
+        "savoy-declaration": 15,
+        "chicago-statement": 2,
+        "westminster-confession": 16,
         "athanasian-creed": 0,
         "second-helvetic-confession": 25,
-        "first-confession-of-basel": 1,
-        "canons-of-dort": 8
+        "apostles-creed": 0,
+        "95-theses": 9,
+        "1695-baptist-catechism": 10,
+        "nicene-creed": 0,
+        "canons-of-dort": 8,
+        "london-baptist-1689": 15,
+        "scots-confession": 2,
+        "westminster-shorter-catechism": 10,
+        "chalcedonian-definition": 0,
+        "belgic-confession": 3,
+        "waldensian-confession": 1,
+        "irenaeus-rule-of-faith": 0,
+        "westminster-larger-catechism": 18
       },
       "accumulated": [
         10.0,
@@ -81,7 +81,7 @@
         7.0,
         16.0,
         15.0,
-        14.0,
+        15.0,
         8.0,
         25.0,
         3.0,
@@ -97,17 +97,11 @@
         4.0,
         9.0
       ],
-      "turn": 157
+      "turn": 158
     },
-    "last_emitted": "2026-10-02T10:19:10.386257459Z"
+    "last_emitted": "2026-10-03T09:41:23.830786300Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.5 Sec.4",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 5: Of The Adoration, Worship and Invocation of God Through The Only Mediator Jesus Christ\nSection 4\n\nTHE DUE HONOR TO BE RENDERED TO THE SAINTS\n\nAt the same time we do not despise the saints or think basely of them. For we acknowledge them to be living members of Christ and friends of God who have gloriously overcome the flesh and the world. Hence we love them as brothers, and also honor them; yet not with any kind of worship but by an honorable opinion of them and just praises of them. We also imitate them. For with ardent longings and supplications we earnestly desire to be imitators of their faith and virtues, to share eternal salvation with them, to dwell eternally with them in the presence of God, and to rejoice with them in Christ. And in this respect we approve of the opinion of St. Augustine in De Vera Religione: &quot;Let not our religion be the cult of men who have died. For if they have lived holy lives, they are not to be thought of as seeking such honors; on the contrary, they want us to worship him by whose illumination they rejoice that we are fellow-servants of his merits. They are therefore to be honored by the way of imitation, but not to be adored in a religious manner,&quot; etc.</div>",
-      "guid": "second-helvetic-confession:ch5:sec4",
-      "pub_date": "2026-09-23T09:06:02.745439517Z"
-    },
     {
       "title": "Savoy Declaration Ch.3 Sec.1",
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 1\n\nGod from all eternity did, by the most wise and holy counsel of his own will, freely and unchangeably ordain whatsoever comes to pass; yet so as thereby neither is God the author of sin, nor is violence offered to the will of the creatures, nor is the liberty or contingency of second causes taken away, but rather established.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Decree\nSection 2\n\nAlthough God knoweth whatsoever may, or can come to passe upon all supposed conditions; yet hath he not Decreed anything, because he foresaw it as future, or as that which would come to pass upon such conditions.</div>",
       "guid": "london-baptist-1689:ch3:sec2",
       "pub_date": "2026-10-02T10:19:10.386518735Z"
+    },
+    {
+      "title": "Savoy Declaration Ch.3 Sec.2",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 2\n\nAlthough God knows whatsoever may or can come to pass upon all supposed conditions, yet hath he not decreed anything because he foresaw it as future, or as that which would come to pass upon such conditions.</div>",
+      "guid": "savoy-declaration:ch3:sec2",
+      "pub_date": "2026-10-03T09:41:23.831035506Z"
     }
   ]
 }
