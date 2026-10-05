@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "irenaeus-rule-of-faith": 0,
-        "westminster-confession": 16,
         "nicene-creed": 0,
-        "waldensian-confession": 1,
-        "first-confession-of-basel": 1,
-        "athanasian-creed": 0,
-        "heidelberg-catechism": 12,
-        "apostles-creed": 0,
-        "39-articles": 4,
-        "1695-baptist-catechism": 10,
         "scots-confession": 2,
-        "chalcedonian-definition": 0,
         "canons-of-dort": 9,
         "chicago-statement": 2,
+        "irenaeus-rule-of-faith": 0,
+        "first-confession-of-basel": 1,
+        "1695-baptist-catechism": 10,
+        "chalcedonian-definition": 0,
+        "heidelberg-catechism": 12,
         "westminster-larger-catechism": 18,
-        "puritan-catechism": 7,
         "95-theses": 9,
+        "apostles-creed": 0,
         "westminster-shorter-catechism": 10,
         "belgic-confession": 3,
+        "waldensian-confession": 1,
+        "second-helvetic-confession": 26,
+        "london-baptist-1689": 15,
+        "puritan-catechism": 7,
         "savoy-declaration": 15,
-        "second-helvetic-confession": 25,
-        "london-baptist-1689": 15
+        "westminster-confession": 16,
+        "39-articles": 4,
+        "athanasian-creed": 0
       },
       "accumulated": [
         10.0,
@@ -83,7 +83,7 @@
         15.0,
         15.0,
         9.0,
-        25.0,
+        26.0,
         3.0,
         2.0,
         1.0,
@@ -97,17 +97,11 @@
         4.0,
         9.0
       ],
-      "turn": 159
+      "turn": 160
     },
-    "last_emitted": "2026-10-04T10:25:59.493950501Z"
+    "last_emitted": "2026-10-05T11:11:47.218359921Z"
   },
   "recent_items": [
-    {
-      "title": "Thirty-nine Articles of Religion Art.4",
-      "description": "<div style='white-space: pre-wrap;'>Article 4: Of the Resurrection of Christ.\n\nChrist did truly rise again from death, and took again his body, with flesh, bones, and all things appertaining to the perfection of Man&#39;s nature; wherewith he ascended into Heaven, and there sitteth, until he return to judge all Men at the last day.\n</div>",
-      "guid": "39-articles:art4",
-      "pub_date": "2026-09-25T09:24:09.462028011Z"
-    },
     {
       "title": "Westminster Shorter Catechism Q10",
       "description": "<div style='white-space: pre-wrap;'>Q10. How did God create man?\n\nA. God created man male and female, after his own image, in knowledge, righteousness, and holiness, with dominion over the creatures.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A9\n\nThis election was not founded upon foreseen faith, and the obedience of faith, holiness, or any other good quality or disposition in man, as the prerequisite, cause or condition on which it depended; but men are chosen to faith and to the obedience of faith, holiness, etc.; therefore election is the fountain of every saving good, from which proceeds faith, holiness, and the other gifts of salvation, and finally eternal life itself, as its fruits and effects, according to that of the apostle: &quot;He hath chosen us [not because we were but] that we should be holy, and without blame, before Him in love&quot; (Eph. 1:4).</div>",
       "guid": "canons-of-dort:ch1:secA9",
       "pub_date": "2026-10-04T10:25:59.494202993Z"
+    },
+    {
+      "title": "Second Helvetic Confession Ch.5 Sec.6",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 5: Of The Adoration, Worship and Invocation of God Through The Only Mediator Jesus Christ\nSection 6\n\nSWEARING BY GOD&#39;S NAME ALONE\n\nThese ancient men did not swear except by the name of the only God, Yahweh, as prescribed by the divine law. Therefore, as it is forbidden to swear by the names of strange gods (Ex. 23:;13; Deut. 10:20), so we do not perform oaths to the saints that are demanded of us. We therefore reject in all these matters a doctrine that ascribes much too much to the saints in heaven.</div>",
+      "guid": "second-helvetic-confession:ch5:sec6",
+      "pub_date": "2026-10-05T11:11:47.218608433Z"
     }
   ]
 }
