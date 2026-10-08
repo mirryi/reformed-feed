@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "scots-confession": 2,
-        "chicago-statement": 2,
-        "irenaeus-rule-of-faith": 0,
-        "westminster-larger-catechism": 18,
         "heidelberg-catechism": 12,
-        "apostles-creed": 0,
-        "first-confession-of-basel": 1,
-        "canons-of-dort": 9,
-        "belgic-confession": 3,
-        "95-theses": 9,
-        "nicene-creed": 0,
         "1695-baptist-catechism": 11,
-        "chalcedonian-definition": 0,
-        "puritan-catechism": 8,
-        "athanasian-creed": 0,
-        "savoy-declaration": 15,
-        "westminster-shorter-catechism": 10,
         "westminster-confession": 16,
-        "london-baptist-1689": 15,
         "39-articles": 4,
+        "london-baptist-1689": 15,
+        "canons-of-dort": 9,
         "second-helvetic-confession": 26,
-        "waldensian-confession": 1
+        "savoy-declaration": 15,
+        "chalcedonian-definition": 0,
+        "athanasian-creed": 0,
+        "waldensian-confession": 1,
+        "nicene-creed": 0,
+        "first-confession-of-basel": 1,
+        "puritan-catechism": 8,
+        "westminster-larger-catechism": 18,
+        "scots-confession": 2,
+        "irenaeus-rule-of-faith": 0,
+        "westminster-shorter-catechism": 10,
+        "chicago-statement": 2,
+        "apostles-creed": 0,
+        "belgic-confession": 4,
+        "95-theses": 9
       },
       "accumulated": [
         10.0,
@@ -84,7 +84,7 @@
         15.0,
         9.0,
         26.0,
-        3.0,
+        4.0,
         2.0,
         1.0,
         1.0,
@@ -97,17 +97,11 @@
         4.0,
         9.0
       ],
-      "turn": 162
+      "turn": 163
     },
-    "last_emitted": "2026-10-07T10:51:33.527033493Z"
+    "last_emitted": "2026-10-08T11:09:00.657012121Z"
   },
   "recent_items": [
-    {
-      "title": "Martin Luther's 95 theses Thesis 9",
-      "description": "<div style='white-space: pre-wrap;'>Thesis 9\n\nTherefore the Holy Spirit through the pope is kind to us insofar as the pope in his decrees always makes exception of the article of death and of necessity.</div>",
-      "guid": "95-theses:thesis9",
-      "pub_date": "2026-09-28T10:36:33.367763416Z"
-    },
     {
       "title": "Heidelberg Catechism Q12",
       "description": "<div style='white-space: pre-wrap;'>Q12. Since, according to God&#39;s righteous judgment we deserve temporal and eternal punishment, how can we escape this punishment and be again received into favour?\n\nA. God demands that His justice be satisfied. Therefore full payment must be made either by ourselves or by another.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Exod.20.5, Exod.23.7, Rom.2.1-Rom.2.11\n[2] Isa.53.11, Rom.8.3-Rom.8.4</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q11. How doth God execute his Decrees?\n\nA. God executeth his Decrees in the Works of Creation and Providence</div>",
       "guid": "1695-baptist-catechism:q11",
       "pub_date": "2026-10-07T10:51:33.527234056Z"
+    },
+    {
+      "title": "Belgic Confession Art.4",
+      "description": "<div style='white-space: pre-wrap;'>Article 4: The Canonical Books\n\nWe include in the Holy Scripture the two volumes of the Old and New Testaments. They are canonical books with which there can be no quarrel at all. In the church of God the list is as follows: In the Old Testament, the five books of Moses- Genesis, Exodus, Leviticus, Numbers, Deuteronomy; the books of Joshua, Judges, and Ruth; the two books of Samuel, and two of Kings; the two books of Chronicles, called Paralipomenon; the first book of Ezra; Nehemiah, Esther, Job; the Psalms of David; the three books of Solomon- Proverbs, Ecclesiastes, and the Song; the four major prophets- Isaiah, Jeremiah*, Ezekiel, Daniel; and then the other twelve minor prophets- Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi. In the New Testament, the four gospels- Matthew, Mark, Luke, and John; the Acts of the Apostles; the fourteen letters of Paul- to the Romans; the two letters to the Corinthians; to the Galatians, Ephesians, Philippians, and Colossians; the two letters to the Thessalonians; the two letters to Timothy; to Titus, Philemon, and to the Hebrews; the seven letters of the other apostles- one of James; two of Peter; three of John; one of Jude; and the Revelation of the apostle John. * &quot;Jeremiah&quot; here includes the Book of Lamentations as well as the Book of Jeremiah.</div>",
+      "guid": "belgic-confession:art4",
+      "pub_date": "2026-10-08T11:09:00.657229155Z"
     }
   ]
 }
