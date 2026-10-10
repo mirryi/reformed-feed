@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "savoy-declaration": 15,
-        "waldensian-confession": 1,
-        "95-theses": 9,
-        "nicene-creed": 0,
-        "heidelberg-catechism": 12,
-        "39-articles": 4,
-        "westminster-confession": 16,
-        "second-helvetic-confession": 26,
-        "chalcedonian-definition": 0,
-        "athanasian-creed": 0,
-        "scots-confession": 2,
-        "london-baptist-1689": 15,
-        "1695-baptist-catechism": 11,
-        "first-confession-of-basel": 1,
-        "irenaeus-rule-of-faith": 0,
-        "chicago-statement": 2,
-        "belgic-confession": 4,
-        "puritan-catechism": 8,
-        "westminster-larger-catechism": 19,
         "westminster-shorter-catechism": 10,
+        "belgic-confession": 4,
+        "savoy-declaration": 15,
+        "westminster-confession": 16,
+        "second-helvetic-confession": 27,
+        "heidelberg-catechism": 12,
+        "london-baptist-1689": 15,
+        "chalcedonian-definition": 0,
+        "irenaeus-rule-of-faith": 0,
+        "puritan-catechism": 8,
+        "waldensian-confession": 1,
+        "39-articles": 4,
+        "scots-confession": 2,
+        "first-confession-of-basel": 1,
+        "chicago-statement": 2,
+        "athanasian-creed": 0,
+        "1695-baptist-catechism": 11,
+        "westminster-larger-catechism": 19,
+        "95-theses": 9,
         "apostles-creed": 0,
-        "canons-of-dort": 9
+        "canons-of-dort": 9,
+        "nicene-creed": 0
       },
       "accumulated": [
         10.0,
@@ -83,7 +83,7 @@
         15.0,
         15.0,
         9.0,
-        26.0,
+        27.0,
         4.0,
         2.0,
         1.0,
@@ -97,17 +97,11 @@
         4.0,
         9.0
       ],
-      "turn": 164
+      "turn": 165
     },
-    "last_emitted": "2026-10-09T11:08:07.274009199Z"
+    "last_emitted": "2026-10-10T10:25:42.025729678Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Larger Catechism Q18",
-      "description": "<div style='white-space: pre-wrap;'>Q18. What are God&#39;s works of providence?\n\nA. God&#39;s works of providence are his most holy, wise, and powerful preserving  and governing  all his creatures; ordering them, and all their actions, to his own glory.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Ps.145.17\n[2] Ps.104.24, Isa.28.29\n[3] Heb.1.8\n[4] Ps.103.19\n[5] Matt.10.29-Matt.10.31, Gen.45.7\n[6] Rom.11.36, Isa.43.14</div>",
-      "guid": "westminster-larger-catechism:q18",
-      "pub_date": "2026-09-30T10:18:07.286790286Z"
-    },
     {
       "title": "Westminster Confession of Faith Ch.3 Sec.3",
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 3\n\nBy the decree of God, for the manifestation of his glory, some men and angels[1] are predestinated unto everlasting life, and others fore-ordained to everlasting death.[2]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Matt.25.41, 1Tim.5.21\n[2] Prov.16.4, Rom.9.22-Rom.9.23, Eph.1.5-Eph.1.6</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q19. What is God&#39;s providence towards the angels?\n\nA. God by his providence permitted some of the angels, wilfully and irrecoverably, to fall into sin and damnation, limiting and ordering that, and all their sins, to his own glory; and established the rest in holiness and happiness; employing them all, at his pleasure, in the administrations of his power, mercy, and justice.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Jude.1.6, 2Pet.2.4, Heb.2.16, John.8.44\n[2] Job.1.12, Matt.8.31\n[3] 1Tim.5.21, Mark.8.38, Heb.12.22\n[4] Ps.104.4\n[5] 2Kgs.19.35, Heb.1.14</div>",
       "guid": "westminster-larger-catechism:q19",
       "pub_date": "2026-10-09T11:08:07.274253259Z"
+    },
+    {
+      "title": "Second Helvetic Confession Ch.6 Sec.1",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 6: Of the Providence of God\nSection 1\n\nALL THINGS ARE GOVERNED BY THE PROVIDENCE OF GOD\n\nWe believe that all things in heaven and on earth, and in all creatures, are preserved and governed by the providence of this wise, eternal and almighty God. For David testifies and says: &quot;The Lord is high above all nations, and his glory above the heavens! Who is like the Lord our God, who is seated on high, who looks far down upon the heavens and the earth?&quot; (Ps. 113:4 ff.). Again: &quot;Thou searchest out...all my ways. Even before a word is on my tongue, lo, O Lord, Thou knowest it altogether&quot; (Ps. 139:3 f.). Paul also testifies and declares: &quot;In him we live and move and have our being&quot; (Acts 17:28), and &quot;from him and through him and to him are all things&quot; (Rom. 11:36). Therefore Augustine most truly and according to Scripture declared in his book De Agone Christi, cap. 8, &quot;The Lord said, &#39;Are not two sparrows sold for a penny? And not one of them will fall to the ground without your Father&#39;s will&#39; &quot; (Matt. 10:29). By speaking thus he wanted to show that what men regard as of least value is governed by God&#39;s omnipotence. For he who is the truth says that the birds of the air are fed by him and lilies of the field are clothed by him; he also says that the hairs of our head are numbered (Matt. 6:26 ff.).</div>",
+      "guid": "second-helvetic-confession:ch6:sec1",
+      "pub_date": "2026-10-10T10:25:42.025984407Z"
     }
   ]
 }
