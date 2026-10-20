@@ -50,34 +50,34 @@
         95
       ],
       "positions": {
-        "westminster-shorter-catechism": 11,
-        "belgic-confession": 4,
-        "westminster-confession": 17,
         "first-confession-of-basel": 1,
-        "apostles-creed": 0,
-        "westminster-larger-catechism": 20,
-        "39-articles": 4,
-        "canons-of-dort": 9,
-        "athanasian-creed": 0,
-        "second-helvetic-confession": 28,
         "savoy-declaration": 16,
-        "nicene-creed": 0,
-        "london-baptist-1689": 16,
         "chalcedonian-definition": 0,
-        "puritan-catechism": 8,
         "irenaeus-rule-of-faith": 0,
-        "1695-baptist-catechism": 11,
+        "apostles-creed": 0,
+        "1695-baptist-catechism": 12,
+        "london-baptist-1689": 16,
+        "westminster-shorter-catechism": 11,
         "waldensian-confession": 1,
-        "heidelberg-catechism": 13,
-        "scots-confession": 3,
         "chicago-statement": 2,
-        "95-theses": 10
+        "scots-confession": 3,
+        "westminster-confession": 17,
+        "westminster-larger-catechism": 20,
+        "second-helvetic-confession": 28,
+        "95-theses": 10,
+        "belgic-confession": 4,
+        "nicene-creed": 0,
+        "39-articles": 4,
+        "heidelberg-catechism": 13,
+        "puritan-catechism": 8,
+        "canons-of-dort": 9,
+        "athanasian-creed": 0
       },
       "accumulated": [
         11.0,
         20.0,
         13.0,
-        11.0,
+        12.0,
         8.0,
         17.0,
         16.0,
@@ -97,17 +97,11 @@
         4.0,
         10.0
       ],
-      "turn": 174
+      "turn": 175
     },
-    "last_emitted": "2026-10-19T09:36:45.377861039Z"
+    "last_emitted": "2026-10-20T09:08:57.705593096Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.6 Sec.1",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 6: Of the Providence of God\nSection 1\n\nALL THINGS ARE GOVERNED BY THE PROVIDENCE OF GOD\n\nWe believe that all things in heaven and on earth, and in all creatures, are preserved and governed by the providence of this wise, eternal and almighty God. For David testifies and says: &quot;The Lord is high above all nations, and his glory above the heavens! Who is like the Lord our God, who is seated on high, who looks far down upon the heavens and the earth?&quot; (Ps. 113:4 ff.). Again: &quot;Thou searchest out...all my ways. Even before a word is on my tongue, lo, O Lord, Thou knowest it altogether&quot; (Ps. 139:3 f.). Paul also testifies and declares: &quot;In him we live and move and have our being&quot; (Acts 17:28), and &quot;from him and through him and to him are all things&quot; (Rom. 11:36). Therefore Augustine most truly and according to Scripture declared in his book De Agone Christi, cap. 8, &quot;The Lord said, &#39;Are not two sparrows sold for a penny? And not one of them will fall to the ground without your Father&#39;s will&#39; &quot; (Matt. 10:29). By speaking thus he wanted to show that what men regard as of least value is governed by God&#39;s omnipotence. For he who is the truth says that the birds of the air are fed by him and lilies of the field are clothed by him; he also says that the hairs of our head are numbered (Matt. 6:26 ff.).</div>",
-      "guid": "second-helvetic-confession:ch6:sec1",
-      "pub_date": "2026-10-10T10:25:42.025984407Z"
-    },
     {
       "title": "Westminster Confession of Faith Ch.3 Sec.4",
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 4\n\nThese angels and men, thus predestinated and fore-ordained, are particularly and unchangeably designed; and their number is so certain and definite that it can not be either increased or diminished.[1]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] John.13.18, 2Tim.2.19</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Thesis 10\n\nThose priests act ignorantly and wickedly who, in the case of the dying, reserve canonical penalties for purgatory.</div>",
       "guid": "95-theses:thesis10",
       "pub_date": "2026-10-19T09:36:45.378144431Z"
+    },
+    {
+      "title": "1695 Baptist Catechism Q12",
+      "description": "<div style='white-space: pre-wrap;'>Q12. What is the Work of Creation?\n\nA. The Work of Creation , is God&#39;s making all Things of Nothing, by the Word of his Power, in the space of six Days, and all very Good.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1, Heb.11.3</div>",
+      "guid": "1695-baptist-catechism:q12",
+      "pub_date": "2026-10-20T09:08:57.705890114Z"
     }
   ]
 }
