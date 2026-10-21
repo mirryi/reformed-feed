@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "first-confession-of-basel": 1,
-        "savoy-declaration": 16,
-        "chalcedonian-definition": 0,
-        "irenaeus-rule-of-faith": 0,
-        "apostles-creed": 0,
-        "1695-baptist-catechism": 12,
-        "london-baptist-1689": 16,
-        "westminster-shorter-catechism": 11,
-        "waldensian-confession": 1,
-        "chicago-statement": 2,
-        "scots-confession": 3,
-        "westminster-confession": 17,
+        "belgic-confession": 4,
         "westminster-larger-catechism": 20,
+        "london-baptist-1689": 16,
+        "first-confession-of-basel": 1,
+        "apostles-creed": 0,
+        "chicago-statement": 2,
         "second-helvetic-confession": 28,
         "95-theses": 10,
-        "belgic-confession": 4,
+        "scots-confession": 3,
         "nicene-creed": 0,
-        "39-articles": 4,
-        "heidelberg-catechism": 13,
+        "chalcedonian-definition": 0,
+        "savoy-declaration": 16,
         "puritan-catechism": 8,
         "canons-of-dort": 9,
-        "athanasian-creed": 0
+        "irenaeus-rule-of-faith": 0,
+        "heidelberg-catechism": 13,
+        "39-articles": 4,
+        "athanasian-creed": 0,
+        "waldensian-confession": 1,
+        "westminster-shorter-catechism": 11,
+        "westminster-confession": 18,
+        "1695-baptist-catechism": 12
       },
       "accumulated": [
         11.0,
@@ -79,7 +79,7 @@
         13.0,
         12.0,
         8.0,
-        17.0,
+        18.0,
         16.0,
         16.0,
         9.0,
@@ -97,17 +97,11 @@
         4.0,
         10.0
       ],
-      "turn": 175
+      "turn": 176
     },
-    "last_emitted": "2026-10-20T09:08:57.705593096Z"
+    "last_emitted": "2026-10-21T09:08:14.285473937Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Confession of Faith Ch.3 Sec.4",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 4\n\nThese angels and men, thus predestinated and fore-ordained, are particularly and unchangeably designed; and their number is so certain and definite that it can not be either increased or diminished.[1]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] John.13.18, 2Tim.2.19</div>",
-      "guid": "westminster-confession:ch3:sec4",
-      "pub_date": "2026-10-11T10:37:12.911622801Z"
-    },
     {
       "title": "Scots Confession Art.3",
       "description": "<div style='white-space: pre-wrap;'>Article 3: Of Original Sin\n\nBy which transgression, commonly called Original Sin, was the image of God utterly defaced in man; and he and his posterity of nature became enemies to God, slaves to Satan, and servants to sin; insomuch that death everlasting has had, and shall have, power and dominion over all that have not been, are not, or shall not be regenerated from above: which regeneration is wrought by the power of the Holy Ghost, working in the hearts of the elect of God an assured faith in the promise of God, revealed to us in his word; by which faith we apprehend Christ Jesus, with the graces and benefits promised in him.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q12. What is the Work of Creation?\n\nA. The Work of Creation , is God&#39;s making all Things of Nothing, by the Word of his Power, in the space of six Days, and all very Good.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1, Heb.11.3</div>",
       "guid": "1695-baptist-catechism:q12",
       "pub_date": "2026-10-20T09:08:57.705890114Z"
+    },
+    {
+      "title": "Westminster Confession of Faith Ch.3 Sec.5",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 5\n\nThose of mankind that are predestinated unto life, God, before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret counsel and good pleasure of his will, hath chosen in Christ, unto everlasting glory,[1] out of his mere free grace and love, without any foresight of faith or good works, or perseverance in either of them, or any other thing in the creature, as conditions, or causes moving him thereunto;[2] and all to the praise of his glorious grace.[3]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.8.30, Eph.1.4, Eph.1.9, Eph.1.11, 1Thess.5.9, 2Tim.1.9\n[3] Eph.1.6, Eph.1.12\n[2] Rom.9.11, Rom.9.13, Rom.9.16, Eph.1.4, Eph.1.9</div>",
+      "guid": "westminster-confession:ch3:sec5",
+      "pub_date": "2026-10-21T09:08:14.285718231Z"
     }
   ]
 }
