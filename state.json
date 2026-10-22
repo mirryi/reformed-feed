@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "belgic-confession": 4,
-        "westminster-larger-catechism": 20,
+        "savoy-declaration": 16,
+        "westminster-confession": 18,
+        "1695-baptist-catechism": 12,
+        "apostles-creed": 0,
+        "westminster-shorter-catechism": 11,
         "london-baptist-1689": 16,
         "first-confession-of-basel": 1,
-        "apostles-creed": 0,
-        "chicago-statement": 2,
-        "second-helvetic-confession": 28,
-        "95-theses": 10,
-        "scots-confession": 3,
         "nicene-creed": 0,
-        "chalcedonian-definition": 0,
-        "savoy-declaration": 16,
-        "puritan-catechism": 8,
-        "canons-of-dort": 9,
         "irenaeus-rule-of-faith": 0,
+        "belgic-confession": 4,
+        "scots-confession": 3,
+        "puritan-catechism": 8,
         "heidelberg-catechism": 13,
-        "39-articles": 4,
-        "athanasian-creed": 0,
         "waldensian-confession": 1,
-        "westminster-shorter-catechism": 11,
-        "westminster-confession": 18,
-        "1695-baptist-catechism": 12
+        "second-helvetic-confession": 28,
+        "westminster-larger-catechism": 20,
+        "95-theses": 10,
+        "chalcedonian-definition": 0,
+        "canons-of-dort": 10,
+        "chicago-statement": 2,
+        "athanasian-creed": 0,
+        "39-articles": 4
       },
       "accumulated": [
         11.0,
@@ -82,7 +82,7 @@
         18.0,
         16.0,
         16.0,
-        9.0,
+        10.0,
         28.0,
         4.0,
         3.0,
@@ -97,17 +97,11 @@
         4.0,
         10.0
       ],
-      "turn": 176
+      "turn": 177
     },
-    "last_emitted": "2026-10-21T09:08:14.285473937Z"
+    "last_emitted": "2026-10-22T09:10:30.749958551Z"
   },
   "recent_items": [
-    {
-      "title": "Scots Confession Art.3",
-      "description": "<div style='white-space: pre-wrap;'>Article 3: Of Original Sin\n\nBy which transgression, commonly called Original Sin, was the image of God utterly defaced in man; and he and his posterity of nature became enemies to God, slaves to Satan, and servants to sin; insomuch that death everlasting has had, and shall have, power and dominion over all that have not been, are not, or shall not be regenerated from above: which regeneration is wrought by the power of the Holy Ghost, working in the hearts of the elect of God an assured faith in the promise of God, revealed to us in his word; by which faith we apprehend Christ Jesus, with the graces and benefits promised in him.</div>",
-      "guid": "scots-confession:art3",
-      "pub_date": "2026-10-12T11:40:29.179212662Z"
-    },
     {
       "title": "Heidelberg Catechism Q13",
       "description": "<div style='white-space: pre-wrap;'>Q13. Can we ourselves make this payment?\n\nA. Certainly not. On the contrary, we daily increase our debt.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Ps.130.3, Matt.6.12, Rom.2.4-Rom.2.5</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 5\n\nThose of mankind that are predestinated unto life, God, before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret counsel and good pleasure of his will, hath chosen in Christ, unto everlasting glory,[1] out of his mere free grace and love, without any foresight of faith or good works, or perseverance in either of them, or any other thing in the creature, as conditions, or causes moving him thereunto;[2] and all to the praise of his glorious grace.[3]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.8.30, Eph.1.4, Eph.1.9, Eph.1.11, 1Thess.5.9, 2Tim.1.9\n[3] Eph.1.6, Eph.1.12\n[2] Rom.9.11, Rom.9.13, Rom.9.16, Eph.1.4, Eph.1.9</div>",
       "guid": "westminster-confession:ch3:sec5",
       "pub_date": "2026-10-21T09:08:14.285718231Z"
+    },
+    {
+      "title": "Canons of Dort Ch.1 Sec.A10",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A10\n\nThe good pleasure of God is the sole cause of this gracious election, which doth not consist herein, that out of all possible qualities and actions of men God has chosen some as a condition of salvation; but that He was pleased out of the common mass of sinners to adopt some certain persons as a peculiar people to Himself, as it is written, &quot;For the children being not yet born, neither having done any good or evil,&quot; etc., it was said (namely to Rebecca): &quot;The elder shall serve the younger. As it is written, Jacob have I loved, but Esau have I hated&quot; (Rom. 9:11-13). &quot;And as many as were ordained to eternal life believed&quot; (Acts 13:48).</div>",
+      "guid": "canons-of-dort:ch1:secA10",
+      "pub_date": "2026-10-22T09:10:30.750147548Z"
     }
   ]
 }
