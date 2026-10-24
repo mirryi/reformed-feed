@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "canons-of-dort": 10,
-        "nicene-creed": 0,
         "95-theses": 10,
-        "apostles-creed": 0,
-        "chicago-statement": 2,
-        "heidelberg-catechism": 13,
-        "first-confession-of-basel": 1,
-        "irenaeus-rule-of-faith": 0,
-        "london-baptist-1689": 16,
-        "39-articles": 4,
         "westminster-shorter-catechism": 11,
-        "westminster-confession": 18,
-        "savoy-declaration": 16,
-        "scots-confession": 3,
-        "second-helvetic-confession": 29,
-        "1695-baptist-catechism": 12,
-        "westminster-larger-catechism": 20,
-        "belgic-confession": 4,
         "chalcedonian-definition": 0,
         "athanasian-creed": 0,
+        "nicene-creed": 0,
+        "1695-baptist-catechism": 12,
+        "canons-of-dort": 10,
+        "second-helvetic-confession": 29,
+        "belgic-confession": 4,
+        "first-confession-of-basel": 1,
+        "irenaeus-rule-of-faith": 0,
+        "westminster-larger-catechism": 20,
+        "westminster-confession": 18,
+        "chicago-statement": 2,
+        "waldensian-confession": 1,
+        "savoy-declaration": 16,
+        "apostles-creed": 0,
+        "heidelberg-catechism": 13,
+        "39-articles": 4,
         "puritan-catechism": 8,
-        "waldensian-confession": 1
+        "scots-confession": 3,
+        "london-baptist-1689": 17
       },
       "accumulated": [
         11.0,
@@ -80,7 +80,7 @@
         12.0,
         8.0,
         18.0,
-        16.0,
+        17.0,
         16.0,
         10.0,
         29.0,
@@ -97,17 +97,11 @@
         4.0,
         10.0
       ],
-      "turn": 178
+      "turn": 179
     },
-    "last_emitted": "2026-10-23T09:07:20.026273475Z"
+    "last_emitted": "2026-10-24T08:40:24.607703368Z"
   },
   "recent_items": [
-    {
-      "title": "London Baptist Confession of 1689 Ch.3 Sec.3",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Decree\nSection 3\n\nBy the decree of God for the manifestation of his glory some men and Angels, are predestinated, or fore-ordained to Eternal Life, through Jesus Christ to the praise of his glorious grace; others being left to act in their sin to their just condemnation, to the praise of his glorious justice.</div>",
-      "guid": "london-baptist-1689:ch3:sec3",
-      "pub_date": "2026-10-14T09:18:06.180406425Z"
-    },
     {
       "title": "Savoy Declaration Ch.3 Sec.3",
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 3\n\nBy the decree of God, for the manifestation of his glory, some men and angels are predestinated unto everlasting life, and others fore-ordained to everlasting death.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 6: Of the Providence of God\nSection 3\n\nMEANS NOT TO BE DESPISED\n\nNevertheless, we do not spurn as useless the means by which divine providence works, but we teach that we are to adapt ourselves to them in so far as they are recommended to us in the Word of God. Wherefore we disapprove of the rash statements of those who say that if all things are managed by the providence of God, then our efforts and endeavors are in vain. It will be sufficient if we leave everything to the governance of divine providence, and we will not have to worry about anything or do anything. For although Paul understood that he sailed under the providence of God who had said to him: &quot;You must bear witness also at Rome&quot; (Acts 23:11), and in addition had given him the promise, &quot;There will be no loss of life among you...and not a hair is to perish from the head of any of you&quot; (Acts 27:22,34), yet when the sailors were nevertheless thinking about abandoning ship the same Paul said to the centurion and the soldiers: &quot;Unless these men stay in the ship, you cannot be saved&quot; (Acts 27:31). For God, who has appointed to everything its end, has ordained the beginning and the means by which it reaches its goal. The heathen ascribe things to blind fortune and uncertain chance. But St. James does not want us to say: &quot;Today or tomorrow we will go into such and such a town and trade,&quot; but adds: &quot;Instead you ought to say, `If the Lord wills, we shall live and we shall do this or that&#39; &quot; (James 4:13, 15). And Augustine says: &quot;Everything which to vain men seems to happen in nature by accident, occurs only by his Word, because it happens only at his command&quot; (Enarrationes in Psalmos 148). Thus it seemed to happen by mere chance when Saul, while seeking his father&#39;s asses, unexpectedly fell in with the prophet Samuel. But previously the Lord had said to the prophet: &quot;Tomorrow I will send to you a man from the land of Benjamin&quot; (I Sam 9:15).</div>",
       "guid": "second-helvetic-confession:ch6:sec3",
       "pub_date": "2026-10-23T09:07:20.026543341Z"
+    },
+    {
+      "title": "London Baptist Confession of 1689 Ch.3 Sec.4",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Decree\nSection 4\n\nThese Angels and Men thus predestinated, and fore-ordained, are particularly, and unchangeably designed; and their number so certain, and definite, that it cannot be either increased, or diminished.</div>",
+      "guid": "london-baptist-1689:ch3:sec4",
+      "pub_date": "2026-10-24T08:40:24.607968434Z"
     }
   ]
 }
