@@ -50,32 +50,32 @@
         95
       ],
       "positions": {
-        "canons-of-dort": 10,
-        "scots-confession": 3,
-        "waldensian-confession": 1,
-        "heidelberg-catechism": 13,
+        "second-helvetic-confession": 29,
+        "belgic-confession": 4,
         "athanasian-creed": 0,
         "chicago-statement": 2,
-        "westminster-shorter-catechism": 11,
+        "apostles-creed": 0,
+        "canons-of-dort": 10,
+        "westminster-larger-catechism": 21,
+        "irenaeus-rule-of-faith": 0,
+        "scots-confession": 3,
+        "chalcedonian-definition": 0,
+        "waldensian-confession": 1,
         "1695-baptist-catechism": 12,
+        "westminster-confession": 18,
+        "heidelberg-catechism": 13,
+        "westminster-shorter-catechism": 11,
         "nicene-creed": 0,
         "savoy-declaration": 17,
-        "westminster-confession": 18,
-        "westminster-larger-catechism": 20,
-        "puritan-catechism": 9,
+        "london-baptist-1689": 17,
         "95-theses": 10,
         "first-confession-of-basel": 1,
-        "belgic-confession": 4,
-        "irenaeus-rule-of-faith": 0,
-        "second-helvetic-confession": 29,
-        "london-baptist-1689": 17,
-        "apostles-creed": 0,
         "39-articles": 4,
-        "chalcedonian-definition": 0
+        "puritan-catechism": 9
       },
       "accumulated": [
         11.0,
-        20.0,
+        21.0,
         13.0,
         12.0,
         9.0,
@@ -97,17 +97,11 @@
         4.0,
         10.0
       ],
-      "turn": 181
+      "turn": 182
     },
-    "last_emitted": "2026-10-26T09:44:32.023974371Z"
+    "last_emitted": "2026-10-27T09:37:23.682837754Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.6 Sec.2",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 6: Of the Providence of God\nSection 2\n\nTHE EPICUREANS\n\nWe therefore condemn the Epicureans who deny the providence of God, and all those who blasphemously say that God is busy with the heavens and neither sees nor cares about us and our affairs. David, the royal prophet, also condemned this when he said: &quot;O Lord, how long shall the wicked exult? They say, &quot;The Lord does not see; the God of Jacob does not perceive.&quot; Understand, O dullest of the people! Fools, when will you be wise? He who planted the ear, does he not hear? He who formed the eye, does he not see?&quot; (Ps. 94:3, 7-9).</div>",
-      "guid": "second-helvetic-confession:ch6:sec2",
-      "pub_date": "2026-10-17T08:16:34.370702126Z"
-    },
     {
       "title": "Westminster Larger Catechism Q20",
       "description": "<div style='white-space: pre-wrap;'>Q20. What was the providence of God toward man in the estate in which he was created?\n\nA. The providence of God toward man in the estate in which he was created, was the placing him in paradise, appointing him to dress it, giving him liberty to eat of the fruit of the earth; putting the creatures under his dominion, and ordaining marriage for his help; affording him communion with himself; instituting the sabbath; entering into a covenant of life with him, upon condition of personal, perfect, and perpetual obedience, of which the tree of life was a pledge; and forbidding to eat of the tree of the knowledge of good and evil, upon the pain of death.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.2.8,Gen.2.15-Gen.2.16\n[2] Gen.1.28\n[3] Gen.2.18\n[4] Gen.1.26-Gen.1.29, Gen.3.8\n[5] Gen.2.3\n[6] Gal.3.12, Rom.10.5\n[7] Gen.2.9\n[8] Gen.2.17</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 4\n\nThese angels and men, thus predestinated and fore-ordained, are particularly and unchangeably designed; and their number is so certain and definite that it can not be either increased or diminished.</div>",
       "guid": "savoy-declaration:ch3:sec4",
       "pub_date": "2026-10-26T09:44:32.024201741Z"
+    },
+    {
+      "title": "Westminster Larger Catechism Q21",
+      "description": "<div style='white-space: pre-wrap;'>Q21. Did man continue in that estate wherein God at first created him?\n\nA. Our first parents being left to the freedom of their own will, through the temptation of Satan, transgressed the commandment of God in eating the forbidden fruit; and thereby fell from the estate of innocency wherein they were created.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.3.6-Gen.3.8,Gen.3.13, Eccl.7.29, 2Cor.11.3</div>",
+      "guid": "westminster-larger-catechism:q21",
+      "pub_date": "2026-10-27T09:37:23.683282568Z"
     }
   ]
 }
