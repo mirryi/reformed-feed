@@ -50,31 +50,31 @@
         95
       ],
       "positions": {
-        "95-theses": 10,
-        "nicene-creed": 0,
-        "chicago-statement": 2,
-        "apostles-creed": 0,
-        "belgic-confession": 4,
+        "westminster-confession": 18,
+        "westminster-shorter-catechism": 12,
         "1695-baptist-catechism": 12,
-        "puritan-catechism": 9,
-        "scots-confession": 3,
-        "athanasian-creed": 0,
+        "95-theses": 10,
+        "apostles-creed": 0,
+        "savoy-declaration": 17,
+        "first-confession-of-basel": 1,
+        "heidelberg-catechism": 14,
         "second-helvetic-confession": 30,
         "london-baptist-1689": 17,
-        "westminster-shorter-catechism": 11,
-        "first-confession-of-basel": 1,
-        "39-articles": 4,
-        "westminster-confession": 18,
-        "canons-of-dort": 10,
         "westminster-larger-catechism": 21,
         "waldensian-confession": 2,
         "irenaeus-rule-of-faith": 0,
-        "heidelberg-catechism": 14,
-        "savoy-declaration": 17,
-        "chalcedonian-definition": 0
+        "chalcedonian-definition": 0,
+        "nicene-creed": 0,
+        "belgic-confession": 4,
+        "puritan-catechism": 9,
+        "athanasian-creed": 0,
+        "39-articles": 4,
+        "scots-confession": 3,
+        "chicago-statement": 2,
+        "canons-of-dort": 10
       },
       "accumulated": [
-        11.0,
+        12.0,
         21.0,
         14.0,
         12.0,
@@ -97,17 +97,11 @@
         4.0,
         10.0
       ],
-      "turn": 185
+      "turn": 186
     },
-    "last_emitted": "2026-10-30T10:43:15.565705898Z"
+    "last_emitted": "2026-10-31T10:11:29.927339146Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Confession of Faith Ch.3 Sec.5",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 5\n\nThose of mankind that are predestinated unto life, God, before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret counsel and good pleasure of his will, hath chosen in Christ, unto everlasting glory,[1] out of his mere free grace and love, without any foresight of faith or good works, or perseverance in either of them, or any other thing in the creature, as conditions, or causes moving him thereunto;[2] and all to the praise of his glorious grace.[3]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.8.30, Eph.1.4, Eph.1.9, Eph.1.11, 1Thess.5.9, 2Tim.1.9\n[3] Eph.1.6, Eph.1.12\n[2] Rom.9.11, Rom.9.13, Rom.9.16, Eph.1.4, Eph.1.9</div>",
-      "guid": "westminster-confession:ch3:sec5",
-      "pub_date": "2026-10-21T09:08:14.285718231Z"
-    },
     {
       "title": "Canons of Dort Ch.1 Sec.A10",
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A10\n\nThe good pleasure of God is the sole cause of this gracious election, which doth not consist herein, that out of all possible qualities and actions of men God has chosen some as a condition of salvation; but that He was pleased out of the common mass of sinners to adopt some certain persons as a peculiar people to Himself, as it is written, &quot;For the children being not yet born, neither having done any good or evil,&quot; etc., it was said (namely to Rebecca): &quot;The elder shall serve the younger. As it is written, Jacob have I loved, but Esau have I hated&quot; (Rom. 9:11-13). &quot;And as many as were ordained to eternal life believed&quot; (Acts 13:48).</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 7: Of The Creation of All Things: Of Angels, the Devil, and Man\nSection 1\n\nGOD CREATED ALL THINGS\n\nThis good and almighty God created all things, both visible and invisible, by his co-eternal Word, and preserves them by his co-eternal Spirit, as David testified when he said: &quot;By the word of the Lord the heavens were made, and all their host by the breath of his mouth&quot; (Ps. 33:6). And, as Scripture says, everything that God had made was very good, and was made for the profit and use of man. Now we assert that all those things proceed from one beginning.</div>",
       "guid": "second-helvetic-confession:ch7:sec1",
       "pub_date": "2026-10-30T10:43:15.565898074Z"
+    },
+    {
+      "title": "Westminster Shorter Catechism Q12",
+      "description": "<div style='white-space: pre-wrap;'>Q12. What special act of providence did God exercise toward man in the estate wherein he was created?\n\nA. When God had created man, he entered into a covenant of life with him, upon condition of perfect obedience; forbidding him to eat of the tree of the knowledge of good and evil, upon pain of death.</div>",
+      "guid": "westminster-shorter-catechism:q12",
+      "pub_date": "2026-10-31T10:11:29.927646392Z"
     }
   ]
 }
