@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "westminster-shorter-catechism": 12,
-        "chicago-statement": 2,
+        "first-confession-of-basel": 2,
+        "apostles-creed": 0,
         "belgic-confession": 4,
-        "waldensian-confession": 2,
-        "canons-of-dort": 10,
-        "westminster-confession": 19,
-        "chalcedonian-definition": 0,
         "athanasian-creed": 0,
+        "westminster-larger-catechism": 21,
+        "chicago-statement": 2,
+        "westminster-confession": 19,
+        "canons-of-dort": 10,
+        "heidelberg-catechism": 14,
+        "london-baptist-1689": 18,
         "second-helvetic-confession": 30,
-        "scots-confession": 3,
-        "95-theses": 10,
+        "1695-baptist-catechism": 12,
+        "puritan-catechism": 9,
+        "waldensian-confession": 2,
+        "39-articles": 4,
+        "savoy-declaration": 17,
         "irenaeus-rule-of-faith": 0,
         "nicene-creed": 0,
-        "apostles-creed": 0,
-        "first-confession-of-basel": 2,
-        "westminster-larger-catechism": 21,
-        "savoy-declaration": 17,
-        "heidelberg-catechism": 14,
-        "1695-baptist-catechism": 12,
-        "london-baptist-1689": 17,
-        "puritan-catechism": 9,
-        "39-articles": 4
+        "scots-confession": 3,
+        "westminster-shorter-catechism": 12,
+        "95-theses": 10,
+        "chalcedonian-definition": 0
       },
       "accumulated": [
         12.0,
@@ -80,7 +80,7 @@
         12.0,
         9.0,
         19.0,
-        17.0,
+        18.0,
         17.0,
         10.0,
         30.0,
@@ -97,17 +97,11 @@
         4.0,
         10.0
       ],
-      "turn": 188
+      "turn": 189
     },
-    "last_emitted": "2026-11-02T12:00:16.123157288Z"
+    "last_emitted": "2026-11-03T11:38:41.167851203Z"
   },
   "recent_items": [
-    {
-      "title": "London Baptist Confession of 1689 Ch.3 Sec.4",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Decree\nSection 4\n\nThese Angels and Men thus predestinated, and fore-ordained, are particularly, and unchangeably designed; and their number so certain, and definite, that it cannot be either increased, or diminished.</div>",
-      "guid": "london-baptist-1689:ch3:sec4",
-      "pub_date": "2026-10-24T08:40:24.607968434Z"
-    },
     {
       "title": "Puritan Catechism Q9",
       "description": "<div style='white-space: pre-wrap;'>Q9. What is the work of creation?\n\nA. The work of creation is God&#39;s making all things of nothing, by the Word of his power, in six normal consecutive days, and all very good.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1.1\n[2] Heb.11.3\n[3] Exod.20.11\n[4] Gen.1.31</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Article II: CONCERNING MAN\n\nWe confess that in the beginning God made man faultless in the likeness of righteousness and holiness. But he willfully fell into sin. Through this fall the whole human race was corrupted and made subject to damnation. Moreover, our nature was enfeebled and became so inclined to sin that, unless it is restored by the Spirit of God, man neither does nor wants to do anything good of himself.[1]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1.26, Eph.4.21, Gen.8.6, Gen.5.3, Rom.5.12,Rom.5.15, 1Cor.15.21, Eph.2.1, Gen.6.5, Gen.8.21, John.3.3, Rom.3.10,Rom.3.23, Ps.143.2,Ps.143.10, Eph.2.1</div>",
       "guid": "first-confession-of-basel:artII",
       "pub_date": "2026-11-02T12:00:16.123424967Z"
+    },
+    {
+      "title": "London Baptist Confession of 1689 Ch.3 Sec.5",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Decree\nSection 5\n\nThose of mankind that are predestinated to life, God before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret Councel and good pleasure of his will, hath chosen in Christ unto everlasting glory, out of his meer free grace and love; without any other thing in the creature as a condition or cause moving him thereunto.</div>",
+      "guid": "london-baptist-1689:ch3:sec5",
+      "pub_date": "2026-11-03T11:38:41.168069135Z"
     }
   ]
 }
