@@ -50,34 +50,34 @@
         95
       ],
       "positions": {
-        "first-confession-of-basel": 2,
+        "1695-baptist-catechism": 13,
+        "scots-confession": 3,
+        "nicene-creed": 0,
+        "95-theses": 10,
+        "westminster-confession": 19,
+        "second-helvetic-confession": 30,
         "apostles-creed": 0,
+        "heidelberg-catechism": 14,
         "belgic-confession": 4,
         "athanasian-creed": 0,
-        "westminster-larger-catechism": 21,
-        "chicago-statement": 2,
-        "westminster-confession": 19,
         "canons-of-dort": 10,
-        "heidelberg-catechism": 14,
-        "london-baptist-1689": 18,
-        "second-helvetic-confession": 30,
-        "1695-baptist-catechism": 12,
-        "puritan-catechism": 9,
+        "first-confession-of-basel": 2,
         "waldensian-confession": 2,
-        "39-articles": 4,
         "savoy-declaration": 17,
-        "irenaeus-rule-of-faith": 0,
-        "nicene-creed": 0,
-        "scots-confession": 3,
+        "westminster-larger-catechism": 21,
+        "chalcedonian-definition": 0,
+        "chicago-statement": 2,
+        "39-articles": 4,
         "westminster-shorter-catechism": 12,
-        "95-theses": 10,
-        "chalcedonian-definition": 0
+        "puritan-catechism": 9,
+        "london-baptist-1689": 18,
+        "irenaeus-rule-of-faith": 0
       },
       "accumulated": [
         12.0,
         21.0,
         14.0,
-        12.0,
+        13.0,
         9.0,
         19.0,
         18.0,
@@ -97,17 +97,11 @@
         4.0,
         10.0
       ],
-      "turn": 189
+      "turn": 190
     },
-    "last_emitted": "2026-11-03T11:38:41.167851203Z"
+    "last_emitted": "2026-11-04T11:51:59.372428668Z"
   },
   "recent_items": [
-    {
-      "title": "Puritan Catechism Q9",
-      "description": "<div style='white-space: pre-wrap;'>Q9. What is the work of creation?\n\nA. The work of creation is God&#39;s making all things of nothing, by the Word of his power, in six normal consecutive days, and all very good.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1.1\n[2] Heb.11.3\n[3] Exod.20.11\n[4] Gen.1.31</div>",
-      "guid": "puritan-catechism:q9",
-      "pub_date": "2026-10-25T08:57:36.776201702Z"
-    },
     {
       "title": "Savoy Declaration Ch.3 Sec.4",
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 4\n\nThese angels and men, thus predestinated and fore-ordained, are particularly and unchangeably designed; and their number is so certain and definite that it can not be either increased or diminished.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Decree\nSection 5\n\nThose of mankind that are predestinated to life, God before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret Councel and good pleasure of his will, hath chosen in Christ unto everlasting glory, out of his meer free grace and love; without any other thing in the creature as a condition or cause moving him thereunto.</div>",
       "guid": "london-baptist-1689:ch3:sec5",
       "pub_date": "2026-11-03T11:38:41.168069135Z"
+    },
+    {
+      "title": "1695 Baptist Catechism Q13",
+      "description": "<div style='white-space: pre-wrap;'>Q13. How did God create Man?\n\nA. God created Man, Male and Female, after his own Image, in Knowledge, Righteousness and Holiness, with Dominion over the Creatures.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1.26-Gen.1.28, Col.3.10, Eph.4.24</div>",
+      "guid": "1695-baptist-catechism:q13",
+      "pub_date": "2026-11-04T11:51:59.372661827Z"
     }
   ]
 }
