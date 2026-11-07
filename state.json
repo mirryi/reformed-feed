@@ -51,27 +51,27 @@
       ],
       "positions": {
         "westminster-confession": 19,
-        "heidelberg-catechism": 14,
-        "1695-baptist-catechism": 13,
-        "westminster-shorter-catechism": 12,
         "39-articles": 4,
-        "chicago-statement": 2,
-        "first-confession-of-basel": 2,
-        "irenaeus-rule-of-faith": 0,
-        "chalcedonian-definition": 0,
         "westminster-larger-catechism": 22,
+        "athanasian-creed": 0,
         "canons-of-dort": 10,
+        "westminster-shorter-catechism": 12,
         "london-baptist-1689": 18,
-        "savoy-declaration": 17,
+        "puritan-catechism": 9,
+        "1695-baptist-catechism": 13,
+        "chicago-statement": 2,
         "scots-confession": 3,
-        "95-theses": 10,
-        "nicene-creed": 0,
+        "second-helvetic-confession": 31,
+        "first-confession-of-basel": 2,
+        "savoy-declaration": 18,
         "apostles-creed": 0,
+        "nicene-creed": 0,
+        "chalcedonian-definition": 0,
+        "heidelberg-catechism": 14,
         "waldensian-confession": 2,
         "belgic-confession": 4,
-        "second-helvetic-confession": 31,
-        "puritan-catechism": 9,
-        "athanasian-creed": 0
+        "95-theses": 10,
+        "irenaeus-rule-of-faith": 0
       },
       "accumulated": [
         12.0,
@@ -81,7 +81,7 @@
         9.0,
         19.0,
         18.0,
-        17.0,
+        18.0,
         10.0,
         31.0,
         4.0,
@@ -97,17 +97,11 @@
         4.0,
         10.0
       ],
-      "turn": 192
+      "turn": 193
     },
-    "last_emitted": "2026-11-06T11:49:56.182691648Z"
+    "last_emitted": "2026-11-07T10:53:13.149560410Z"
   },
   "recent_items": [
-    {
-      "title": "Heidelberg Catechism Q14",
-      "description": "<div style='white-space: pre-wrap;'>Q14. Can any mere creature pay for us?\n\nA. No. In the first place, God will not punish another creature for the sin which man has committed. Furthermore, no mere creature can sustain the burden of God&#39;s eternal wrath against sin and deliver others from it.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Ezek.18.4,Ezek.18.20, Heb.2.14-Heb.2.18\n[2] Ps.130.3, Nah.1.6</div>",
-      "guid": "heidelberg-catechism:q14",
-      "pub_date": "2026-10-28T10:21:34.685133458Z"
-    },
     {
       "title": "Waldensian Confession Art.2",
       "description": "<div style='white-space: pre-wrap;'>Article 2: Article 2\n\nWe do believe that there is one God, Father, Son, &amp; Holy Ghost.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q22. Did all mankind fall in that first transgression ?\n\nA. The covenant being made with Adam as a public person, not for himself only, but for his posterity, all mankind descending from him by ordinary generation, sinned in him, and fell with him in that first transgression.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Acts.17.26\n[2] Gen.2.16-Gen.2.17, Rom.5.12-Rom.5.20, 1Cor.15.21-1Cor.15.22</div>",
       "guid": "westminster-larger-catechism:q22",
       "pub_date": "2026-11-06T11:49:56.182973929Z"
+    },
+    {
+      "title": "Savoy Declaration Ch.3 Sec.5",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 5\n\nThose of mankind that are predestinated unto life, God, before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret counsel and good pleasure of his will, hath chosen in Christ, unto everlasting glory, out of his mere free grace and love, without any foresight of faith or good works, or perseverance in either of them, or any other thing in the creature, as conditions, or causes moving him thereunto; and all to the praise of his glorious grace.</div>",
+      "guid": "savoy-declaration:ch3:sec5",
+      "pub_date": "2026-11-07T10:53:13.149749113Z"
     }
   ]
 }
