@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "westminster-confession": 19,
-        "39-articles": 4,
-        "westminster-larger-catechism": 22,
-        "athanasian-creed": 0,
-        "canons-of-dort": 10,
-        "westminster-shorter-catechism": 12,
-        "london-baptist-1689": 18,
         "puritan-catechism": 9,
-        "1695-baptist-catechism": 13,
-        "chicago-statement": 2,
-        "scots-confession": 3,
-        "second-helvetic-confession": 31,
-        "first-confession-of-basel": 2,
-        "savoy-declaration": 18,
-        "apostles-creed": 0,
-        "nicene-creed": 0,
-        "chalcedonian-definition": 0,
-        "heidelberg-catechism": 14,
         "waldensian-confession": 2,
+        "scots-confession": 3,
+        "westminster-confession": 19,
+        "savoy-declaration": 18,
+        "chalcedonian-definition": 0,
+        "london-baptist-1689": 18,
+        "westminster-larger-catechism": 22,
+        "first-confession-of-basel": 2,
+        "nicene-creed": 0,
+        "heidelberg-catechism": 14,
+        "canons-of-dort": 10,
+        "irenaeus-rule-of-faith": 0,
+        "second-helvetic-confession": 31,
         "belgic-confession": 4,
-        "95-theses": 10,
-        "irenaeus-rule-of-faith": 0
+        "chicago-statement": 2,
+        "39-articles": 4,
+        "95-theses": 11,
+        "athanasian-creed": 0,
+        "apostles-creed": 0,
+        "1695-baptist-catechism": 13,
+        "westminster-shorter-catechism": 12
       },
       "accumulated": [
         12.0,
@@ -95,19 +95,13 @@
         0.0,
         0.0,
         4.0,
-        10.0
+        11.0
       ],
-      "turn": 193
+      "turn": 194
     },
-    "last_emitted": "2026-11-07T10:53:13.149560410Z"
+    "last_emitted": "2026-11-08T11:03:06.591611979Z"
   },
   "recent_items": [
-    {
-      "title": "Waldensian Confession Art.2",
-      "description": "<div style='white-space: pre-wrap;'>Article 2: Article 2\n\nWe do believe that there is one God, Father, Son, &amp; Holy Ghost.</div>",
-      "guid": "waldensian-confession:art2",
-      "pub_date": "2026-10-29T10:42:55.265192062Z"
-    },
     {
       "title": "Second Helvetic Confession Ch.7 Sec.1",
       "description": "<div style='white-space: pre-wrap;'>Chapter 7: Of The Creation of All Things: Of Angels, the Devil, and Man\nSection 1\n\nGOD CREATED ALL THINGS\n\nThis good and almighty God created all things, both visible and invisible, by his co-eternal Word, and preserves them by his co-eternal Spirit, as David testified when he said: &quot;By the word of the Lord the heavens were made, and all their host by the breath of his mouth&quot; (Ps. 33:6). And, as Scripture says, everything that God had made was very good, and was made for the profit and use of man. Now we assert that all those things proceed from one beginning.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 5\n\nThose of mankind that are predestinated unto life, God, before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret counsel and good pleasure of his will, hath chosen in Christ, unto everlasting glory, out of his mere free grace and love, without any foresight of faith or good works, or perseverance in either of them, or any other thing in the creature, as conditions, or causes moving him thereunto; and all to the praise of his glorious grace.</div>",
       "guid": "savoy-declaration:ch3:sec5",
       "pub_date": "2026-11-07T10:53:13.149749113Z"
+    },
+    {
+      "title": "Martin Luther's 95 theses Thesis 11",
+      "description": "<div style='white-space: pre-wrap;'>Thesis 11\n\nThose tares of changing the canonical penalty to the penalty of purgatory were evidently sown while the bishops slept (Mt 13:25).</div>",
+      "guid": "95-theses:thesis11",
+      "pub_date": "2026-11-08T11:03:06.591827319Z"
     }
   ]
 }
