@@ -50,33 +50,33 @@
         95
       ],
       "positions": {
-        "puritan-catechism": 9,
-        "waldensian-confession": 2,
-        "scots-confession": 3,
-        "westminster-confession": 19,
-        "savoy-declaration": 18,
-        "chalcedonian-definition": 0,
-        "london-baptist-1689": 18,
-        "westminster-larger-catechism": 22,
-        "first-confession-of-basel": 2,
-        "nicene-creed": 0,
-        "heidelberg-catechism": 14,
-        "canons-of-dort": 10,
-        "irenaeus-rule-of-faith": 0,
-        "second-helvetic-confession": 31,
-        "belgic-confession": 4,
-        "chicago-statement": 2,
-        "39-articles": 4,
         "95-theses": 11,
+        "second-helvetic-confession": 31,
+        "london-baptist-1689": 18,
+        "puritan-catechism": 9,
+        "belgic-confession": 4,
         "athanasian-creed": 0,
-        "apostles-creed": 0,
+        "savoy-declaration": 18,
+        "heidelberg-catechism": 15,
+        "westminster-shorter-catechism": 12,
+        "chalcedonian-definition": 0,
+        "canons-of-dort": 10,
+        "chicago-statement": 2,
+        "waldensian-confession": 2,
+        "39-articles": 4,
         "1695-baptist-catechism": 13,
-        "westminster-shorter-catechism": 12
+        "scots-confession": 3,
+        "apostles-creed": 0,
+        "westminster-larger-catechism": 22,
+        "nicene-creed": 0,
+        "first-confession-of-basel": 2,
+        "irenaeus-rule-of-faith": 0,
+        "westminster-confession": 19
       },
       "accumulated": [
         12.0,
         22.0,
-        14.0,
+        15.0,
         13.0,
         9.0,
         19.0,
@@ -97,17 +97,11 @@
         4.0,
         11.0
       ],
-      "turn": 194
+      "turn": 195
     },
-    "last_emitted": "2026-11-08T11:03:06.591611979Z"
+    "last_emitted": "2026-11-09T12:32:58.001469434Z"
   },
   "recent_items": [
-    {
-      "title": "Second Helvetic Confession Ch.7 Sec.1",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 7: Of The Creation of All Things: Of Angels, the Devil, and Man\nSection 1\n\nGOD CREATED ALL THINGS\n\nThis good and almighty God created all things, both visible and invisible, by his co-eternal Word, and preserves them by his co-eternal Spirit, as David testified when he said: &quot;By the word of the Lord the heavens were made, and all their host by the breath of his mouth&quot; (Ps. 33:6). And, as Scripture says, everything that God had made was very good, and was made for the profit and use of man. Now we assert that all those things proceed from one beginning.</div>",
-      "guid": "second-helvetic-confession:ch7:sec1",
-      "pub_date": "2026-10-30T10:43:15.565898074Z"
-    },
     {
       "title": "Westminster Shorter Catechism Q12",
       "description": "<div style='white-space: pre-wrap;'>Q12. What special act of providence did God exercise toward man in the estate wherein he was created?\n\nA. When God had created man, he entered into a covenant of life with him, upon condition of perfect obedience; forbidding him to eat of the tree of the knowledge of good and evil, upon pain of death.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Thesis 11\n\nThose tares of changing the canonical penalty to the penalty of purgatory were evidently sown while the bishops slept (Mt 13:25).</div>",
       "guid": "95-theses:thesis11",
       "pub_date": "2026-11-08T11:03:06.591827319Z"
+    },
+    {
+      "title": "Heidelberg Catechism Q15",
+      "description": "<div style='white-space: pre-wrap;'>Q15. What kind of mediator and deliverer must we seek?\n\nA. One who is a true and righteous man, and yet more powerful than all creatures; that is, one who is at the same time true God.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] 1Cor.15.21, Heb.2.17\n[2] Isa.53.9, 2Cor.5.21, Heb.7.26\n[3] Isa.7.14, Isa.9.6, Jer.23.6, John.1.1, Rom.8.3-Rom.8.4</div>",
+      "guid": "heidelberg-catechism:q15",
+      "pub_date": "2026-11-09T12:32:58.001693618Z"
     }
   ]
 }
