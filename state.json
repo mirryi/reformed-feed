@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "heidelberg-catechism": 15,
-        "irenaeus-rule-of-faith": 0,
-        "nicene-creed": 0,
-        "westminster-shorter-catechism": 12,
-        "chicago-statement": 2,
-        "39-articles": 4,
         "london-baptist-1689": 18,
         "first-confession-of-basel": 2,
-        "athanasian-creed": 0,
-        "belgic-confession": 4,
         "1695-baptist-catechism": 13,
-        "second-helvetic-confession": 31,
+        "irenaeus-rule-of-faith": 0,
+        "athanasian-creed": 0,
+        "westminster-shorter-catechism": 12,
         "95-theses": 11,
         "puritan-catechism": 9,
-        "savoy-declaration": 18,
-        "chalcedonian-definition": 0,
-        "canons-of-dort": 11,
+        "belgic-confession": 4,
         "waldensian-confession": 2,
+        "nicene-creed": 0,
+        "second-helvetic-confession": 32,
         "westminster-larger-catechism": 22,
-        "scots-confession": 3,
         "apostles-creed": 0,
-        "westminster-confession": 19
+        "chalcedonian-definition": 0,
+        "chicago-statement": 2,
+        "39-articles": 4,
+        "westminster-confession": 19,
+        "scots-confession": 3,
+        "canons-of-dort": 11,
+        "savoy-declaration": 18,
+        "heidelberg-catechism": 15
       },
       "accumulated": [
         12.0,
@@ -83,7 +83,7 @@
         18.0,
         18.0,
         11.0,
-        31.0,
+        32.0,
         4.0,
         3.0,
         2.0,
@@ -97,17 +97,11 @@
         4.0,
         11.0
       ],
-      "turn": 196
+      "turn": 197
     },
-    "last_emitted": "2026-11-10T12:08:21.278849917Z"
+    "last_emitted": "2026-11-11T11:41:02.339804328Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Confession of Faith Ch.3 Sec.6",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 6\n\nAs God hath appointed the elect unto glory, so hath he, by the eternal and most free purpose of his will, fore-ordained all the means thereunto.[1] Wherefore they who are elected, being fallen in Adam, are redeemed by Christ,[2] are effectually called unto faith in Christ by his Spirit working in due season; are justified, adopted, sanctified,[3] and kept by his power through faith unto salvation.[4] Neither are any other redeemed by Christ, effectually called, justified, adopted, sanctified, and saved, but the elect only.[5]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Eph.1.4-Eph.1.5, Eph.2.10, 2Thess.2.13, 1Pet.1.2\n[3] Rom.8.30, Eph.1.5, 2Thess.2.13\n[2] 1Thess.5.9-1Thess.5.10, Titus.2.14\n[5] John.6.64-John.6.65, John.8.47, John.10.26, John.17.9, Rom.8.28-Rom.8.39, 1John.2.19\n[4] 1Pet.1.5</div>",
-      "guid": "westminster-confession:ch3:sec6",
-      "pub_date": "2026-11-01T11:02:07.300640480Z"
-    },
     {
       "title": "First Confession of Basel Art.II",
       "description": "<div style='white-space: pre-wrap;'>Article II: CONCERNING MAN\n\nWe confess that in the beginning God made man faultless in the likeness of righteousness and holiness. But he willfully fell into sin. Through this fall the whole human race was corrupted and made subject to damnation. Moreover, our nature was enfeebled and became so inclined to sin that, unless it is restored by the Spirit of God, man neither does nor wants to do anything good of himself.[1]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1.26, Eph.4.21, Gen.8.6, Gen.5.3, Rom.5.12,Rom.5.15, 1Cor.15.21, Eph.2.1, Gen.6.5, Gen.8.21, John.3.3, Rom.3.10,Rom.3.23, Ps.143.2,Ps.143.10, Eph.2.1</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 1: Of Divine Predestination\nSection A11\n\nAnd as God Himself is most wise, unchangeable, omniscient and omnipotent, so the election made by Him can neither be interrupted nor changed, recalled or annulled; neither can the elect be cast away, nor their number diminished.</div>",
       "guid": "canons-of-dort:ch1:secA11",
       "pub_date": "2026-11-10T12:08:21.279037259Z"
+    },
+    {
+      "title": "Second Helvetic Confession Ch.7 Sec.3",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 7: Of The Creation of All Things: Of Angels, the Devil, and Man\nSection 3\n\nOF ANGELS AND THE DEVIL\n\nAmong all creatures, angels and men are most excellent. Concerning angels, Holy Scripture declares: &quot;who makest the winds thy messengers, fire and flame thy ministers&quot; (Ps 104:4). Also it says: &quot;Are they not all ministering spirits sent forth to serve, for the sake of those who are to obtain salvation?&quot; (Heb. 1:14). Concerning the Devil, the Lord Jesus Himself testifies: &quot;He was a murderer from the beginning, and has nothing to do with the truth, because there is no truth in him. When he lies, he speaks according to his own nature, for he is a liar and the father of lies&quot; (John 8:44). Consequently we teach that some angels persisted in obedience and were appointed for faithful service to God and men, but others fell of their own free will and were cast into destruction, becoming enemies of all good and of the faithful, etc....</div>",
+      "guid": "second-helvetic-confession:ch7:sec3",
+      "pub_date": "2026-11-11T11:41:02.339981495Z"
     }
   ]
 }
