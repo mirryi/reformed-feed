@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "london-baptist-1689": 18,
-        "first-confession-of-basel": 2,
-        "1695-baptist-catechism": 13,
-        "irenaeus-rule-of-faith": 0,
-        "athanasian-creed": 0,
-        "westminster-shorter-catechism": 12,
         "95-theses": 11,
-        "puritan-catechism": 9,
-        "belgic-confession": 4,
-        "waldensian-confession": 2,
         "nicene-creed": 0,
-        "second-helvetic-confession": 32,
-        "westminster-larger-catechism": 22,
-        "apostles-creed": 0,
+        "belgic-confession": 4,
+        "westminster-shorter-catechism": 12,
+        "athanasian-creed": 0,
+        "puritan-catechism": 9,
+        "irenaeus-rule-of-faith": 0,
+        "waldensian-confession": 2,
         "chalcedonian-definition": 0,
+        "westminster-confession": 20,
+        "london-baptist-1689": 18,
+        "second-helvetic-confession": 32,
+        "savoy-declaration": 18,
+        "apostles-creed": 0,
+        "1695-baptist-catechism": 13,
+        "westminster-larger-catechism": 22,
+        "heidelberg-catechism": 15,
+        "first-confession-of-basel": 2,
+        "scots-confession": 3,
         "chicago-statement": 2,
         "39-articles": 4,
-        "westminster-confession": 19,
-        "scots-confession": 3,
-        "canons-of-dort": 11,
-        "savoy-declaration": 18,
-        "heidelberg-catechism": 15
+        "canons-of-dort": 11
       },
       "accumulated": [
         12.0,
@@ -79,7 +79,7 @@
         15.0,
         13.0,
         9.0,
-        19.0,
+        20.0,
         18.0,
         18.0,
         11.0,
@@ -97,17 +97,11 @@
         4.0,
         11.0
       ],
-      "turn": 197
+      "turn": 198
     },
-    "last_emitted": "2026-11-11T11:41:02.339804328Z"
+    "last_emitted": "2026-11-12T12:12:43.043264261Z"
   },
   "recent_items": [
-    {
-      "title": "First Confession of Basel Art.II",
-      "description": "<div style='white-space: pre-wrap;'>Article II: CONCERNING MAN\n\nWe confess that in the beginning God made man faultless in the likeness of righteousness and holiness. But he willfully fell into sin. Through this fall the whole human race was corrupted and made subject to damnation. Moreover, our nature was enfeebled and became so inclined to sin that, unless it is restored by the Spirit of God, man neither does nor wants to do anything good of himself.[1]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1.26, Eph.4.21, Gen.8.6, Gen.5.3, Rom.5.12,Rom.5.15, 1Cor.15.21, Eph.2.1, Gen.6.5, Gen.8.21, John.3.3, Rom.3.10,Rom.3.23, Ps.143.2,Ps.143.10, Eph.2.1</div>",
-      "guid": "first-confession-of-basel:artII",
-      "pub_date": "2026-11-02T12:00:16.123424967Z"
-    },
     {
       "title": "London Baptist Confession of 1689 Ch.3 Sec.5",
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Decree\nSection 5\n\nThose of mankind that are predestinated to life, God before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret Councel and good pleasure of his will, hath chosen in Christ unto everlasting glory, out of his meer free grace and love; without any other thing in the creature as a condition or cause moving him thereunto.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 7: Of The Creation of All Things: Of Angels, the Devil, and Man\nSection 3\n\nOF ANGELS AND THE DEVIL\n\nAmong all creatures, angels and men are most excellent. Concerning angels, Holy Scripture declares: &quot;who makest the winds thy messengers, fire and flame thy ministers&quot; (Ps 104:4). Also it says: &quot;Are they not all ministering spirits sent forth to serve, for the sake of those who are to obtain salvation?&quot; (Heb. 1:14). Concerning the Devil, the Lord Jesus Himself testifies: &quot;He was a murderer from the beginning, and has nothing to do with the truth, because there is no truth in him. When he lies, he speaks according to his own nature, for he is a liar and the father of lies&quot; (John 8:44). Consequently we teach that some angels persisted in obedience and were appointed for faithful service to God and men, but others fell of their own free will and were cast into destruction, becoming enemies of all good and of the faithful, etc....</div>",
       "guid": "second-helvetic-confession:ch7:sec3",
       "pub_date": "2026-11-11T11:41:02.339981495Z"
+    },
+    {
+      "title": "Westminster Confession of Faith Ch.3 Sec.7",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 7\n\nThe rest of mankind God was pleased, according to the unsearchable counsel of his own will, whereby he extendeth or withholdeth mercy as he pleaseth, for the glory of his sovereign power over his creatures, to pass by, and to ordain them to dishonor and wrath for their sin, to the praise of his glorious justice.[1]</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Matt.11.25-Matt.11.26, Rom.9.17-Rom.9.18, Rom.9.21-Rom.9.22, 2Tim.2.19-2Tim.2.20, 1Pet.2.8, Jude.1.4</div>",
+      "guid": "westminster-confession:ch3:sec7",
+      "pub_date": "2026-11-12T12:12:43.043517785Z"
     }
   ]
 }
