@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "chicago-statement": 2,
-        "savoy-declaration": 18,
+        "savoy-declaration": 19,
         "heidelberg-catechism": 15,
+        "chicago-statement": 2,
         "waldensian-confession": 2,
-        "first-confession-of-basel": 2,
-        "39-articles": 5,
-        "nicene-creed": 0,
-        "westminster-larger-catechism": 23,
-        "canons-of-dort": 11,
-        "athanasian-creed": 0,
-        "95-theses": 11,
-        "scots-confession": 3,
-        "apostles-creed": 0,
-        "westminster-confession": 20,
-        "belgic-confession": 4,
-        "chalcedonian-definition": 0,
-        "1695-baptist-catechism": 13,
-        "irenaeus-rule-of-faith": 0,
-        "puritan-catechism": 10,
-        "second-helvetic-confession": 32,
         "london-baptist-1689": 19,
-        "westminster-shorter-catechism": 12
+        "first-confession-of-basel": 2,
+        "athanasian-creed": 0,
+        "scots-confession": 3,
+        "nicene-creed": 0,
+        "1695-baptist-catechism": 13,
+        "chalcedonian-definition": 0,
+        "puritan-catechism": 10,
+        "westminster-shorter-catechism": 12,
+        "westminster-larger-catechism": 23,
+        "apostles-creed": 0,
+        "belgic-confession": 4,
+        "irenaeus-rule-of-faith": 0,
+        "westminster-confession": 20,
+        "second-helvetic-confession": 32,
+        "39-articles": 5,
+        "95-theses": 11,
+        "canons-of-dort": 11
       },
       "accumulated": [
         12.0,
@@ -81,7 +81,7 @@
         10.0,
         20.0,
         19.0,
-        18.0,
+        19.0,
         11.0,
         32.0,
         4.0,
@@ -97,17 +97,11 @@
         5.0,
         11.0
       ],
-      "turn": 202
+      "turn": 203
     },
-    "last_emitted": "2026-11-16T12:26:56.244257652Z"
+    "last_emitted": "2026-11-17T12:47:44.965157728Z"
   },
   "recent_items": [
-    {
-      "title": "Savoy Declaration Ch.3 Sec.5",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 5\n\nThose of mankind that are predestinated unto life, God, before the foundation of the world was laid, according to his eternal and immutable purpose, and the secret counsel and good pleasure of his will, hath chosen in Christ, unto everlasting glory, out of his mere free grace and love, without any foresight of faith or good works, or perseverance in either of them, or any other thing in the creature, as conditions, or causes moving him thereunto; and all to the praise of his glorious grace.</div>",
-      "guid": "savoy-declaration:ch3:sec5",
-      "pub_date": "2026-11-07T10:53:13.149749113Z"
-    },
     {
       "title": "Martin Luther's 95 theses Thesis 11",
       "description": "<div style='white-space: pre-wrap;'>Thesis 11\n\nThose tares of changing the canonical penalty to the penalty of purgatory were evidently sown while the bishops slept (Mt 13:25).</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q10. How did God create man?\n\nA. God created man, male and female, after his own image, in knowledge, righteousness, and holiness with dominion over the creatures.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Gen.1.27\n[2] Col.3.10, Eph.4.24\n[3] Gen.1.28</div>",
       "guid": "puritan-catechism:q10",
       "pub_date": "2026-11-16T12:26:56.244473781Z"
+    },
+    {
+      "title": "Savoy Declaration Ch.3 Sec.6",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 6\n\nAs God hath appointed the elect unto glory, so hath he, by the eternal and most free purpose of his will, fore-ordained all the means thereunto. Wherefore they who are elected, being fallen in Adam, are redeemed by Christ, are effectually called unto faith in Christ by his Spirit working in due season; are justified, adopted, sanctified, and kept by his power through faith unto salvation. Neither are any other redeemed by Christ, effectually called, justified, adopted, sanctified, and saved, but the elect only.</div>",
+      "guid": "savoy-declaration:ch3:sec6",
+      "pub_date": "2026-11-17T12:47:44.965415022Z"
     }
   ]
 }
