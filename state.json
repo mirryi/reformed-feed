@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "savoy-declaration": 19,
-        "nicene-creed": 0,
-        "scots-confession": 3,
-        "westminster-larger-catechism": 24,
-        "irenaeus-rule-of-faith": 0,
-        "95-theses": 11,
-        "second-helvetic-confession": 33,
-        "chalcedonian-definition": 0,
-        "1695-baptist-catechism": 14,
-        "39-articles": 5,
         "apostles-creed": 0,
-        "westminster-shorter-catechism": 13,
+        "second-helvetic-confession": 34,
         "canons-of-dort": 11,
-        "heidelberg-catechism": 16,
-        "belgic-confession": 4,
+        "athanasian-creed": 0,
+        "95-theses": 11,
+        "westminster-shorter-catechism": 13,
         "westminster-confession": 21,
         "chicago-statement": 2,
-        "athanasian-creed": 0,
+        "nicene-creed": 0,
+        "heidelberg-catechism": 16,
+        "belgic-confession": 4,
         "london-baptist-1689": 19,
+        "39-articles": 5,
         "first-confession-of-basel": 2,
         "puritan-catechism": 10,
-        "waldensian-confession": 2
+        "1695-baptist-catechism": 14,
+        "scots-confession": 3,
+        "westminster-larger-catechism": 24,
+        "waldensian-confession": 2,
+        "irenaeus-rule-of-faith": 0,
+        "chalcedonian-definition": 0,
+        "savoy-declaration": 19
       },
       "accumulated": [
         13.0,
@@ -83,7 +83,7 @@
         19.0,
         19.0,
         11.0,
-        33.0,
+        34.0,
         4.0,
         3.0,
         2.0,
@@ -97,17 +97,11 @@
         5.0,
         11.0
       ],
-      "turn": 209
+      "turn": 210
     },
-    "last_emitted": "2026-11-23T14:02:26.052422460Z"
+    "last_emitted": "2026-11-24T14:33:40.924296846Z"
   },
   "recent_items": [
-    {
-      "title": "Westminster Larger Catechism Q23",
-      "description": "<div style='white-space: pre-wrap;'>Q23. Into what estate did the fall bring mankind?\n\nA. The fall brought mankind into an estate of sin and misery.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.3.23, Rom.5.12</div>",
-      "guid": "westminster-larger-catechism:q23",
-      "pub_date": "2026-11-14T11:13:44.362684279Z"
-    },
     {
       "title": "London Baptist Confession of 1689 Ch.3 Sec.6",
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Decree\nSection 6\n\nAs God hath appointed the Elect unto glory, so he hath by the eternal and most free purpose of his will, fore-ordained all the means thereunto, wherefore they who are elected, being faln in Adam, are redeemed by Christ, are effectually called unto faith in Christ, by his spirit working in due season, are justifyed, adopted, sanctified, and kept by his power through faith unto salvation; neither are any other redeemed by Christ, or effectually called, justified, adopted, sanctified, and saved, but the Elect only.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Q16. Why must He be a true and righteous man?\n\nA. He must be a true man because the justice of God requires that the same human nature which has sinned should pay for sin. He must be a righteous man because one who himself is a sinner cannot pay for others.</div><hr/><div style='white-space: pre-wrap; color: #666;'>Scripture References:\n[1] Rom.5.12,Rom.5.15, 1Cor.15.21, Heb.2.14-Heb.2.16\n[2] Heb.7.26-Heb.7.27, 1Pet.3.18</div>",
       "guid": "heidelberg-catechism:q16",
       "pub_date": "2026-11-23T14:02:26.052601907Z"
+    },
+    {
+      "title": "Second Helvetic Confession Ch.7 Sec.5",
+      "description": "<div style='white-space: pre-wrap;'>Chapter 7: Of The Creation of All Things: Of Angels, the Devil, and Man\nSection 5\n\nTHE SECTS\n\nWe condemn all who ridicule or by subtle arguments cast doubt upon the immortality of the soul, or who say that the soul sleeps or is a part of God. In short, we condemn all opinions of all men, however many, that depart from what has been delivered unto us by the Holy Scriptures in the Apostolic Church of Christ concerning creation, angels, and demons, and man.</div>",
+      "guid": "second-helvetic-confession:ch7:sec5",
+      "pub_date": "2026-11-24T14:33:40.924515011Z"
     }
   ]
 }
