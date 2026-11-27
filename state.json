@@ -50,28 +50,28 @@
         95
       ],
       "positions": {
-        "95-theses": 12,
-        "westminster-larger-catechism": 24,
-        "belgic-confession": 4,
-        "westminster-confession": 21,
-        "1695-baptist-catechism": 14,
-        "london-baptist-1689": 20,
-        "nicene-creed": 0,
         "irenaeus-rule-of-faith": 0,
-        "chicago-statement": 2,
-        "savoy-declaration": 19,
+        "chalcedonian-definition": 0,
+        "second-helvetic-confession": 34,
+        "1695-baptist-catechism": 14,
+        "westminster-shorter-catechism": 13,
+        "belgic-confession": 5,
+        "scots-confession": 3,
         "canons-of-dort": 11,
-        "apostles-creed": 0,
+        "95-theses": 12,
+        "39-articles": 5,
+        "nicene-creed": 0,
+        "westminster-larger-catechism": 24,
+        "london-baptist-1689": 20,
+        "savoy-declaration": 19,
+        "puritan-catechism": 10,
+        "first-confession-of-basel": 2,
         "athanasian-creed": 0,
         "heidelberg-catechism": 16,
-        "westminster-shorter-catechism": 13,
-        "chalcedonian-definition": 0,
-        "scots-confession": 3,
-        "puritan-catechism": 10,
-        "39-articles": 5,
-        "second-helvetic-confession": 34,
-        "first-confession-of-basel": 2,
-        "waldensian-confession": 2
+        "waldensian-confession": 2,
+        "westminster-confession": 21,
+        "apostles-creed": 0,
+        "chicago-statement": 2
       },
       "accumulated": [
         13.0,
@@ -84,7 +84,7 @@
         19.0,
         11.0,
         34.0,
-        4.0,
+        5.0,
         3.0,
         2.0,
         2.0,
@@ -97,17 +97,11 @@
         5.0,
         12.0
       ],
-      "turn": 212
+      "turn": 213
     },
-    "last_emitted": "2026-11-26T13:33:26.674320815Z"
+    "last_emitted": "2026-11-27T13:30:03.245450550Z"
   },
   "recent_items": [
-    {
-      "title": "Savoy Declaration Ch.3 Sec.6",
-      "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Eternal Decree\nSection 6\n\nAs God hath appointed the elect unto glory, so hath he, by the eternal and most free purpose of his will, fore-ordained all the means thereunto. Wherefore they who are elected, being fallen in Adam, are redeemed by Christ, are effectually called unto faith in Christ by his Spirit working in due season; are justified, adopted, sanctified, and kept by his power through faith unto salvation. Neither are any other redeemed by Christ, effectually called, justified, adopted, sanctified, and saved, but the elect only.</div>",
-      "guid": "savoy-declaration:ch3:sec6",
-      "pub_date": "2026-11-17T12:47:44.965415022Z"
-    },
     {
       "title": "Second Helvetic Confession Ch.7 Sec.4",
       "description": "<div style='white-space: pre-wrap;'>Chapter 7: Of The Creation of All Things: Of Angels, the Devil, and Man\nSection 4\n\nOF MAN\n\nNow concerning, Scripture says that in the beginning he was made good according to the image and likeness of God; that God placed him in paradise and made all thing subject to him (Gen. chp 2). This is what David magnificently sets forth in Psalm 8. Moreover, God gave him a wife and blessed them. We also affirm that man consists of two different substances in one person: an immortal soul which, when separate from the body, neither sleeps nor dies, and a mortal body which will nevertheless be raised up from the dead at the last judgement, in order that then the whole man, either in life or in death, abide forever.</div>",
@@ -161,6 +155,12 @@
       "description": "<div style='white-space: pre-wrap;'>Chapter 3: Of God&#39;s Decree\nSection 7\n\nThe Doctrine of this high mystery of predestination, is to be handled with special prudence, and care; that men attending the will of God revealed in his word, and yeilding obedience thereunto, may from the certainty of their effectual vocation, be assured of their eternal election; so shall this doctrine afford matter of praise, reverence, and admiration of God, and of humility, diligence, and abundant consolation, to all that sincerely obey the Gospel.</div>",
       "guid": "london-baptist-1689:ch3:sec7",
       "pub_date": "2026-11-26T13:33:26.674559280Z"
+    },
+    {
+      "title": "Belgic Confession Art.5",
+      "description": "<div style='white-space: pre-wrap;'>Article 5: The Authority of Scripture\n\nWe receive all these books and these only as holy and canonical, for the regulating, founding, and establishing of our faith. And we believe without a doubt all things contained in them- not so much because the church receives and approves them as such but above all because the Holy Spirit testifies in our hearts that they are from God, and also because they prove themselves to be from God. For even the blind themselves are able to see that the things predicted in them do happen.</div>",
+      "guid": "belgic-confession:art5",
+      "pub_date": "2026-11-27T13:30:03.245669151Z"
     }
   ]
 }
